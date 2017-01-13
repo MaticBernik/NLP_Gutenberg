@@ -1,0 +1,6 @@
+authors<-c('Dickens, Charles','Carroll, Lewis', 'Twain, Mark', 'Joyce, James', 'Wilde, Oscar', 'Plato', 'Dostoyevsky, Fyodor', 'Shakespeare, William', 'Homer', 'Defoe, Daniel', 'Christie, Agatha', 'Flaubert, Gustave', 'Einstein, Albert', 'Asimov, Isaac', 'London, Jack', 'Ibsen, Henrik'   )
+#go through all authors
+for (a in authors){
+	print(a)
+	print(gutenberg_works(author == a))	
+}
