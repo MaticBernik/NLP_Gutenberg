@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+8578	314	Dostoyevsky, Fyodor	The Grand Inquisitor	Racism	en	TRUE

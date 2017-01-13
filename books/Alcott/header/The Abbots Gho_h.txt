@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+8694	102	Alcott, Louisa May	The Abbot's Ghost, or Maurice Treherne's Temptation: A Christmas Story	Christmas	en	TRUE

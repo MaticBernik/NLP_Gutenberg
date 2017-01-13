@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+40580	204	Defoe, Daniel	A General History of the Pyrates:
+from their first rise and settlement in the island of Providence, to the present time	NA	en	TRUE

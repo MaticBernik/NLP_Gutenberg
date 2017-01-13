@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+36034	314	Dostoyevsky, Fyodor	White Nights and Other Stories
+The Novels of Fyodor Dostoevsky, Volume X	NA	en	TRUE

@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+32405	204	Defoe, Daniel	Augusta Triumphans
+Or, the Way to Make London the Most Flourishing City in the Universe	NA	en	TRUE

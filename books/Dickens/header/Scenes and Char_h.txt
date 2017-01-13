@@ -1,0 +1,4 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+43207	37	Dickens, Charles	Scenes and Characters from the Works of Charles Dickens
+Being Eight Hundred and Sixty-six Pictures Printed From
+the Original Wood Blocks	NA	en	TRUE

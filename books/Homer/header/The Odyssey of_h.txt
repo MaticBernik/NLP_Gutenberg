@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+24269	705	Homer	The Odyssey of Homer	Classical Antiquity/Poetry	en	TRUE

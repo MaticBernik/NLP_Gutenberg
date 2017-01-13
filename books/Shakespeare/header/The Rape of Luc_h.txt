@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1505	65	Shakespeare, William	The Rape of Lucrece	NA	en	TRUE

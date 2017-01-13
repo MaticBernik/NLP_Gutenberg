@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+2257	65	Shakespeare, William	Richard III	NA	en	TRUE

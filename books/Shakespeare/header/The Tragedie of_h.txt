@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+10606	65	Shakespeare, William	The Tragedie of Hamlet, Prince of Denmark
+A Study with the Text of the Folio of 1623	Best Books Ever Listings	en	TRUE

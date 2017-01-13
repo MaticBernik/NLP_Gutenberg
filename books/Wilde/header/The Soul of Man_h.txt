@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1017	111	Wilde, Oscar	The Soul of Man under Socialism	NA	en	TRUE

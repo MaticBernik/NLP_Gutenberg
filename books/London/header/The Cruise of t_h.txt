@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+11051	120	London, Jack	The Cruise of the Dazzler	NA	en	TRUE

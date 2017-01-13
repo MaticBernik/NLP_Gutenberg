@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+7333	1630	Einstein, Albert	Sidelights on Relativity	NA	en	TRUE

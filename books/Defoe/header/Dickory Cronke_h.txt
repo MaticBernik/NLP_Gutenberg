@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+2051	204	Defoe, Daniel	Dickory Cronke: The Dumb Philosopher, or, Great Britain's Wonder	NA	en	TRUE

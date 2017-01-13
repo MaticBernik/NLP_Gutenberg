@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+35774	204	Defoe, Daniel	A New Voyage Round the World by a Course Never Sailed Before	NA	en	TRUE

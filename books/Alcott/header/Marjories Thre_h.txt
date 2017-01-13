@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+5352	102	Alcott, Louisa May	Marjorie's Three Gifts	Children's Literature	en	TRUE

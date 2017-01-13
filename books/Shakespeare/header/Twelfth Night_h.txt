@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+2247	65	Shakespeare, William	Twelfth Night	NA	en	TRUE

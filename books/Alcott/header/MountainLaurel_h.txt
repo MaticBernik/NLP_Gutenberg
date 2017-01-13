@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+37807	102	Alcott, Louisa May	Mountain-Laurel and Maidenhair	NA	en	TRUE

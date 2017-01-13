@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+30273	90	Eliot, George	Tom and Maggie Tulliver	NA	en	TRUE

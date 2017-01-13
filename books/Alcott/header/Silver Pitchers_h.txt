@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+34920	102	Alcott, Louisa May	Silver Pitchers: and Independence, a Centennial Love Story	NA	en	TRUE

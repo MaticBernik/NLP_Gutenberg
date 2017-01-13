@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+7516	104	Wharton, Edith	Crucial Instances	NA	en	TRUE

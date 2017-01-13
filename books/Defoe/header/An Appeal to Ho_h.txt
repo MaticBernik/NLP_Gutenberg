@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+32139	204	Defoe, Daniel	An Appeal to Honour and Justice, Though It Be of His Worst Enemies.
+Being A True Account of His Conduct in Public Affairs.	NA	en	TRUE

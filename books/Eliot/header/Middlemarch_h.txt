@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+145	90	Eliot, George	Middlemarch	Historical Fiction/Best Books Ever Listings	en	TRUE

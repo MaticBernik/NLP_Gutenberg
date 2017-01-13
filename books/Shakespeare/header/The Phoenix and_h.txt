@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1525	65	Shakespeare, William	The Phoenix and the Turtle	NA	en	TRUE

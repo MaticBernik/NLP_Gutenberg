@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+18428	861	Ibsen, Henrik	The Feast at Solhoug	NA	en	TRUE

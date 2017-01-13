@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+32384	204	Defoe, Daniel	An Humble Proposal to the People of England, for the Increase of their Trade, and Encouragement of Their Manufactures
+Whether the Present Uncertainty of Affairs Issues in Peace or War	NA	en	TRUE

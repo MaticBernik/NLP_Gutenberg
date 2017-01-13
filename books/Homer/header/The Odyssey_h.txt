@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+3160	705	Homer	The Odyssey	Harvard Classics/Banned Books from Anne Haight's list/Classical Antiquity	en	TRUE

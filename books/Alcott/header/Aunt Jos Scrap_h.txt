@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+27567	102	Alcott, Louisa May	Aunt Jo's Scrap-Bag VI
+An Old-Fashioned Thanksgiving, Etc.	NA	en	TRUE

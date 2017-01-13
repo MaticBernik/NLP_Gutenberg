@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+3192	53	Twain, Mark	The Curious Republic of Gondour, and Other Whimsical Sketches	NA	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+4695	61	Shelley, Mary Wollstonecraft	Notes to the Complete Poetical Works of Percy Bysshe Shelley	NA	en	TRUE

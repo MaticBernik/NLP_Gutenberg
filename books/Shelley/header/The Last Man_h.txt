@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+18247	61	Shelley, Mary Wollstonecraft	The Last Man	Science Fiction by Women/Precursors of Science Fiction	en	TRUE

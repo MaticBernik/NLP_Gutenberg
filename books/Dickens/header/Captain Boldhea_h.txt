@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+23765	37	Dickens, Charles	Captain Boldheart & the Latin-Grammar Master
+A Holiday Romance from the Pen of Lieut-Col. Robin Redforth, aged 9	Children's Picture Books	en	TRUE

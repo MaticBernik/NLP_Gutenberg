@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+23043	65	Shakespeare, William	Two Gentlemen of Verona
+The Works of William Shakespeare [Cambridge Edition] [9 vols.]	NA	en	TRUE

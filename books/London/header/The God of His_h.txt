@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1655	120	London, Jack	The God of His Fathers: Tales of the Klondyke	NA	en	TRUE

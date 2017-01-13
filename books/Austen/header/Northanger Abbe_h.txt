@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+121	68	Austen, Jane	Northanger Abbey	Gothic Fiction	en	TRUE

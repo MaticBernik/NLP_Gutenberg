@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+4300	1039	Joyce, James	Ulysses	Banned Books from Anne Haight's list/Erotic Fiction/Best Books Ever Listings	en	TRUE

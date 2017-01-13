@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+36769	204	Defoe, Daniel	And What if the Pretender should Come?
+Or Some Considerations of the Advantages and Real Consequences of the Pretender's Possessing the Crown of Great Britain	NA	en	TRUE

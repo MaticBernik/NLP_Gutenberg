@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+863	451	Christie, Agatha	The Mysterious Affair at Styles	Detective Fiction	en	TRUE

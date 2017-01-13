@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+3250	53	Twain, Mark	How to Tell a Story, and Other Essays	NA	en	TRUE

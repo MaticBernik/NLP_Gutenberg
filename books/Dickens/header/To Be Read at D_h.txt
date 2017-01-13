@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+924	37	Dickens, Charles	To Be Read at Dusk	NA	en	TRUE

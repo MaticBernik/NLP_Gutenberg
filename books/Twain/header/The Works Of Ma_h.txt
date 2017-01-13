@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+28803	53	Twain, Mark	The Works Of Mark Twain
+An Index of all Project Gutenberg Editions	NA	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+3188	53	Twain, Mark	Mark Twain's Speeches	NA	en	TRUE

@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+51355	705	Homer	The Iliads of Homer
+Translated according to the Greek	NA	en	TRUE

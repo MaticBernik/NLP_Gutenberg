@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+35497	7	Carroll, Lewis	Three Sunsets and Other Poems	NA	en	TRUE

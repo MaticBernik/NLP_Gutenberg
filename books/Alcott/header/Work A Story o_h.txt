@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+4770	102	Alcott, Louisa May	Work: A Story of Experience	NA	en	TRUE

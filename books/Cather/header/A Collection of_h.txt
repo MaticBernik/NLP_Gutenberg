@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+25586	22	Cather, Willa	A Collection of Stories, Reviews and Essays	NA	en	TRUE

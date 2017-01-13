@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+917	37	Dickens, Charles	Barnaby Rudge: A Tale of the Riots of 'Eighty	Historical Fiction	en	TRUE

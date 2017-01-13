@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1528	65	Shakespeare, William	The History of Troilus and Cressida	NA	en	TRUE

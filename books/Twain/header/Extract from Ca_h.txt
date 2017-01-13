@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1044	53	Twain, Mark	Extract from Captain Stormfield's Visit to Heaven	NA	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+29888	7	Carroll, Lewis	The Hunting of the Snark: An Agony, in Eight Fits	NA	en	TRUE

@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+49821	35316	Asimov, Isaac	Worlds Within Worlds: The Story of Nuclear Energy, Volume 3 (of 3)
+Nuclear Fission; Nuclear Fusion; Beyond Fusion	NA	en	TRUE

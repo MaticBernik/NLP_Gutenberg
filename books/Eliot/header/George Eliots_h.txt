@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+43045	90	Eliot, George	George Eliot's Life, Vol. III (of 3)
+as related in her Letters and Journals	NA	en	TRUE

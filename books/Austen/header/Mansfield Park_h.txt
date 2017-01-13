@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+141	68	Austen, Jane	Mansfield Park	NA	en	TRUE

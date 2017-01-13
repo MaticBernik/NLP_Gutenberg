@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+10360	102	Alcott, Louisa May	Kitty's Class Day and Other Stories	Children's Literature	en	TRUE

@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+9077	65	Shakespeare, William	The Tragicall Historie of Hamlet, Prince of Denmarke
+The First ('Bad') Quarto	Best Books Ever Listings	en	TRUE

@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+36628	204	Defoe, Daniel	Reasons Against the Succession of the House of Hanover
+With an Enquiry How Far the Abdication of King James, Supposing It to Be Legal, Ought to Affect the Person of the Pretender	NA	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+36221	102	Alcott, Louisa May	Spinning-Wheel Stories	NA	en	TRUE

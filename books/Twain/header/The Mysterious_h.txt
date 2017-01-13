@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+50109	53	Twain, Mark	The Mysterious Stranger: A Romance	NA	en	TRUE

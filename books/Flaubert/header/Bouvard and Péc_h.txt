@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+46909	574	Flaubert, Gustave	Bouvard and Pécuchet, part 2
+A Tragi-comic Novel of Bougeois Life, vol. X	NA	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+42104	111	Wilde, Oscar	Children in Prison and Other Cruelties of Prison Life	NA	en	TRUE

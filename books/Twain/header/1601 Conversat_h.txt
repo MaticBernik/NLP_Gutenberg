@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+3190	53	Twain, Mark	1601: Conversation as it was by the Social Fireside in the Time of the Tudors	NA	en	TRUE

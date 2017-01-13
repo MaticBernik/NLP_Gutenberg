@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+142	53	Twain, Mark	The $30,000 Bequest, and Other Stories	NA	en	TRUE

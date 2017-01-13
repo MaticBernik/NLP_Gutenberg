@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1465	37	Dickens, Charles	The Wreck of the Golden Mary	NA	en	TRUE

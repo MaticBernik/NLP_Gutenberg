@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+14654	120	London, Jack	A Daughter of the Snows	NA	en	TRUE

@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+36656	204	Defoe, Daniel	A Seasonable Warning and Caution against the Insinuations of Papists and Jacobites in favour of the Pretender
+Being a Letter from an Englishman at the Court of Hanover	NA	en	TRUE

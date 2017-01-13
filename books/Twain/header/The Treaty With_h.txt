@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+33077	53	Twain, Mark	The Treaty With China, its Provisions Explained
+New York Tribune, Tuesday, August 28, 1868	NA	en	TRUE

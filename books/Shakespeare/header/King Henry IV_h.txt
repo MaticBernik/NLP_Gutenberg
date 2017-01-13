@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1518	65	Shakespeare, William	King Henry IV, Second Part	NA	en	TRUE

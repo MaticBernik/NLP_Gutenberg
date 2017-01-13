@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+7556	53	Twain, Mark	Quotes and Images From The Works of Mark Twain	NA	en	TRUE

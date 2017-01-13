@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+6422	204	Defoe, Daniel	The Life, Adventures & Piracies of the Famous Captain Singleton	Pirates, Buccaneers, Corsairs, etc./Crime Nonfiction	en	TRUE

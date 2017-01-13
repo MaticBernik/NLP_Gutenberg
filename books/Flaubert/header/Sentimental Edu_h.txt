@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+34828	574	Flaubert, Gustave	Sentimental Education; Or, The History of a Young Man. Volume 1	Best Books Ever Listings	en	TRUE

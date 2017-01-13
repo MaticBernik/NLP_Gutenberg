@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+2765	861	Ibsen, Henrik	The Lady from the Sea	NA	en	TRUE

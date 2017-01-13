@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+14233	574	Flaubert, Gustave	Over Strand and Field: A Record of Travel through Brittany	NA	en	TRUE

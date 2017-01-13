@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+24856	705	Homer	Odysseus, the Hero of Ithaca
+Adapted from the Third Book of the Primary Schools of Athens, Greece	NA	en	TRUE

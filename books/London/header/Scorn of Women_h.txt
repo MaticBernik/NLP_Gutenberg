@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+48474	120	London, Jack	Scorn of Women
+A Play In Three Acts	NA	en	TRUE

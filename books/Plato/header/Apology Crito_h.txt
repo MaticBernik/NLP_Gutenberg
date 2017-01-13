@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+13726	93	Plato	Apology, Crito, and Phaedo of Socrates	Harvard Classics	en	TRUE

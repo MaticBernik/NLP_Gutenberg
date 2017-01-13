@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+710	120	London, Jack	Love of Life, and Other Stories	NA	en	TRUE

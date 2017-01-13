@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+17221	204	Defoe, Daniel	History of the Plague in London	Children's History/Historical Fiction	en	TRUE

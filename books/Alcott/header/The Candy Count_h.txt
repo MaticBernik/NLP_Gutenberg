@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+25165	102	Alcott, Louisa May	The Candy Country	NA	en	TRUE

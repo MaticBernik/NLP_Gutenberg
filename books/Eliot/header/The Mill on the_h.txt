@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+6688	90	Eliot, George	The Mill on the Floss	Harvard Classics	en	TRUE

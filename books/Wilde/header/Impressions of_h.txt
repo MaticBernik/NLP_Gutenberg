@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+41806	111	Wilde, Oscar	Impressions of America	NA	en	TRUE

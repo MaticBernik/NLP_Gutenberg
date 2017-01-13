@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+2266	65	Shakespeare, William	King Lear	Banned Books from Anne Haight's list/Best Books Ever Listings	en	TRUE

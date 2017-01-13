@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+25854	37	Dickens, Charles	The Letters of Charles Dickens
+Vol. 3, 1836-1870	NA	en	TRUE

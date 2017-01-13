@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+41127	102	Alcott, Louisa May	Rose in Bloom
+A Sequel to 'Eight Cousins'	NA	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+2572	53	Twain, Mark	On the Decay of the Art of Lying	NA	en	TRUE

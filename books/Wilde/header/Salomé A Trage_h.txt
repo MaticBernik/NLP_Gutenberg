@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+42704	111	Wilde, Oscar	Salomé: A Tragedy in One Act	NA	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+16257	120	London, Jack	The Turtles of Tasman	NA	en	TRUE

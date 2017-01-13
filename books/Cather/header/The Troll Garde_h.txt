@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+346	22	Cather, Willa	The Troll Garden, and Selected Stories	NA	en	TRUE

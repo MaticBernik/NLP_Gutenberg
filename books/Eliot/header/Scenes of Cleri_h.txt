@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+17780	90	Eliot, George	Scenes of Clerical Life	NA	en	TRUE

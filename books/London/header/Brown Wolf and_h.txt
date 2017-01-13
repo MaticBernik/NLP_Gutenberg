@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+12336	120	London, Jack	Brown Wolf and Other Jack London Stories
+Chosen and Edited By Franklin K. Mathiews	NA	en	TRUE

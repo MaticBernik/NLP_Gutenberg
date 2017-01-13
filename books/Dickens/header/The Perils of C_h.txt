@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1406	37	Dickens, Charles	The Perils of Certain English Prisoners	NA	en	TRUE

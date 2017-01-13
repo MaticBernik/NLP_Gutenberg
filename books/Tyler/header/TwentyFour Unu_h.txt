@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+34618	37125	Tyler, Anna Cogswell	Twenty-Four Unusual Stories for Boys and Girls	NA	en	TRUE

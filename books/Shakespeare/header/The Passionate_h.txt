@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1544	65	Shakespeare, William	The Passionate Pilgrim	NA	en	TRUE

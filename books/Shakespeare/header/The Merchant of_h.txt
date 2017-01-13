@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1515	65	Shakespeare, William	The Merchant of Venice	Banned Books from Anne Haight's list	en	TRUE

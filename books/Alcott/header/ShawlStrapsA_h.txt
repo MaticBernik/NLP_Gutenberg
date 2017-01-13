@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+22022	102	Alcott, Louisa May	Shawl-Straps
+A Second Series of Aunt Jo's Scrap-Bag	Children's Literature	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+31053	204	Defoe, Daniel	The History of the Devil, As Well Ancient as Modern: In Two Parts	Banned Books from Anne Haight's list	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+14444	204	Defoe, Daniel	The Complete English Tradesman (1839 ed.)	NA	en	TRUE

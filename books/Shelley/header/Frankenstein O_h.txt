@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+84	61	Shelley, Mary Wollstonecraft	Frankenstein; Or, The Modern Prometheus	Gothic Fiction/Movie Books/Precursors of Science Fiction/Science Fiction by Women	en	TRUE

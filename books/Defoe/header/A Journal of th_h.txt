@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+376	204	Defoe, Daniel	A Journal of the Plague Year
+Written by a Citizen Who Continued All the While in London	NA	en	TRUE

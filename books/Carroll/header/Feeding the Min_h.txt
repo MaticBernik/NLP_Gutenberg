@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+35535	7	Carroll, Lewis	Feeding the Mind	NA	en	TRUE

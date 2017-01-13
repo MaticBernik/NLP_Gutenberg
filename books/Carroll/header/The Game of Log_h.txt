@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+4763	7	Carroll, Lewis	The Game of Logic	Philosophy	en	TRUE

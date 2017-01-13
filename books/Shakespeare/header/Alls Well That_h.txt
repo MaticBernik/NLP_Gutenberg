@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1529	65	Shakespeare, William	All's Well That Ends Well	NA	en	TRUE

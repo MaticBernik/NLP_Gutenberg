@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+22382	705	Homer	The Iliad of Homer (1873)	Classical Antiquity	en	TRUE

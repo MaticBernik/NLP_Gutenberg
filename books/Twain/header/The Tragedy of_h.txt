@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+102	53	Twain, Mark	The Tragedy of Pudd'nhead Wilson	NA	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+2199	705	Homer	The Iliad	Classical Antiquity	en	TRUE

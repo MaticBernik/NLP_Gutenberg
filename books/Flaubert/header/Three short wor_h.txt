@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+10458	574	Flaubert, Gustave	Three short works
+The Dance of Death, the Legend of Saint Julian the Hospitaller, a Simple Soul.	NA	en	TRUE

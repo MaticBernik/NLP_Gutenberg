@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+38049	102	Alcott, Louisa May	Louisa May Alcott : Her Life, Letters, and Journals	NA	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1400	37	Dickens, Charles	Great Expectations	Best Books Ever Listings	en	TRUE

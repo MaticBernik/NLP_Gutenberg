@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+42234	204	Defoe, Daniel	The Storm
+or, a Collection of the most Remarkable Casualties and Disasters which Happen'd in the Late Dreadful Tempest, both by Sea and Land	NA	en	TRUE

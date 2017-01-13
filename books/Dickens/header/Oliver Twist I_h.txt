@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+46675	37	Dickens, Charles	Oliver Twist, Illustrated
+or, The Parish Boy's Progress	NA	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+26494	111	Wilde, Oscar	Vera; Or, The Nihilists	NA	en	TRUE

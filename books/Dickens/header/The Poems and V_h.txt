@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+35536	37	Dickens, Charles	The Poems and Verses of Charles Dickens	NA	en	TRUE

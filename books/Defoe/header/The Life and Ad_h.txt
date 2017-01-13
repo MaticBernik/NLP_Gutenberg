@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+12623	204	Defoe, Daniel	The Life and Adventures of Robinson Crusoe (1808)	NA	en	TRUE

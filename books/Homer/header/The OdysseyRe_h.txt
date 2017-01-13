@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1727	705	Homer	The Odyssey
+Rendered into English prose for the use of those who cannot read the original	Harvard Classics/Classical Antiquity	en	TRUE

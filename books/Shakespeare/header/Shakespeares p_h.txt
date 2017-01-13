@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+12578	65	Shakespeare, William	Shakespeare's play of the Merchant of Venice
+Arranged for Representation at the Princess's Theatre, with Historical and Explanatory Notes by Charles Kean, F.S.A.	NA	en	TRUE

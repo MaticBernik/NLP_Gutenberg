@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+564	37	Dickens, Charles	The Mystery of Edwin Drood	Mystery Fiction	en	TRUE

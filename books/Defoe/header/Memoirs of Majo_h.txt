@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+14442	204	Defoe, Daniel	Memoirs of Major Alexander Ramkins (1718)	NA	en	TRUE

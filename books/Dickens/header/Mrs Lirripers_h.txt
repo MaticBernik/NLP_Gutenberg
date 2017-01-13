@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1421	37	Dickens, Charles	Mrs. Lirriper's Legacy	NA	en	TRUE

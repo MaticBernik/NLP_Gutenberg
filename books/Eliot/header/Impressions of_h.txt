@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+10762	90	Eliot, George	Impressions of Theophrastus Such	NA	en	TRUE

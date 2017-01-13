@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1514	65	Shakespeare, William	A Midsummer Night's Dream	NA	en	TRUE

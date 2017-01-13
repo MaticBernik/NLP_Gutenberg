@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+94	22	Cather, Willa	Alexander's Bridge	NA	en	TRUE

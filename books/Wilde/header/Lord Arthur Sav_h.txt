@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+773	111	Wilde, Oscar	Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories	Contemporary Reviews	en	TRUE

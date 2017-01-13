@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+28054	314	Dostoyevsky, Fyodor	The Brothers Karamazov	Best Books Ever Listings	en	TRUE

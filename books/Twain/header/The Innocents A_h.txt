@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+5693	53	Twain, Mark	The Innocents Abroad — Volume 06	NA	en	TRUE

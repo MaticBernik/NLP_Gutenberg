@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+4953	120	London, Jack	Revolution, and Other Essays	NA	en	TRUE

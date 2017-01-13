@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+31100	68	Austen, Jane	The Complete Project Gutenberg Works of Jane Austen
+A Linked Index of all PG Editions of Jane Austen	NA	en	TRUE

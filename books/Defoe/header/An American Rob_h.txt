@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+7799	204	Defoe, Daniel	An American Robinson Crusoe	NA	en	TRUE

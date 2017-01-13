@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+983	204	Defoe, Daniel	Tour through the Eastern Counties of England, 1722	United Kingdom	en	TRUE

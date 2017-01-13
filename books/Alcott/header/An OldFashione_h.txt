@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+2787	102	Alcott, Louisa May	An Old-Fashioned Girl	Children's Literature	en	TRUE

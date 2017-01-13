@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+48895	705	Homer	The Odysseys of Homer
+Together with the shorter poems	NA	en	TRUE

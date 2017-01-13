@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+7250	53	Twain, Mark	A Connecticut Yankee in King Arthur's Court, Part 9.	Precursors of Science Fiction	en	TRUE

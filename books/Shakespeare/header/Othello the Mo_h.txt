@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1531	65	Shakespeare, William	Othello, the Moor of Venice	Best Books Ever Listings	en	TRUE

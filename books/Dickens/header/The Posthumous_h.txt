@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+47535	37	Dickens, Charles	The Posthumous Papers of the Pickwick Club, v. 2(of 2)	NA	en	TRUE

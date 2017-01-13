@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+6455	120	London, Jack	The Little Lady of the Big House	NA	en	TRUE

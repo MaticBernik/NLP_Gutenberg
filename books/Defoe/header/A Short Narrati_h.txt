@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+37505	204	Defoe, Daniel	A Short Narrative of the Life and Actions of His Grace John, D. of Marlborogh	NA	en	TRUE

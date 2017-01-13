@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+7172	861	Ibsen, Henrik	Early Plays — Catiline, the Warrior's Barrow, Olaf Liljekrans	NA	en	TRUE

@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+22791	65	Shakespeare, William	King Henry the Fifth
+Arranged for Representation at the Princess's Theatre	NA	en	TRUE

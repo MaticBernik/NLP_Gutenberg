@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1342	68	Austen, Jane	Pride and Prejudice	Best Books Ever Listings/Harvard Classics	en	TRUE

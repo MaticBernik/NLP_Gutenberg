@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+18062	120	London, Jack	Stories of Ships and the Sea
+Little Blue Book # 1169	NA	en	TRUE

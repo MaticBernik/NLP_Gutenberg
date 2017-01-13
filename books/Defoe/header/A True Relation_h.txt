@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+36587	204	Defoe, Daniel	A True Relation of the Apparition of one Mrs. Veal
+The Next Day after Her Death, to one Mrs. Bargrave, at Canterbury, the 8th of September, 1705; which Apparition Recommends the Perusal of Drelincourt's Book of Consolations against the Fears of Death	NA	en	TRUE

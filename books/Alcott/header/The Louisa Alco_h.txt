@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+7425	102	Alcott, Louisa May	The Louisa Alcott Reader: a Supplementary Reader for the Fourth Year of School	Children's Literature/Children's Instructional Books	en	TRUE

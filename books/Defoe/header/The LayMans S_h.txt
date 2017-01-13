@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+36694	204	Defoe, Daniel	The Lay-Man's Sermon upon the Late Storm
+Held forth at an Honest Coffee-House-Conventicle	NA	en	TRUE

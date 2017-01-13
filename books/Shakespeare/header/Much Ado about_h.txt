@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1519	65	Shakespeare, William	Much Ado about Nothing	NA	en	TRUE

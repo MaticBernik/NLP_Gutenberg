@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1501	65	Shakespeare, William	History of King Henry the Sixth, Second Part	NA	en	TRUE

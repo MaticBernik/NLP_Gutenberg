@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+8677	102	Alcott, Louisa May	Behind a Mask; or, a Woman's Power	NA	en	TRUE

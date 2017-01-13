@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+29441	93	Plato	The Project Gutenberg Works of Plato
+An Index	NA	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+7107	53	Twain, Mark	Adventures of Huckleberry Finn, Chapters 36 to the Last	NA	en	TRUE

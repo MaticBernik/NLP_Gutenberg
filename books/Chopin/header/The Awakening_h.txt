@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+160	100	Chopin, Kate	The Awakening, and Selected Short Stories	Banned Books from Anne Haight's list	en	TRUE

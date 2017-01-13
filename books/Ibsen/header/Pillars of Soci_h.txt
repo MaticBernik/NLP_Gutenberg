@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+2296	861	Ibsen, Henrik	Pillars of Society	NA	en	TRUE

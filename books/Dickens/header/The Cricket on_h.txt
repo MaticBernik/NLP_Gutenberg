@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+20795	37	Dickens, Charles	The Cricket on the Hearth	Children's Literature	en	TRUE

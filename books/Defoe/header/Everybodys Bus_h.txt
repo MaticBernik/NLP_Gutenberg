@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+2052	204	Defoe, Daniel	Everybody's Business Is Nobody's Business
+Or, Private Abuses, Public Grievances; Exemplified in the Pride, Insolence, and Exorbitant Wages of Our Women, Servants, Footmen, &c.	NA	en	TRUE

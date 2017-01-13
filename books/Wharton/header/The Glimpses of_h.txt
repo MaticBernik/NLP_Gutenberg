@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1263	104	Wharton, Edith	The Glimpses of the Moon	NA	en	TRUE

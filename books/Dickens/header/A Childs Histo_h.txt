@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+699	37	Dickens, Charles	A Child's History of England	Children's History/United Kingdom	en	TRUE

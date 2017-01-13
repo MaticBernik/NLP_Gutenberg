@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+50334	37	Dickens, Charles	Pearl-Fishing; Choice Stories from Dickens' Household Words; Second Series	NA	en	TRUE

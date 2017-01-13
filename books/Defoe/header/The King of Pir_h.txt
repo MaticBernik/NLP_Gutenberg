@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+37992	204	Defoe, Daniel	The King of Pirates
+Being an Account of the Famous Enterprises of Captain Avery, the Mock King of Madagascar	NA	en	TRUE

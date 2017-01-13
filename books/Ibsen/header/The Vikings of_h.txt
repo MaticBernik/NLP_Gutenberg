@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+19205	861	Ibsen, Henrik	The Vikings of Helgeland: The Prose Dramas Of Henrik Ibsen, Vol. III.	NA	en	TRUE

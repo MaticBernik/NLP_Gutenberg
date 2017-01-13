@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1536	65	Shakespeare, William	The Life of Timon of Athens	NA	en	TRUE

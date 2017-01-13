@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+2446	861	Ibsen, Henrik	An Enemy of the People	NA	en	TRUE

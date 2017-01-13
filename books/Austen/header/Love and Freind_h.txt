@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1212	68	Austen, Jane	Love and Freindship [sic]	NA	en	TRUE

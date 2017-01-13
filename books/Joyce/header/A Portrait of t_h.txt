@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+4217	1039	Joyce, James	A Portrait of the Artist as a Young Man	NA	en	TRUE

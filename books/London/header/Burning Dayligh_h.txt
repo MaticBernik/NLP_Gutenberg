@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+746	120	London, Jack	Burning Daylight	NA	en	TRUE

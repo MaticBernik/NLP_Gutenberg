@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+4514	104	Wharton, Edith	Tales of Men and Ghosts	NA	en	TRUE

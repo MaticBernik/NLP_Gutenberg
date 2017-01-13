@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+882	37	Dickens, Charles	Sketches by Boz, Illustrative of Every-Day Life and Every-Day People	NA	en	TRUE

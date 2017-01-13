@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+2431	53	Twain, Mark	Is Shakespeare Dead?
+From My Autobiography	NA	en	TRUE

@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+50559	65	Shakespeare, William	The Works of William Shakespeare - Cambridge Edition
+(3 of 9) (1863)	NA	en	TRUE

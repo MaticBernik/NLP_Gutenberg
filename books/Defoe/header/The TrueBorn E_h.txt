@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+30159	204	Defoe, Daniel	The True-Born Englishman
+A Satire	NA	en	TRUE

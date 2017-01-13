@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1149	204	Defoe, Daniel	From London to Land's End
+and Two Letters from the "Journey through England by a Gentleman"	United Kingdom	en	TRUE

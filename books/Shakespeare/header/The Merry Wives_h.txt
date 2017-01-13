@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+23044	65	Shakespeare, William	The Merry Wives of Windsor
+The Works of William Shakespeare [Cambridge Edition] [9 vols.]	NA	en	TRUE

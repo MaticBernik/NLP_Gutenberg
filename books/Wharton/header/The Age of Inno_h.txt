@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+541	104	Wharton, Edith	The Age of Innocence	Bestsellers, American, 1895-1923/Movie Books	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+47518	65	Shakespeare, William	Shakespeare's Comedy of The Tempest	NA	en	TRUE

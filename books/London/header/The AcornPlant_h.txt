@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+22104	120	London, Jack	The Acorn-Planter
+A California Forest Play (1916)	NA	en	TRUE

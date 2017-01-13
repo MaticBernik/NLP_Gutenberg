@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+38065	7	Carroll, Lewis	Eight or Nine Wise Words about Letter-Writing	NA	en	TRUE

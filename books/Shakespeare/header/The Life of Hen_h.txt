@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1541	65	Shakespeare, William	The Life of Henry the Eighth	NA	en	TRUE

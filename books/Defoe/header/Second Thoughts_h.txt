@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+32404	204	Defoe, Daniel	Second Thoughts are Best: Or a Further Improvement of a Late Scheme to Prevent Street Robberies	NA	en	TRUE

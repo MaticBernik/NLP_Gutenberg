@@ -1,0 +1,3 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+37536	314	Dostoyevsky, Fyodor	The House of the Dead; or, Prison Life in Siberia
+with an introduction by Julius Bramont	NA	en	TRUE

@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+32325	53	Twain, Mark	The Adventures of Huckleberry Finn (Tom Sawyer's Comrade)	NA	en	TRUE

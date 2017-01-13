@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1892	53	Twain, Mark	Extracts from Adam's Diary, translated from the original ms.	NA	en	TRUE

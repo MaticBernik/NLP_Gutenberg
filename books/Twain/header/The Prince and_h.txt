@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+7162	53	Twain, Mark	The Prince and the Pauper, Part 9.	Historical Fiction	en	TRUE

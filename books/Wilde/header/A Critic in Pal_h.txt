@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+30191	111	Wilde, Oscar	A Critic in Pall Mall: Being Extracts from Reviews and Miscellanies	NA	en	TRUE

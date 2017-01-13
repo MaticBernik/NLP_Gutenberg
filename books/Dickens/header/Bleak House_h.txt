@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1023	37	Dickens, Charles	Bleak House	NA	en	TRUE

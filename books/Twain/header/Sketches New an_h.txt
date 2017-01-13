@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+5842	53	Twain, Mark	Sketches New and Old, Part 7.	NA	en	TRUE

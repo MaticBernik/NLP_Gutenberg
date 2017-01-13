@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+8589	53	Twain, Mark	Roughing It, Part 8.	NA	en	TRUE

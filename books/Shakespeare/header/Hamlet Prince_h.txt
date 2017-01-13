@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+1524	65	Shakespeare, William	Hamlet, Prince of Denmark	Plays/Best Books Ever Listings	en	TRUE

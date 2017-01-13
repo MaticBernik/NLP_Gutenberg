@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+844	111	Wilde, Oscar	The Importance of Being Earnest: A Trivial Comedy for Serious People	Plays	en	TRUE

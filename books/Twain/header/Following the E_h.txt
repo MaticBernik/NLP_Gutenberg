@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+5814	53	Twain, Mark	Following the Equator: A Journey Around the World. Part 7	NA	en	TRUE

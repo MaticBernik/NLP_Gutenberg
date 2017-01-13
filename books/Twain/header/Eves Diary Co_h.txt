@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+8525	53	Twain, Mark	Eve's Diary, Complete	NA	en	TRUE

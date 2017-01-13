@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+5830	102	Alcott, Louisa May	A Garland for Girls	Children's Literature	en	TRUE

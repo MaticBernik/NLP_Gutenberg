@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+36681	204	Defoe, Daniel	An Answer to a Question that Nobody thinks of, viz., But what if the Queen should Die?	NA	en	TRUE

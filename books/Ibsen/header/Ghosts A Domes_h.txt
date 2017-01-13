@@ -1,0 +1,2 @@
+GUTH_ID	AUTH_ID	AUTH	TITLE	SHELF	LANG	HAS_TXT
+2467	861	Ibsen, Henrik	Ghosts: A Domestic Tragedy in Three Acts	NA	en	TRUE
