@@ -8,8 +8,8 @@ library('gutenbergr')
 library('tidyr')
 
 authors<-c('Dickens, Charles','Carroll, Lewis', 'Twain, Mark', 'Joyce, James', 'Wilde, Oscar', 'Plato', 'Dostoyevsky, Fyodor', 'Shakespeare, William', 'Homer', 'Defoe, Daniel', 'Christie, Agatha', 'Flaubert, Gustave', 'Einstein, Albert', 'Asimov, Isaac', 'London, Jack', 'Ibsen, Henrik', 'Austen, Jane', 'Rand, Ayn', 'Tyler, Anna Cogswell', 'Shelley, Mary Wollstonecraft', 'Eliot, George', 'Chopin, Kate', 'Brontë, Emily', 'Alcott, Louisa May', 'Wharton, Edith', 'West, Rebecca', 'Woolf, Virginia', 'Cather, Willa', 'Rand, Ayn' )
+#go through all authors
 for (a in authors){
-	authors_books <- gutenberg_works(author == a) %>%
-  		gutenberg_download(meta_fields = "title",mirror='ftp://sunsite.informatik.rwth-aachen.de/pub/mirror/ibiblio/gutenberg')
-	authors_books
+	print(a)
+	print(gutenberg_works(author == a))	
 }
