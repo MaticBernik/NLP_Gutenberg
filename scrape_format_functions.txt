@@ -1,0 +1,23 @@
+shakerspeare_books <- gutenberg_works(author == "Shakespeare, William") %>%
+  gutenberg_download(meta_fields = c("title", "author", "gutenberg_author_id", "language", "gutenberg_bookshelf", "has_text", "rights"))
+
+
+
+
+
+
+#sherlock
+doyle_books <- gutenberg_works(author == "Doyle, Arthur Conan") %>% gutenberg_download(meta_fields = c("title", "author", "gutenberg_author_id", "language", "gutenberg_bookshelf", "has_text", "rights"))
+unique(doyle_books$title)
+Book_1 <- doyle_books %>% filter(title == "The Return of Sherlock Holmes")
+writeLines(Book_1$text, "The Return of Sherlock Holmes.txt")
+
+#Bovary
+flaubert_books <- gutenberg_works(author == "Flaubert, Gustave") %>% gutenberg_download(meta_fields = c("title", "author", "gutenberg_author_id", "language", "gutenberg_bookshelf", "has_text", "rights"))
+unique(flaubert_books$title)
+Book_2 <- flaubert_books %>% filter(title == "Madame Bovary")
+writeLines(Book_2$text, "Madame Bovary.txt")
+
+#also create folder
+dir.create("Doyle")
+writeLines(Book_2$text, "Doyle/Madame Bovary.txt")
