@@ -1,0 +1,60 @@
+In view of this dilemma there appears to be nothing else for it than
+to abandon either the principle of relativity or the simple law of the
+propagation of light in vacuo. Those of you who have carefully
+followed the preceding discussion are almost sure to expect that we
+should retain the principle of relativity, which appeals so
+convincingly to the intellect because it is so natural and simple. The
+law of the propagation of light in vacuo would then have to be
+replaced by a more complicated law conformable to the principle of
+relativity. The development of theoretical physics shows, however,
+that we cannot pursue this course. The epoch-making theoretical
+investigations of H. A. Lorentz on the electrodynamical and optical
+phenomena connected with moving bodies show that experience in this
+domain leads conclusively to a theory of electromagnetic phenomena, of
+which the law of the constancy of the velocity of light in vacuo is a
+necessary consequence. Prominent theoretical physicists were theref
+ore more inclined to reject the principle of relativity, in spite of
+the fact that no empirical data had been found which were
+contradictory to this principle.
+At this juncture the theory of relativity entered the arena. As a
+result of an analysis of the physical conceptions of time and space,
+it became evident that in realily there is not the least
+incompatibilitiy between the principle of relativity and the law of
+propagation of light, and that by systematically holding fast to both
+these laws a logically rigid theory could be arrived at. This theory
+has been called the special theory of relativity to distinguish it
+from the extended theory, with which we shall deal later. In the
+following pages we shall present the fundamental ideas of the special
+theory of relativity.
+ON THE IDEA OF TIME IN PHYSICS
+Lightning has struck the rails on our railway embankment at two places
+A and B far distant from each other. I make the additional assertion
+that these two lightning flashes occurred simultaneously. If I ask you
+whether there is sense in this statement, you will answer my question
+with a decided "Yes." But if I now approach you with the request to
+explain to me the sense of the statement more precisely, you find
+after some consideration that the answer to this question is not so
+easy as it appears at first sight.
+After some time perhaps the following answer would occur to you: "The
+significance of the statement is clear in itself and needs no further
+explanation; of course it would require some consideration if I were
+to be commissioned to determine by observations whether in the actual
+case the two events took place simultaneously or not." I cannot be
+satisfied with this answer for the following reason. Supposing that as
+a result of ingenious considerations an able meteorologist were to
+discover that the lightning must always strike the places A and B
+simultaneously, then we should be faced with the task of testing
+whether or not this theoretical result is in accordance with the
+reality. We encounter the same difficulty with all physical statements
+in which the conception " simultaneous " plays a part. The concept
+does not exist for the physicist until he has the possibility of
+discovering whether or not it is fulfilled in an actual case. We thus
+require a definition of simultaneity such that this definition
+supplies us with the method by means of which, in the present case, he
+can decide by experiment whether or not both the lightning strokes
+occurred simultaneously. As long as this requirement is not satisfied,
+I allow myself to be deceived as a physicist (and of course the same
+applies if I am not a physicist), when I imagine that I am able to
+attach a meaning to the statement of simultaneity. (I would ask the
+reader not to proceed farther until he is fully convinced on this
+point.)

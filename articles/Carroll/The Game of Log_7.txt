@@ -1,0 +1,78 @@
+You see, we must give up the "Cakes" now, or our cupboard will
+be of no use to us.  We must take, as our 'Universe', some class
+of things which will include Dragons and Scotchmen: shall we say
+'Animals'?  And, as "canny" is evidently the Attribute belonging
+to the 'Middle Terms', we will let m stand for "canny", x for
+"Dragons", and y for "Scotchmen".  So that our two Premisses are,
+in full,
+   "All Dragon-Animals are uncanny (Animals);
+   All Scotchman-Animals are canny (Animals)."
+And these may be expressed, using letters for words, thus:--
+                "All x are m';
+                 All y are m."
+The first Premiss consists, as you already know, of two parts:--
+                 "Some x are m',"
+             and "No x are m."
+And the second also consists of two parts:--
+                 "Some y are m,"
+             and "No y are m'."
+Let us take the negative portions first.
+We have, then, to mark, on the larger Diagram, first, "no x are
+m", and secondly, "no y are m'".  I think you will see, without
+further explanation, that the two results, separately, are
+       -----------           -----------
+      |     |     |         |0    |     |
+      |   --|--   |         |   --|--   |
+      |  |0 | 0|  |         |  |  |  |  |
+      |--|--|--|--|         |--|--|--|--|
+      |  |  |  |  |         |  |  |  |  |
+      |   --|--   |         |   --|--   |
+      |     |     |         |0    |     |
+       -----------           -----------
+and that these two, when combined, give us
+                    -----------
+                   |0    |     |
+                   |   --|--   |
+                   |  |0 | 0|  |
+                   |--|--|--|--|
+                   |  |  |  |  |
+                   |   --|--   |
+                   |0    |     |
+                    -----------
+We have now to mark the two positive portions, "some x are m'"
+and "some y are m".
+The only two compartments, available for Things which are xm', are
+No. 9 and No. 10.  Of these, No. 9 is already marked as 'empty';
+so our red counter must go into No. 10.
+Similarly, the only two, available for ym, are No. 11 and No. 13.
+Of these, No. 11 is already marked as 'empty'; so our red counter
+MUST go into No. 13.
+The final result is
+                    -----------
+                   |0    |    1|
+                   |   --|--   |
+                   |  |0 | 0|  |
+                   |--|--|--|--|
+                   |  |1 |  |  |
+                   |   --|--   |
+                   |0    |     |
+                    -----------
+And now how much of this information can usefully be transferred
+to the smaller Diagram?
+Let us take its four compartments, one by one.
+As to No. 5?  This, we see, is wholly 'empty'. (So mark it with a
+grey counter.)
+As to No. 6?  This, we see, is 'occupied'.  (So mark it with a red
+counter.)
+As to No. 7?  Ditto, ditto.
+As to No. 8?  No information.
+The smaller Diagram is now pretty liberally marked:--
+                     -------
+                    | 0 | 1 |
+                    |---|---|
+                    | 1 |   |
+                     -------
+And now what Conclusion can we read off from this?  Well, it is
+impossible to pack such abundant information into ONE Proposition:
+we shall have to indulge in TWO, this time.
+First, by taking x as Subject, we get "all x are y'", that is,

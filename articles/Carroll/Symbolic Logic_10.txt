@@ -1,0 +1,66 @@
+The Genus, of which the two Terms are Specieses, is called the
+'=Universe of Discourse=,' or (more briefly) the '=Univ.='
+The Sign of Quantity is "Some" or "No" or "All".
+    [Note that, though its Sign of Quantity tells us _how many_
+    Members of its Subject are _also_ Members of its Predicate, it
+    does not tell us the _exact_ number: in fact, it only deals with
+    _three_ numbers, which are, in ascending order, "0", "1 or
+    more", "the total number of Members of the Subject".]
+It is called "a Proposition of Relation" because its effect is to assert
+that a certain _relationship_ exists between its Terms.
+                                                                   pg013
+Sec. 2.
+_Reduction of a Proposition of Relation to Normal form._
+The Rules, for doing this, are as follows:--
+(1) Ascertain what is the _Subject_ (i.e., ascertain what Class we are
+_talking about_);
+(2) If the verb, governed by the Subject, is _not_ the verb "are" (or
+"is"), substitute for it a phrase beginning with "are" (or "is");
+(3) Ascertain what is the _Predicate_ (i.e., ascertain what Class it is,
+which is asserted to contain _some_, or _none_, or _all_, of the Members
+of the Subject);
+(4) If the Name of each Term is _completely expressed_ (i.e. if it
+contains a Substantive), there is no need to determine the 'Univ.'; but,
+if either Name is _incompletely expressed_, and contains _Attributes_
+only, it is then necessary to determine a 'Univ.', in order to insert
+its Name as the Substantive.
+(5) Ascertain the _Sign of Quantity_;
+(6) Arrange in the following order:--
+    Sign of Quantity,
+    Subject,
+    Copula,
+    Predicate.
+    [Let us work a few Examples, to illustrate these Rules.
+    (1)
+    "Some apples are not ripe."
+    (1) The Subject is "apples."
+    (2) The Verb is "are."
+    (3) The Predicate is "not-ripe * * *." (As no Substantive is
+    expressed, and we have not yet settled what the Univ. is to be,
+    we are forced to leave a blank.)
+    (4) Let Univ. be "fruit."
+    (5) The Sign of Quantity is "some."
+    (6) The Proposition now becomes
+        "Some | apples | are | not-ripe fruit."
+                                                                   pg014
+    (2)
+    "None of my speculations have brought me as much as 5 per cent."
+    (1) The Subject is "my speculations."
+    (2) The Verb is "have brought," for which we substitute the
+    phrase "are * * * that have brought".
+    (3) The Predicate is "* * * that have brought &c."
+    (4) Let Univ. be "transactions."
+    (5) The Sign of Quantity is "none of."
+    (6) The Proposition now becomes
+        "None of | my speculations | are | transactions
+        that have brought me as much as 5 per cent."
+    (3)
+    "None but the brave deserve the fair."
+    To begin with, we note that the phrase "none but the brave" is
+    equivalent to "no _not_-brave."
+    (1) The Subject has for its _Attribute_ "not-brave." But no
+    _Substantive_ is supplied. So we express the Subject as
+    "not-brave * * *."
+    (2) The Verb is "deserve," for which we substitute the phrase
+    "are deserving of".
+    (3) The Predicate is "* * * deserving of the fair."

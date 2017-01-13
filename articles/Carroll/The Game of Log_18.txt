@@ -1,0 +1,114 @@
+                         ---
+                        | 0 |
+ 17. No y exist.  i.e.  |---|
+                        | 0 |
+                         ---
+                            ---
+                           |   |
+ 18. Some y are x'.  i.e.  |---|
+                           | 1 |
+                            ---
+                           ---
+                          |   |
+ 15. Some y exist.  i.e.  |-1-|
+                          |   |
+                           ---
+3.  Half of Smaller Diagram.
+Symbols interpreted.
+__________
+1.  No x are y'.
+2.  No x exist.
+3.  Some x exist.
+4.  All x are y'.
+5.  Some x are y.  i.e. Some good riddles are hard.
+6.  All x are y.  i.e. All good riddles are hard.
+7.  No x exist.  i.e. No riddles are good.
+8.  No x are y.  i.e. No good riddles are hard.
+9.  Some x are y'.  i.e. Some lobsters are unselfish.
+10.  No x are y.  i.e. No lobsters are selfish.
+11.  All x are y'.  i.e. All lobsters are unselfish.
+12.  Some x are y, and some are y'.  i.e. Some lobsters are
+selfish, and some are unselfish.
+13.  All y' are x'.  i.e. All invalids are unhappy.
+14.  Some y' exist.  i.e. Some people are unhealthy.
+15.  Some y' are x, and some are x'.  i.e. Some invalids are
+happy, and some are unhappy.
+16.  No y' exist.  i.e. Nobody is unhealthy.
+4.  Smaller Diagram.
+Propositions represented.
+__________
+                   -------               -------
+                  | 1 |   |             |   |   |
+              1.  |---|---|         2.  |---|---|
+                  | 0 |   |             | 1 |   |
+                   -------               -------
+                   -------               -------
+                  |   |   |             |   | 1 |
+              3.  |---|---|         4.  |---|---|
+                  |   | 0 |             |   |   |
+                   -------               -------
+                   -------               -------
+                  |   | 1 |             |   |   |
+              5.  |---|---|         6.  |---|---|
+                  |   |   |             | 0 |   |
+                   -------               -------
+                   -------               -------
+                  |   |   |             |   |   |
+              7.  |---|---|         8.  |---|---|
+                  |   | 1 |             | 0 | 1 |
+                   -------               -------
+                   -------               -------
+                  |   |   |             |   |   |
+              9.  |---|-1-|        10.  |---|---|
+                  |   |   |             | 0 | 0 |
+                   -------               -------
+                   -------               -------
+                  | 1 |   |             | 1 | 0 |
+             11.  |---|---|        12.  |---|---|
+                  | 1 |   |             |   | 1 |
+                   -------               -------
+                           -------
+                          |   |   |
+ 13.  No x' are y.  i.e.  |---|---|
+                          | 0 |   |
+                           -------
+                             -------
+                            |   | 0 |
+ 14.  All y' are x'.  i.e.  |---|---|
+                            |   | 1 |
+                             -------
+                             -------
+                            |   |   |
+ 15.  Some y' exist.  i.e.  |---|-1-|
+                            |   |   |
+                             -------
+                                            -------
+                                           | 1 | 0 |
+ 16.  All y are x, and all x are y.  i.e.  |---|---|
+                                           | 0 |   |
+                                            -------
+                           -------
+                          |   |   |
+ 17.  No x' exist.  i.e.  |---|---|
+                          | 0 | 0 |
+                           -------
+                            -------
+                           | 0 | 1 |
+ 18.  All x are y'.  i.e.  |---|---|
+                           |   |   |
+                            -------
+                          -------
+                         | 0 |   |
+ 19.  No x are y.  i.e.  |---|---|
+                         |   |   |
+                          -------
+                                              -------
+                                             |   |   |
+ 20.  Some x' are y, and some are y'.  i.e.  |---|---|
+                                             | 1 | 1 |
+                                              -------
+                                            -------
+                                           | 0 | 1 |
+ 21.  No y exist, and some x exist.  i.e.  |---|---|
+                                           | 0 |   |
+                                            -------

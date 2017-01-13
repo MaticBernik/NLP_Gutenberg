@@ -1,0 +1,50 @@
+"All Dragons are not-Scotchmen":
+secondly, by taking y as Subject, we get "all y are x'", that is,
+"All Scotchmen are not-Dragons".
+Let us now write out, all together, our two Premisses and our brace
+of Conclusions.
+        "All Dragons are uncanny;
+         All Scotchmen are canny.
+         &there4  All Dragons are not-Scotchmen;
+                  All Scotchmen are not-Dragons."
+Let me mention, in conclusion, that you may perhaps meet with
+logical treatises in which it is not assumed that any Thing EXISTS
+at all, by "some x are y" is understood to mean "the Attributes x,
+y are COMPATIBLE, so that a Thing can have both at once", and "no
+x are y" to mean "the Attributes x, y are INCOMPATIBLE, so that
+nothing can have both at once".
+In such treatises, Propositions have quite different meanings
+from what they have in our 'Game of Logic', and it will be well to
+understand exactly what the difference is.
+First take "some x are y".  Here WE understand "are" to mean "are,
+as an actual FACT"--which of course implies that some x-Things EXIST.
+But THEY (the writers of these other treatises) only understand
+"are" to mean "CAN be", which does not at all imply that any EXIST.
+So they mean LESS than we do: our meaning includes theirs (for of
+course "some x ARE y" includes "some x CAN BE y"), but theirs does
+NOT include ours.  For example, "some Welsh hippopotami are heavy"
+would be TRUE, according to these writers (since the Attributes
+"Welsh" and "heavy" are quite COMPATIBLE in a hippopotamus), but
+it would be FALSE in our Game (since there are no Welsh hippopotami
+to BE heavy).
+Secondly, take "no x are y".  Here WE only understand "are" to
+mean "are, as an actual FACT"--which does not at all imply that no
+x CAN be y.  But THEY understand the Proposition to mean, not only
+that none ARE y, but that none CAN POSSIBLY be y.  So they mean
+more than we do: their meaning includes ours (for of course "no x
+CAN be y" includes "no x ARE y"), but ours does NOT include theirs.
+For example, "no Policemen are eight feet high" would be TRUE
+in our Game (since, as an actual fact, no such splendid specimens
+are ever found), but it would be FALSE, according to these writers
+(since the Attributes "belonging to the Police Force" and "eight
+feet high" are quite COMPATIBLE:  there is nothing to PREVENT a
+Policeman from growing to that height, if sufficiently rubbed with
+Rowland's Macassar Oil--which said to make HAIR grow, when rubbed
+on hair, and so of course will make a POLICEMAN grow, when rubbed
+on a Policeman).
+Thirdly, take "all x are y", which consists of the two partial
+Propositions "some x are y" and "no x are y'".  Here, of course,
+the treatises mean LESS than we do in the FIRST part, and more than
+we do in the SECOND.  But the two operations don't balance each
+other--any more than you can console a man, for having knocked down
+one of his chimneys, by giving him an extra door-step.
