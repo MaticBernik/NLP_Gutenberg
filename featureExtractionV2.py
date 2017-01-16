@@ -7,8 +7,8 @@ from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import RegexpTokenizer
 #nltk.download() #<- ODKOMENTIRAJ CE POGANJAS PRVIC!
-
-#METODI ZA STOPANJE CASA ^^
+print('***Predviden cas izvajanja je ~9min')
+#METODI ZA 'STOPANJE' CASA ^^
 def tic():
     #Homemade version of matlab tic and toc functions
     import time
@@ -29,7 +29,7 @@ os.chdir(projectDir)
 #---> nacin normalizacije zaradi neenakomerne dolzine clankov
 
 
-tic()
+
 #Predpriprave na procesiranje texta
 stemmer = nltk.stem.PorterStemmer()
 punkt_param = PunktParameters()
@@ -37,8 +37,9 @@ sentence_splitter = PunktSentenceTokenizer(punkt_param)
 toker = RegexpTokenizer(r'((?<=[^\w\s])\w(?=[^\w\s])|(\W))+', gaps=True)
 
 articles={}
-print("***Zacetek obdelave clankov")
 ##### OBDELAVA CLANKOV #####
+print("***Zacetek obdelave clankov")
+tic()
 for author in os.listdir("articles/"): #iterate trough authors
     if os.path.isdir(projectDir+'articles/'+author):
         for article in os.listdir('articles/'+author):
@@ -61,10 +62,13 @@ for author in os.listdir("articles/"): #iterate trough authors
 def add_dictionaries(a,b):
     return dict((n, a.get(n, 0) + b.get(n, 0)) for n in set(a) | set(b))
 
-print("***Zacetek Globalne obdelave")
+
 ##### GLOBALNA OBDELAVA CLANKOV #####
 #Proceseranje clankov na globalni ravni
 #boljsi pristop sestevanja slovarjev vseh clankov  ali  sesteti vse clanke v en string in ga loceno sprocesirati?? --> stopaj?
+toc()
+print("***Zacetek Globalne obdelave")
+tic()
 '''
 #Pristop 1
 global_words={}
@@ -97,7 +101,9 @@ file_dataset = open('dataset.tab', 'w+')
 
 
 ##### TVORBA ATRIBUTOV #####
+toc()
 print("***Zacetek tvorbe atributov")
+tic()
 interesting_characters=['.',',','?',':',';',' ','!','-','_','(','\"','/'] #<----- DODAJAJ
 
 sestaviHeader=True
@@ -118,12 +124,12 @@ for article in articles:
     #AVTOR (Target Class)
     if sestaviHeader:
         header+='author\t'
-    record+=values['author']
+    record+=values['author']+'\t'
 
     #FREKVENCE ZANIMIVIH ZNAKOV ZNOTRAJ BESEDILA
     for c in interesting_characters:
         if sestaviHeader:
-            header+="% \'"+c+"\'\t"
+            header+="% \'"+c.replace("\n", "\\n").replace("\t", "\\t")+"\'\t"
         if c in values['tokens']:
             record+=str(values['tokens'][c] / number_tokens_withSpaces )+'\t'
         else:
@@ -131,24 +137,24 @@ for article in articles:
 
     #RAZMERJE MED STEVILOM STAVKOV IN STEVILOM BESED ZNOTRAJ BESEDILA
     if sestaviHeader:
-        header+='sentences-to-words ratio'
+        header+='sentences-to-words ratio\t'
     record+=str(number_sentences / number_words)+'\t'
 
     #POVPRECNO STEVILO BESED V STAVKU ZNOTRAJ BESEDILA
     if sestaviHeader:
-        header+='avg. sentence length'
+        header+='avg. sentence length\t'
     nChars = 0
     for s in values['sentences']:
         nChars += len(s)
     record += str(nChars / number_sentences)+'\t'
 
     #FREKVENCE GLOBALNO NAJPOGOSTEJSIH BESED V BESEDILU
-    najpogostejse_besede=global_words_stemmed_count.most_common(50) #premakni iz zank za pohitritev?
+    najpogostejse_besede=global_words_stemmed_count.most_common(50) #premakni iz zanke za pohitritev?
     for word in najpogostejse_besede:
         if sestaviHeader:
-            header+='%\"'+word[0]+'\"\t'
-        if word in values['words']:
-            record+=str(values['words'][word][1])+'\t'
+            header+='%\"'+word[0].replace("\n", "\\n").replace("\t", "\\t")+'\"\t'
+        if word[0] in values['words'].elements():
+            record+=str(values['words'][word[0]])+'\t'
         else:
             record+="0\t"
 
