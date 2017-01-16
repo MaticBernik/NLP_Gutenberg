@@ -23,7 +23,9 @@ def toc():
         print ("Toc: start time not set")
 
 
-projectDir = "/home/matic/Dropbox/Inteligentni Sistemi/Assigment2/"
+#projectDir = "/home/matic/Dropbox/Inteligentni Sistemi/Assigment2/"
+projectDir = "C:/Users/Robert/Desktop/IS_local/NLP_Gutenberg/"
+
 os.chdir(projectDir)
 #Atributi izpeljani iz stevila pojavitev znakov znotraj dokumenta so pretvorjeni v frekvence znotraj istega dokumenta
 #---> nacin normalizacije zaradi neenakomerne dolzine clankov
@@ -89,7 +91,7 @@ for article in articles:
 global_words=toker.tokenize(global_text)
 global_words_stemmed=[stemmer.stem(word) for word in global_words]
 global_words_stemmed_count=Counter(global_words_stemmed)
-global_tokens=nltk.word_tokenize(text)
+global_tokens=nltk.word_tokenize(global_text)
 global_tokens_stemmed=[stemmer.stem(token) for token in global_tokens]
 global_tokens_stemmed_count=Counter(global_tokens_stemmed)
 global_sentences = sentence_splitter.tokenize(global_text)
@@ -149,12 +151,12 @@ for article in articles:
     record += str(nChars / number_sentences)+'\t'
 
     #FREKVENCE GLOBALNO NAJPOGOSTEJSIH BESED V BESEDILU
-    najpogostejse_besede=global_words_stemmed_count.most_common(50) #premakni iz zanke za pohitritev?
+    najpogostejse_besede=global_words_stemmed_count.most_common(100) #premakni iz zanke za pohitritev?
     for word in najpogostejse_besede:
         if sestaviHeader:
             header+='%\"'+word[0].replace("\n", "\\n").replace("\t", "\\t")+'\"\t'
         if word[0] in values['words'].elements():
-            record+=str(values['words'][word[0]])+'\t'
+            record+=str(values['words'][word[0]] / number_words)+'\t'
         else:
             record+="0\t"
 
