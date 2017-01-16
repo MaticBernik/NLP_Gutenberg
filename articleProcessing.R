@@ -1,6 +1,6 @@
 ##### INSTALLING PACKAGES #####
 install.packages(c("tm", "SnowballC", "wordcloud", "proxy", "kernlab", "NLP", "openNLP"))
-nstall.packages("openNLPmodels.en", repos="http://datacube.wu.ac.at/", type="source")
+install.packages("openNLPmodels.en", repos="http://datacube.wu.ac.at/", type="source")
 
 ##### LOADING LIBRARIES #####
 library(proxy)
@@ -26,7 +26,9 @@ library(SnowballC)
  # Correlation plots.
 
 ##### LOADING CORPUS #####
-cname <- file.path("/home/matic/Dropbox/Inteligentni Sistemi/Assigment2/","articles")
+#cname <- file.path("/home/matic/Dropbox/Inteligentni Sistemi/Assigment2/","articles")
+#cname <- file.path("C:/Users/Robert/Desktop/IS_local_test/NLP_Gutenberg","articles")
+
 length(dir(cname))
 corpus <- Corpus(DirSource(cname))
 #summary(corpus)
