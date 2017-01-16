@@ -1,0 +1,123 @@
+Here is another Universal Proposition for you.  "Barzillai Beckalegg
+is an honest man."  That means "ALL the Barzillai Beckaleggs, that
+I am now considering, are honest men."  (You think I invented that
+name, now don't you?  But I didn't.  It's on a carrier's cart,
+somewhere down in Cornwall.)
+This kind of Universal Proposition (where the Subject is a single
+Thing) is called an 'INDIVIDUAL' Proposition.
+Now let us take "NICE Cakes" as the Subject of Proposition: that
+is, let us fix our thoughts on the LEFT-HAND half of the cupboard,
+where all the Cakes have attribute y, that is, "nice."
+                                            -----
+  Suppose we find it marked like this:--   |     |
+                                           |  1  |
+  What would that tell us?                 |     |
+                                            -----
+                                           |     |
+                                           |     |
+                                           |     |
+                                            -----
+I hope that it is not necessary, after explaining the HORIZONTAL
+oblong so fully, to spend much time over the UPRIGHT one.  I hope
+you will see, for yourself, that this means "some y are x", that
+is,
+"Some nice Cakes are new."
+"But," you will say, "we have had this case before.  You put a red
+counter into No. 5, and you told us it meant 'some new Cakes are
+nice'; and NOW you tell us that it means 'some NICE Cakes are NEW'!
+Can it mean BOTH?"
+The question is a very thoughtful one, and does you GREAT credit,
+dear Reader!  It DOES mean both. If you choose to take x (that
+is, "new Cakes") as your Subject, and to regard No. 5 as part of a
+HORIZONTAL oblong, you may read it "some x are y", that is, "some
+new Cakes are nice": but, if you choose to take y (that is, "nice
+Cake") as your Subject, and to regard No. 5 as part of an UPRIGHT
+oblong, THEN you may read it "some y are x", that is, "some nice
+Cakes are new".  They are merely two different ways of expressing
+the very same truth.
+Without more words, I will simply set down the other ways in which
+this upright oblong might be marked, adding the meaning in each
+case.  By comparing them with the various cases of the horizontal
+oblong, you will, I hope, be able to understand them clearly.
+You will find it a good plan to examine yourself on this table,
+by covering up first one column and then the other, and 'dodging
+about', as the children say.
+Also you will do well to write out for yourself two other tables--one
+for the LOWER half of the cupboard, and the other for its RIGHT-HAND
+half.
+And now I think we have said all we need to say about the smaller
+Diagram, and may go on to the larger one.
+  _________________________________________________
+                 |
+    Symbols.     |          Meanings.
+  _______________|_________________________________
+      -----      |
+     |     |     |
+     |     |     |  Some y are x';
+     |     |     |     i.e. Some nice are not-new.
+      -----      |
+     |     |     |
+     |  1  |     |
+     |     |     |
+      -----      |
+                 |
+      -----      |
+     |     |     |  No y are x;
+     |  0  |     |      i.e. No nice are new.
+     |     |     |
+      -----      |  [Observe that this is merely another way of
+     |     |     |      expressing "No new are nice."]
+     |     |     |
+     |     |     |
+      -----      |
+                 |
+      -----      |
+     |     |     |
+     |     |     |  No y are x';
+     |     |     |      i.e. No nice are not-new.
+      -----      |
+     |     |     |
+     |  0  |     |
+     |     |     |
+      -----      |
+                 |
+      -----      |
+     |     |     |
+     |  1  |     |  Some y are x, and some are x';
+     |     |     |     i.e. Some nice are new, and some are
+      -----      |            not-new.
+     |     |     |
+     |  1  |     |
+     |     |     |
+      -----      |
+                 |
+      -----      |
+     |     |     |
+     |  0  |     |  No y are x, and none are x'; i.e. No y
+     |     |     |       exist;
+      -----      |     i.e. No Cakes are nice.
+     |     |     |
+     |  0  |     |
+     |     |     |
+      -----      |
+                 |
+      -----      |
+     |     |     |
+     |  1  |     |  All y are x;
+     |     |     |       i.e. All nice are new.
+      -----      |
+     |     |     |
+     |  0  |     |
+     |     |     |
+      -----      |
+                 |
+      -----      |
+     |     |     |
+     |  0  |     |  All y are x';
+     |     |     |       i.e. All nice are not-new.
+      -----      |
+     |     |     |
+     |  1  |     |
+     |     |     |
+      -----      |
+  _______________|_________________________________

@@ -80,7 +80,7 @@ library(wordcloud)
 mat <- as.matrix(tdm)
 wordFreq <- sort(rowSums(mat), decreasing=TRUE)
 grayLevels <- gray((wordFreq+10) / (max(wordFreq)+10))
-wordcloud(words=names(wordFreq), freq=wordFreq, min.freq=100, random.order=F, colors=grayLevels)
+wordcloud(words=names(wordFreq), freq=wordFreq, min.freq=100, random.order=F, colors=brewer.pal(6, "Dark2")), max.words=500)
 
 ##### ASSOCIATIONS #####
 # Find terms associated with "moscow" with correlation no less than 0.5
@@ -92,19 +92,20 @@ findAssocs(tdm, "moscow", 0.5)
 # Remove sparse terms that have at least 70% of empty elements
 tdm2 <- removeSparseTerms(tdm, sparse=0.7)
 mat <- as.matrix(tdm2)
+write.csv(m, file="documentTermFrequency.csv")
 # The distances between terms can also be calculated using the dist() function
 distMatrix <- dist(mat)
 # Find clusters of words with hierarchical clustering
 fit <- hclust(distMatrix, method="ward.D")
 plot(fit)
-#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ZGOLJ ALTERNATIVA KORELACIJI?
+#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ZGOLJ ALTERNATIVA KORELACIJI? - ISTI NAMEN?
 
 ##### CLUSTERING OF DOCUMENTS #####
 # Constructs a document-term matrix
 dtm <- DocumentTermMatrix(corpus, control = list(weighting=weightTfIdf))
 mat <- as.matrix(dtm)
 # Cluster the documents using the kmeans method with the number of clusters set to 3 
-k <- 3
+k <- 27
 kmeansResult <- kmeans(mat, k)
 # Find the most popular words in every cluster
 for (i in 1:k) 
