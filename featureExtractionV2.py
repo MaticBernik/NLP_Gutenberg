@@ -161,6 +161,7 @@ for article in articles:
         file_dataset.write(header)
         sestaviHeader=False
     record=record[:-1]+'\n'
+    file_dataset.write(record)
 file_dataset.close()
 toc()
 
