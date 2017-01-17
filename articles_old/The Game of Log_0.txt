@@ -1,0 +1,67 @@
+This will puzzle you a little, I expect.  Evidently you must put
+a red counter SOMEWHERE in the x-half of the cupboard, since you
+know there are SOME new Cakes.  But you must not put it into the
+LEFT-HAND compartment, since you do not know them to be NICE: nor
+may you put it into the RIGHT-HAND one, since you do not know them
+to be NOT-NICE.
+What, then, are you to do?  I think the best way out of the
+difficulty is to place the red counter ON THE DIVISION-LINE between
+the xy-compartment and the xy'-compartment.  This I shall represent
+(as I always put '1' where you are to put a red counter) by the
+diagram
+                      -----------
+                     |     |     |
+                     |    -1-    |
+                     |     |     |
+                      -----------
+Our ingenious American cousins have invented a phrase to express
+the position of a man who wants to join one or the other of two
+parties--such as their two parties 'Democrats' and 'Republicans'--but
+can't make up his mind WHICH.  Such a man is said to be "sitting
+on the fence."  Now that is exactly the position of the red counter
+you have just placed on the division-line.  He likes the look of
+No. 5, and he likes the look of No. 6, and he doesn't know WHICH to
+jump down into.  So there he sits astride, silly fellow, dangling
+his legs, one on each side of the fence!
+Now I am going to give you a much harder one to make out.  What
+does this mean?
+                      -----------
+                     |     |     |
+                     |  1  |  0  |
+                     |     |     |
+                      -----------
+This is clearly a DOUBLE Proposition.  It tells us not only that
+"some x are y," but also the "no x are NOT y."  Hence the result
+is "ALL x are y," i.e.  "all new Cakes are nice", which is the last
+of the three Propositions at the head of this Section.
+We see, then, that the Universal Proposition
+"All new Cakes are nice"
+consists of TWO Propositions taken together, namely,
+             "Some new Cakes are nice,"
+        and "No new Cakes are not-nice."
+In the same way
+                      -----------
+                     |     |     |
+                     |  0  |  1  |
+                     |     |     |
+                      -----------
+would mean "all x are y' ", that is,
+"All new Cakes are not-nice."
+Now what would you make of such a Proposition as "The Cake you have
+given me is nice"?  Is it Particular or Universal?
+"Particular, of course," you readily reply.  "One single Cake is
+hardly worth calling 'some,' even."
+No, my dear impulsive Reader, it is 'Universal'.  Remember that,
+few as they are (and I grant you they couldn't well be fewer),
+they are (or rather 'it is') ALL that you have given me!  Thus, if
+(leaving 'red' out of the question) I divide my Universe of Cakes
+into two classes--the Cakes you have given me (to which I assign
+the upper half of the cupboard), and those you HAVEN'T given me
+(which are to go below)--I find the lower half fairly full, and the
+upper one as nearly as possible empty.  And then, when I am told
+to put an upright division into each half, keeping the NICE Cakes
+to the left, and the NOT-NICE ones to the right, I begin by carefully
+collecting ALL the Cakes you have given me (saying to myself, from
+time to time, "Generous creature!  How shall I ever repay such
+kindness?"), and piling them up in the left-hand compartment.  AND
+IT DOESN'T TAKE LONG TO DO IT!

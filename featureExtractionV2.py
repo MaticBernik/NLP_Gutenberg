@@ -6,6 +6,8 @@ from nltk.corpus import wordnet
 from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import RegexpTokenizer
+import numpy as np
+import matplotlib.pyplot as plt
 #nltk.download() #<- ODKOMENTIRAJ CE POGANJAS PRVIC!
 print('***Predviden cas izvajanja je ~9min')
 #METODI ZA 'STOPANJE' CASA ^^
@@ -28,7 +30,35 @@ os.chdir(projectDir)
 #Atributi izpeljani iz stevila pojavitev znakov znotraj dokumenta so pretvorjeni v frekvence znotraj istega dokumenta
 #---> nacin normalizacije zaradi neenakomerne dolzine clankov
 
-
+#Tabela podatkov o avtorjih <--- trenutno veljaven samo spol
+authors={'Eliot' : {'first name':'George', 'last name':'Eliot', 'gender':'F', 'period':'victorian', 'occupation':'novelist', 'nationality':'england'},
+         'Chopin' : {'first name':'Kate', 'last name':'Chopin', 'gender':'F', 'period':'victorian', 'occupation':'novelist'},
+         'Austen' : {'first name':'Austen', 'last name':'Jane', 'gender':'F', 'period':'victorian', 'occupation':'novelist'},
+         'Woolf': {'first name':'Virginia', 'last name':'Woolf', 'gender':'F', 'period':'modernism', 'occupation':'novelist','nationality':'england'},
+         'London': {'first name':'Jack', 'last name':'London', 'gender':'M', 'period':'victorian', 'occupation':'novelist', 'nationality':'america'},
+         'Joyce': {'first name':'James', 'last name':'Joyce', 'gender':'M', 'period':'modern', 'occupation':'novelist', 'nationality':'ireland'},
+         'Homer': {'first name':'Homer', 'last name':'', 'gender':'M', 'period':'ancient', 'occupation':'novelist'},
+         'Einstein': {'first name':'Albert', 'last name':'Einstein', 'gender':'M', 'period':'victorian', 'occupation':'physicist'},
+         'Defoe': {'first name':'Daniel', 'last name':'Defoe', 'gender':'M', 'period':'victorian', 'occupation':'novelist'},
+         'Carroll': {'first name':'Lewis', 'last name':'Carroll', 'gender':'F', 'period':'victorian', 'occupation':'novelist'},
+         'Asimov': {'first name':'Isaac', 'last name':'Asimov', 'gender':'M', 'period':'victorian', 'occupation':'novelist'},
+         'Alcott': {'first name':'Louisa', 'last name':'Alcott', 'gender':'F', 'period':'victorian', 'occupation':'novelist'},
+         'Plato': {'first name':'Plato', 'last name':'', 'gender':'M', 'period':'ancient greece', 'occupation':'novelist'},
+         'Ibsen': {'first name':'Henrik', 'last name':'Ibsen', 'gender':'M', 'period':'natiralism | realism', 'occupation':'novelist'},
+         'Wilde': {'first name':'Oscar', 'last name':'Wilde', 'gender':'M', 'period':'victorian', 'occupation':'author','nationality':'ireland'},
+         'Wharton': {'first name':'Edith', 'last name':'Wharton', 'gender':'F', 'period':'naturalism', 'occupation':'novelist','nationality':'america'}, #New York
+         'Tyler': {'first name':'Anna', 'last name':'Tyler', 'gender':'F', 'period':'victorian', 'occupation':'novelist'},
+         'Twain': {'first name':'Mark', 'last name':'Twain', 'gender':'M', 'period':'victorian', 'occupation':'novelist'},
+         'Rand': {'first name':'Ayn', 'last name':'Rand', 'gender':'F', 'period':'victorian', 'occupation':'writer'},
+         'Dostoyevsky': {'first name':'Fyodor', 'last name':'Dostoyevsky', 'gender':'M', 'period':'victorian', 'occupation':'novelist', 'nationality': 'russian', 'movement': 'realism'},
+         'Dickens': {'first name':'Charles', 'last name':'Dickens', 'gender':'M', 'period':'victorian', 'occupation':'novelist'},
+         'Cather': {'first name':'Willa', 'last name':'Cather', 'gender':'F', 'period':'victorian', 'occupation':'novelist'},
+         'West': {'first name':'Rebecca', 'last name':'West', 'gender':'F', 'period':'victorian', 'occupation':'novelist','nationality':'british'},
+         'Shelley': {'first name':'Shalley', 'last name':'Mary', 'gender':'F', 'period':'victorian', 'occupation':'novelist'},
+         'Shakespeare': {'first name':'William', 'last name':'Shakespeare', 'gender':'M', 'period':'elizabethian', 'occupation':'playwright', 'nationality':'english', 'movement': 'english renaissance'},
+         'Flaubert': {'first name':'Gustave', 'last name':'Flaubert', 'gender':'M', 'period':'realism | romanticism', 'occupation':'novelist', 'nationality': 'french', 'movement': 'realism | romanticism'},
+         'Christie': {'first name':'Agatha', 'last name':'Christie', 'gender':'F', 'period':'victorian', 'occupation':'novelist'}
+         }
 
 #Predpriprave na procesiranje texta
 stemmer = nltk.stem.PorterStemmer()
@@ -89,22 +119,22 @@ for article in articles:
 global_words=toker.tokenize(global_text)
 global_words_stemmed=[stemmer.stem(word) for word in global_words]
 global_words_stemmed_count=Counter(global_words_stemmed)
-global_tokens=nltk.word_tokenize(text)
+global_tokens=nltk.word_tokenize(global_text)
 global_tokens_stemmed=[stemmer.stem(token) for token in global_tokens]
 global_tokens_stemmed_count=Counter(global_tokens_stemmed)
 global_sentences = sentence_splitter.tokenize(global_text)
+global_najpogostejse_besede=global_words_stemmed_count.most_common(50)
 
 #print(global_words)
 #print(len(global_words))
 
 file_dataset = open('dataset.tab', 'w+')
-
-
 ##### TVORBA ATRIBUTOV #####
 toc()
 print("***Zacetek tvorbe atributov")
 tic()
 interesting_characters=['.',',','?',':',';',' ','!','-','_','(','\"','/'] #<----- DODAJAJ
+
 
 sestaviHeader=True
 header=""
@@ -121,10 +151,15 @@ for article in articles:
         header+='article name\t'
     record+=article+'\t'
 
-    #AVTOR (Target Class)
+    #AVTOR (Target Class 2)
     if sestaviHeader:
         header+='author\t'
     record+=values['author']+'\t'
+
+    #SPOL AVTORJA (Target Class 2)
+    if sestaviHeader:
+        header += 'author gender\t'
+    record += authors[values['author']]['gender'] + '\t'
 
     #FREKVENCE ZANIMIVIH ZNAKOV ZNOTRAJ BESEDILA
     for c in interesting_characters:
@@ -149,12 +184,11 @@ for article in articles:
     record += str(nChars / number_sentences)+'\t'
 
     #FREKVENCE GLOBALNO NAJPOGOSTEJSIH BESED V BESEDILU
-    najpogostejse_besede=global_words_stemmed_count.most_common(50) #premakni iz zanke za pohitritev?
-    for word in najpogostejse_besede:
+    for word in global_najpogostejse_besede:
         if sestaviHeader:
             header+='%\"'+word[0].replace("\n", "\\n").replace("\t", "\\t")+'\"\t'
         if word[0] in values['words'].elements():
-            record+=str(values['words'][word[0]])+'\t'
+            record+=str(values['words'][word[0]] / number_words)+'\t'
         else:
             record+="0\t"
 
@@ -171,3 +205,13 @@ for article in articles:
 file_dataset.close()
 toc()
 
+
+##### VIZUALIZACIJA #####
+
+#Stolpicni diagram najpogostejsih besed  in njihovih frekvenc v corpusu
+#labels, values = zip(*global_najpogostejse_besede.items())
+#indexes = np.arange(len(labels))
+#width = 1
+#plt.bar(indexes, values, width)
+#plt.xticks(indexes + width * 0.5, labels)
+#plt.show()

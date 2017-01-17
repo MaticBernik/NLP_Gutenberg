@@ -1,0 +1,122 @@
+27.  What are the two kinds of 'Fallacies'?
+28.  How may we detect 'Fallacious Premisses'?
+29.  How may we detect a 'Fallacious Conclusion'?
+30.  Sometimes the Conclusion, offered to us, is not identical with
+the correct Conclusion, and yet cannot be fairly called 'Fallacious'.
+When does this happen?  And what name may we give to such a
+Conclusion?
+[See pp. 57-59]
+2.  Half of Smaller Diagram.
+Propositions to be represented.
+                        -----------
+                       |     |     |
+                       |     x     |
+                       |     |     |
+                        --y-----y'-
+__________
+1.  Some x are not-y.
+2.  All x are not-y.
+3.  Some x are y, and some are not-y.
+4.  No x exist.
+5.  Some x exist.
+6.  No x are not-y.
+7.  Some x are not-y, and some x exist.
+__________
+Taking x="judges"; y="just";
+8.  No judges are just.
+9.  Some judges are unjust.
+10.  All judges are just.
+__________
+Taking x="plums"; y="wholesome";
+11.  Some plums are wholesome.
+12.  There are no wholesome plums.
+13.  Plums are some of them wholesome, and some not.
+14.  All plums are unwholesome.
+[See pp. 59, 60]
+                          -----
+                         |     |
+                         |     x
+                         |     |
+                         |--y--|
+                         |     |
+                         |     x'
+                         |     |
+                          -----
+__________
+Taking y="diligent students"; x="successful";
+15.  No diligent students are unsuccessful.
+16.  All diligent students are successful.
+17.  No students are diligent.
+18.  There are some diligent, but unsuccessful, students.
+19.  Some students are diligent.
+[See pp. 60, 1]
+3.  Half of Smaller Diagram.
+Symbols to be interpreted.
+__________
+                       -----------
+                      |     |     |
+                      |     x     |
+                      |     |     |
+                       --y-----y'-
+__________
+                  -------            -------
+                 |   |   |          |   |   |
+             1.  |   | 0 |      2.  | 0 | 0 |
+                 |   |   |          |   |   |
+                  -------            -------
+                  -------            -------
+                 |   |   |          |   |   |
+             3.  |   -   |      4.  | 0 | 1 |
+                 |   |   |          |   |   |
+                  -------            -------
+__________
+Taking x="good riddles"; y="hard";
+                  -------            -------
+                 |   |   |          |   |   |
+             5.  | 1 |   |      6.  | 1 | 0 |
+                 |   |   |          |   |   |
+                  -------            -------
+                  -------            -------
+                 |   |   |          |   |   |
+             7.  | 0 | 0 |      8.  | 0 |   |
+                 |   |   |          |   |   |
+                  -------            -------
+__________
+[See pp. 61, 2]
+Taking x="lobster"; y="selfish";
+                  -------            -------
+                 |   |   |          |   |   |
+             9.  |   | 1 |     10.  | 0 |   |
+                 |   |   |          |   |   |
+                  -------            -------
+                  -------            -------
+                 |   |   |          |   |   |
+            11.  | 0 | 1 |     12.  | 1 | 1 |
+                 |   |   |          |   |   |
+                  -------            -------
+__________
+                          -----
+                         |     |
+                         x     |
+                         |     |
+                         |--y'-|
+                         |     |
+                         x'    |
+                         |     |
+                          -----
+Taking y="healthy people"; x="happy";
+            ---          ---          ---          ---
+           | 0 |        |   |        | 1 |        | 0 |
+      13.  |---|   14.  |-1-|   15.  |---|   16.  |---|
+           | 1 |        |   |        | 1 |        |   |
+            ---          ---          ---          ---
+[See p. 62]
+4.  Smaller Diagram.
+Propositions to be represented.
+                         -----------
+                        |     |     |
+                        |     x     |
+                        |--y--|--y'-|
+                        |     x'    |
+                        |     |     |
+                         -----------

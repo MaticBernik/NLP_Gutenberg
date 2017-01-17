@@ -1,0 +1,55 @@
+This may be taken to be a cupboard divided in the same way as the
+last, but ALSO divided into two portions, for the Attribute m.  Let
+us give to m the meaning "wholesome": and let us suppose that all
+WHOLESOME Cakes are placed INSIDE the central Square, and all the
+UNWHOLESOME ones OUTSIDE it, that is, in one or other of the four
+queer-shaped OUTER compartments.
+We see that, just as, in the smaller Diagram, the Cakes in each
+compartment had TWO Attributes, so, here, the Cakes in each compartment
+have THREE Attributes: and, just as the letters, representing the
+TWO Attributes, were written on the EDGES of the compartment, so,
+here, they are written at the CORNERS.  (Observe that m' is supposed
+to be written at each of the four outer corners.)  So that we can
+tell in a moment, by looking at a compartment, what three Attributes
+belong to the Things in it.  For instance, take No. 12.  Here we
+find x, y', m, at the corners: so we know that the Cakes in it, if
+there are any, have the triple Attribute, 'xy'm', that is, "new,
+not-nice, and wholesome." Again, take No. 16.  Here we find, at
+the corners, x', y', m': so the Cakes in it are "not-new, not-nice,
+and unwholesome."  (Remarkably untempting Cakes!)
+It would take far too long to go through all the Propositions,
+containing x and y, x and m, and y and m which can be represented
+on this diagram (there are ninety-six altogether, so I am sure you
+will excuse me!) and I must content myself with doing two or three,
+as specimens.  You will do well to work out a lot more for yourself.
+Taking the upper half by itself, so that our Subject is "new Cakes",
+how are we to represent "no new Cakes are wholesome"?
+This is, writing letters for words, "no x are m."  Now this tells us
+that none of the Cakes, belonging to the upper half of the cupboard,
+are to be found INSIDE the central Square: that is, the two
+compartments, No. 11 and No. 12, are EMPTY.  And this, of course,
+is represented by
+                   -------------------
+                  |         |         |
+                  |    _____|_____    |
+                  |   |     |     |   |
+                  |   |  0  |  0  |   |
+                  |   |     |     |   |
+                   -------------------
+And now how are we to represent the contradictory Proposition "SOME x
+are m"?  This is a difficulty I have already considered.  I think
+the best way is to place a red counter ON THE DIVISION-LINE between
+No. 11 and No. 12, and to understand this to mean that ONE of the
+two compartments is 'occupied,' but that we do not at present know WHICH.
+This I shall represent thus:--
+                   -------------------
+                  |         |         |
+                  |    _____|_____    |
+                  |   |     |     |   |
+                  |   |    -1-    |   |
+                  |   |     |     |   |
+                   -------------------
+Now let us express "all x are m."
+This consists, we know, of TWO Propositions,
+                 "Some x are m,"
+             and "No x are m'."

@@ -31,7 +31,6 @@ for author_dir in os.listdir("books/"): #iterate trough authors
                             content_article+=line
 
                     length_article=len(content_article.split()) #check article length
-                    print(length_article)
                 filename_output="articles/"+author_dir+"/"+filename_noSuffix+"_"+str(i)+".txt"
                 #filename_output = "articles/" + filename_noSuffix + "_" + str(i) + ".txt"
                 #copy header file also??

@@ -1,0 +1,922 @@
+<U+202D>  FINIS DECIMI LIBRI HOM. ODYSS.
+<U+202D>[1] _<U+03A0><U+1F79><U+03B4><U+03B1> <U+03BD><U+03B7><U+1F78><U+03C2>_--He calls the stern the foot of the ship.
+<U+202D>[2] This place suffers different construction in all the Commentors:
+<U+202D>in which all err from the mind of the Poet, as in a hundred other
+<U+202D>places (which yet I want time to approve) especially about _<U+1F10><U+03B3><U+03B3><U+1F7A><U+03C2>
+<U+202D><U+03B3><U+1F70><U+03C1> <U+03BD><U+03C5><U+03BA><U+03C4><U+1F79><U+03C2>,_ etc.  _Prope enim noetis et diei sunt vio_ (or _similiter,_
+<U+202D>which _<U+1F10><U+03B3><U+03B3><U+1F7A><U+03C2>_ signifies) which they will have to be understood, that
+<U+202D>the days in that region are long, and the nights short; where Homer
+<U+202D>intends, that the equinoctial is there; for how else is the course of
+<U+202D>day and night near or equal?  But therefore the nights-man hath his
+<U+202D>double hire, being as long about his charge as the other; and the
+<U+202D>night being more dangerous, etc.  And if the day were so long, why
+<U+202D>should the nights-man be preferred in wages?
+<U+202D>[3] For being cast on the stays, as ships are by weather.
+<U+202D>[4] Antiphas was king there.
+<U+202D>[5] _<U+039C><U+03B5><U+03C1>µ<U+03B1><U+1F77><U+03C1><U+03C9>, curiose cogito._
+<U+202D>[6] _<U+0391><U+1F34><U+03B8><U+03BF><U+03C0><U+03B1> <U+03BA><U+03B1><U+03C0><U+03BD><U+1F79><U+03BD>.  <U+0391><U+03B9><U+0352><U+03B8><U+03BF><U+03C8>_ signifying _rutilus,_ by reason or the
+<U+202D>fire mixed with it.  _Fumus qui fit dut aliquid accenditur._
+<U+202D>[7] _<U+1FBF><U+0395><U+03C1><U+03B9><U+03BA><U+1F7B><U+03B4><U+03B5><U+03B1> <U+03B4><U+03B1><U+03B9><U+0311><U+03C4><U+03B1>._
+<U+202D>[8] The whole end of this counsel was to persuade his soldiers to
+<U+202D>explore those parts, which he knew would prove a most unpleasing
+<U+202D>motion to them:  for their fellows terrible entertainment with
+<U+202D>Antiphas, and Polyph. and therefore he prepares the little he hath to
+<U+202D>say with this long circumstance; implying a necessity of that
+<U+202D>service, and necessary resolution to add the trial of the event to
+<U+202D>their other adventures.
+<U+202D>[9] _<U+039A><U+03B5><U+03B4><U+03BD><U+1F78><U+03C2>, cujus animus curas prudentes versat._
+<U+202D>[10] Seeing them, he thought of his fellows.
+<U+202D>[11] The herb Moly, which, with Ulysses whole narration, hath in
+<U+202D>chief an allegorical exposition.  Notwithstanding I say with our
+<U+202D>Spondanus, _Credo in hoc vasto mundi ambitu extare res
+<U+202D>innumeras miranda facultatis:  adeo, ut ne quidem ista qua ad
+<U+202D>transformanda corpora pertinet, jure e mundo eximi possit, etc._
+<U+202D>[12] _<U+03A6><U+03C1><U+1F71><U+03C3><U+03C3><U+03B1><U+03BD><U+03C4><U+1F79> <U+03C4><U+03B5> <U+03C0><U+1F71><U+03BD><U+03C4><U+03B1>.  Commemorabantque omnia._  Intending
+<U+202D>all their miseries, escapes, and meetings.
+<U+202D>[13] _<U+039A><U+03BB><U+03C5><U+03C4><U+1F70> <U+1F15><U+03B8><U+03BD><U+03B5><U+03B1> <U+03BD><U+03B5><U+03BA><U+03C1><U+03C9><U+0311><U+03BD>._  Which is expounded _Inclyta examina
+<U+202D>mortuorum:_  but _<U+03BA><U+03BB><U+03C5><U+03C4><U+1F78><U+03C2>_ is the epithet of Pluto; and by analogy
+<U+202D>belongs to the dead, _quod ad se omnes advocat._
+<U+202D>  THE ELEVENTH BOOK OF HOMERS ODYSSEYS
+<U+202D>  THE ARGUMENT
+<U+202D>  Ulysees way to Hell appears;
+<U+202D>  Where he the grave Tiresias hears;
+<U+202D>  Enquires his own and others fates;
+<U+202D>  His mother sees, and th after states
+<U+202D>  In which were held by sad decease
+<U+202D>  Heroës, and Heroesses,
+<U+202D>  A number, that at Troy wagd war;
+<U+202D>  As Ajax that was still at jar
+<U+202D>  With Ithacus, for th arms he lost;
+<U+202D>  And with the great Achilles ghost.
+<U+202D>  ANOTHER ARGUMENT
+<U+202D>  _<U+039B><U+1F71><U+03BD>ß<U+03B4><U+03B1>._
+<U+202D>     Ulysses here
+<U+202D>        Invokes the dead,
+<U+202D>     The lives appear
+<U+202D>        Hereafter led.
+<U+202D>  Arrivd now at our ship, we launchd, and set
+<U+202D>  Our mast up, put forth sail, and in did get
+<U+202D>  Our late-got cattle.  Up our sails, we went,
+<U+202D>  My wayward fellows mourning now th event.  [1]
+<U+202D>  A good companion yet, a foreright wind,
+<U+202D>  Circe (the excellent uttrer of her mind)
+<U+202D>  Supplied our murmuring consorts with, that was
+<U+202D>  Both speed and guide to our adventurous pass.
+<U+202D>  All day our sails stood to the winds, and made
+<U+202D>  Our voyage prosprous.  Sun then set, and shade
+<U+202D>  All ways obscuring, on the bounds we fell
+<U+202D>  Of deep Oceanus, where people dwell
+<U+202D>  Whom a perpetual cloud obscures outright,
+<U+202D>  To whom the cheerful sun lends never light,
+<U+202D>  Nor when he mounts the star-sustaining heaven,
+<U+202D>  Nor when he stoops earth, and sets up the even,
+<U+202D>  But night holds fixd wings, featherd all with banes,
+<U+202D>  Above those most unblest Cimmerians.
+<U+202D>  Here drew we up our ship, our sheep withdrew,
+<U+202D>  And walkd the shore till we attaind the view,
+<U+202D>  Of that sad region Circe had foreshowd;
+<U+202D>  And then the sacred offrings to be vowd
+<U+202D>  Eurylochus and Persimedes bore.
+<U+202D>  When I my sword drew, and earths womb did gore
+<U+202D>  Till I a pit diggd of a cubit round,
+<U+202D>  Which with the liquid sacrifice we crownd,
+<U+202D>  First honey mixd with wine, then sweet wine neat,
+<U+202D>  Then water pourd in, last the flour of wheat.
+<U+202D>  Much I importund then the weak-neckd dead,
+<U+202D>  And vowd, when I the barren soil should tread
+<U+202D>  Of clifty Ithaca, amidst my hall
+<U+202D>  To kill a heifer, my clear best of all,
+<U+202D>  And give in offring, on a pile composd
+<U+202D>  Of all the choice goods my whole house enclosd.
+<U+202D>  And to Tiresias himself, alone,
+<U+202D>  A sheep coal-black, and the selectest one
+<U+202D>  Of all my flocks.  When to the Powrs beneath,
+<U+202D>  The sacred nation that survive with death,
+<U+202D>  My prayrs and vows had done devotions fit,
+<U+202D>  I took the offrings, and upon the pit
+<U+202D>  Bereft their lives.  Out gushd the sable blood,
+<U+202D>  And round about me fled out of the flood
+<U+202D>  The souls of the deceasd.  There clusterd then
+<U+202D>  Youths, and their wives, much-suffring aged men,
+<U+202D>  Soft tender virgins that but new came there
+<U+202D>  By timeless death, and green their sorrows were.
+<U+202D>  There men-at-arms, with armours all embrewd,
+<U+202D>  Wounded with lances, and with faulchions hewd,
+<U+202D>  In numbers, up and down the ditch, did stalk,
+<U+202D>  And threw unmeasurd cries about their walk,
+<U+202D>  So horrid that a bloodless fear surprisd
+<U+202D>  My daunted spirits.  Straight then I advisd
+<U+202D>  My friends to flay the slaughterd sacrifice,
+<U+202D>  Put them in fire, and to the Deities,
+<U+202D>  Stern Pluto and Persephoné, apply
+<U+202D>  Exciteful prayrs.  Then drew I from my thigh
+<U+202D>  My well-edgd sword, stept in, and firmly stood
+<U+202D>  Betwixt the prease of shadows and the blood,
+<U+202D>  And would not suffer anyone to dip
+<U+202D>  Within our offring his unsolid lip,
+<U+202D>  Before Tiresias that did all controul.
+<U+202D>  The first that pressd in was Elpenors soul,
+<U+202D>  His body in the broad-wayd earth as yet
+<U+202D>  Unmournd, unburied by us, since we swet
+<U+202D>  With other urgent labours.  Yet his smart
+<U+202D>  I wept to see, and rued it from my heart,
+<U+202D>  Enquiring how he could before me be
+<U+202D>  That came by ship?  He, mourning, answerd me:
+<U+202D>  In Circes house, the spite some spirit did bear,
+<U+202D>  And the unspeakable good liquor there,
+<U+202D>  Hath been my bane; for, being to descend
+<U+202D>  A ladder much in height, I did not tend
+<U+202D>  My way well down, but forwards made a proof
+<U+202D>  To tread the rounds, and from the very roof
+<U+202D>  Fell on my neck, and brake it; and this made
+<U+202D>  My soul thus visit this infernal shade.
+<U+202D>  And here, by them that next thyself are dear,
+<U+202D>  Thy wife, and father, that a little one
+<U+202D>  Gave food to thee, and by thy only son
+<U+202D>  At home behind thee left, Telemachus,
+<U+202D>  Do not depart by stealth, and leave me thus,
+<U+202D>  Unmournd, unburied, lest neglected I
+<U+202D>  Bring on thyself th incenséd Deity.
+<U+202D>  I know that, saild from hence, thy ship must touch
+<U+202D>  On th isle Aaa; where vouchsafe thus much,
+<U+202D>  Good king, that, landed, thou wilt instantly
+<U+202D>  Bestow on me thy royal memory
+<U+202D>  To this grace, that my body, arms and all,
+<U+202D>  May rest consumd in fiery funeral;
+<U+202D>  And on the foamy shore a sepulchre
+<U+202D>  Erect to me, that after-times may hear
+<U+202D>  Of one so hapless.  Let me these implore
+<U+202D>  And fix upon my sepulchre the oar  [2]
+<U+202D>  With which alive I shook the aged seas,
+<U+202D>  And had of friends the dear societies.
+<U+202D>     I told the wretched soul I would fulfill
+<U+202D>  And execute to th utmost point his will;
+<U+202D>  And, all the time we sadly talkd, I still
+<U+202D>  My sword above the blood held, when aside
+<U+202D>  The idol of my friend still amplified
+<U+202D>  His plaint, as up and down the shades he errd.
+<U+202D>  Then my deceaséd mothers soul appeard,
+<U+202D>  Fair daughter of Autolycus the great,
+<U+202D>  Grave Anticlea, whom, when forth I set
+<U+202D>  For sacred Ilion, I had left alive.
+<U+202D>  Her sight much movd me, and to tears did drive
+<U+202D>  My note of her decease; and yet not she
+<U+202D>  (Though in my ruth she held the highst degree)
+<U+202D>  Would I admit to touch the sacred blood,
+<U+202D>  Till from Tiresias I had understood
+<U+202D>  What Circe told me.  At the length did land
+<U+202D>  Theban Tiresias soul, and in his hand
+<U+202D>  Sustaind a golden sceptre, knew me well,
+<U+202D>  And said:  O man unhappy, why to hell
+<U+202D>  Admittst thou dark arrival, and the light
+<U+202D>  The sun gives leavst, to have the horrid sight
+<U+202D>  Of this black region, and the shadows here?
+<U+202D>  Now sheathe thy sharp sword, and the pit forbear,
+<U+202D>  That I the blood may taste, and then relate
+<U+202D>  The truth of those acts that affect thy fate.
+<U+202D>     I sheathd my sword, and left the pit, till he,
+<U+202D>  The black blood tasting, thus instructed me:
+<U+202D>  Renownd Ulysses!  All unaskd I know
+<U+202D>  That all the cause of thy arrival now
+<U+202D>  Is to enquire thy wishd retreat for home;
+<U+202D>  Which hardly God will let thee overcome,
+<U+202D>  Since Neptune still will his opposure try,
+<U+202D>  With all his laid-up anger, for the eye
+<U+202D>  His lovd son lost to thee.  And yet through all
+<U+202D>  Thy suffring course (which must be capital)
+<U+202D>  If both thine own affections, and thy friends,
+<U+202D>  Thou wilt contain, when thy access ascends
+<U+202D>  The three-forkd island, having scapd the seas,
+<U+202D>  Where ye shall find fed on the flowry leas
+<U+202D>  Fat flocks, and oxen, which the Sun doth own,
+<U+202D>  To whom are all things as well heard as shown,
+<U+202D>  And never dare one head of those to slay,
+<U+202D>  But hold unharmful on your wishéd way,
+<U+202D>  Though through enough affliction, yet secure
+<U+202D>  Your Fates shall land ye; but presage says sure,
+<U+202D>  If once ye spoil them, spoil to all thy friends,
+<U+202D>  Spoil to thy fleet, and if the justice ends
+<U+202D>  Short of thyself, it shall be long before,
+<U+202D>  And that length forcd out with inflictions store,
+<U+202D>  When, losing all thy fellows, in a sail
+<U+202D>  Of foreign built (when most thy Fates prevail
+<U+202D>  In thy delivrance) thus th event shall sort:
+<U+202D>  Thou shalt find shipwrack raging in thy port,
+<U+202D>  Proud men thy goods consuming, and thy wife
+<U+202D>  Urging with gifts, give charge upon thy life.
+<U+202D>  But all these wrongs revenge shall end to thee,
+<U+202D>  And force, or cunning, set with slaughter free
+<U+202D>  The house of all thy spoilers.  Yet again
+<U+202D>  Thou shalt a voyage make, and come to men
+<U+202D>  That know no sea, nor ships, nor oars that are
+<U+202D>  Wings to a ship, nor mix with any fare  [3]
+<U+202D>  Salts savoury vapour.  Where thou first shalt land,
+<U+202D>  This clear-givn sign shall let thee understand,
+<U+202D>  That there those men remain:  Assume ashore
+<U+202D>  Up to thy royal shoulder a ship oar,
+<U+202D>  With which, when thou shalt meet one on the way
+<U+202D>  That will in county admiration say
+<U+202D>  What dost thou with that wan upon thy neck?
+<U+202D>  There fix that wan thy oar, and that shore deck
+<U+202D>  With sacred rites to Neptune; slaughter there
+<U+202D>  A ram, a bull, and (who for strength doth bear
+<U+202D>  The name of husband to a herd) a boar.
+<U+202D>  And, coming home, upon thy natural shore,
+<U+202D>  Give pious hecatombs to all the Gods,
+<U+202D>  Degrees observd.  And then the periods
+<U+202D>  Of all thy labours in the peace shall end
+<U+202D>  Of easy death; which shall the less extend
+<U+202D>  His passion to thee, that thy foe, the Sea,
+<U+202D>  Shall not enforce it, but Deaths victory
+<U+202D>  Shall chance in only-earnest-pray-vowd age,  [4]
+<U+202D>  Obtaind at home, quite emptied of his rage,
+<U+202D>  Thy subjects round about thee, rich and blest.
+<U+202D>  And here hath Truth summd up thy vital rest.
+<U+202D>     I answerd him:  We will suppose all these
+<U+202D>  Decreed in Deity; let it likewise please
+<U+202D>  Tiresias to resolve me, why so near
+<U+202D>  The blood and me my mothers soul doth bear,
+<U+202D>  And yet nor word, nor look, vouchsafe her son?
+<U+202D>  Doth she not know me?  No,  said he,  nor none
+<U+202D>  Of all these spirits, but myself alone,
+<U+202D>  Knows anything till he shall taste the blood.
+<U+202D>  But whomsoever you shall do that good,
+<U+202D>  He will the truth of all you wish unfold;
+<U+202D>  Who you envy it to will all withhold.
+<U+202D>     Thus said the kingly soul, and made retreat
+<U+202D>  Amidst the inner parts of Plutos seat,
+<U+202D>  When he had spoke thus by divine instinct.
+<U+202D>  Still I stood firm, till to the bloods precinct
+<U+202D>  My mother came, and drunk; and then she knew
+<U+202D>  I was her son, had passion to renew
+<U+202D>  Her natural plaints, which thus she did pursue:
+<U+202D>  How is it, O my son, that you alive
+<U+202D>  This deadly-darksome region underdive?
+<U+202D>  Twixt which, and earth, so many mighty seas,
+<U+202D>  And horrid currents, interpose their prease,
+<U+202D>  Oceanus in chief?  Which none (unless
+<U+202D>  More helpd than you) on foot now can transgress.
+<U+202D>  A well-built ship he needs that ventures there.
+<U+202D>  Comst thou from Troy but now, enforcd to err
+<U+202D>  All this time with thy soldiers?  Nor hast seen,
+<U+202D>  Ere this long day, thy country, and thy queen?
+<U+202D>     I answerd:  That a necessary end
+<U+202D>  To this infernal state made me contend;
+<U+202D>  That from the wise Tiresias Theban soul
+<U+202D>  I might an oracle involvd unroll;
+<U+202D>  For I came nothing near Achaia yet,
+<U+202D>  Nor on our lovd earth happy foot had set,
+<U+202D>  But, mishaps suffring, errd from coast to coast,
+<U+202D>  Ever since first the mighty Grecian host
+<U+202D>  Divine Atrides led to Ilion,
+<U+202D>  And I his follower, to set war upon
+<U+202D>  The rapeful Trojans; and so prayd she would
+<U+202D>  The fate of that ungentle death unfold,
+<U+202D>  That forcd her thither; if some long disease,
+<U+202D>  Or that the spleen of her-that-arrows-please,
+<U+202D>  Diana, envious of most eminent dames,
+<U+202D>  Had made her th object of her deadly aims?
+<U+202D>  My fathers state and sons I sought, if they
+<U+202D>  Kept still my goods?  Or they became the prey
+<U+202D>  Of any other, holding me no more
+<U+202D>  In powr of safe return?  Or if my store
+<U+202D>  My wife had kept together with her son?
+<U+202D>  If she her first mind held, or had been won
+<U+202D>  By some chief Grecian from my love and bed?
+<U+202D>     All this she answerd:  That affliction fed
+<U+202D>  On her blood still at home, and that to grief
+<U+202D>  She all the days and darkness of her life
+<U+202D>  In tears had consecrate.  That none possest
+<U+202D>  My famous kingdoms throne, but th interest
+<U+202D>  My son had in it still he held in peace,
+<U+202D>  A court kept like a prince, and his increase
+<U+202D>  Spent in his subjects good, administring laws
+<U+202D>  With justice, and the general applause
+<U+202D>  A king should merit, and all calld him king.
+<U+202D>  My father kept the upland, labouring,
+<U+202D>  And shunnd the city, usd no sumptuous beds,
+<U+202D>  Wonderd-at furnitures, nor wealthy weeds,
+<U+202D>  But in the winter strewd about the fire
+<U+202D>  Lay with his slaves in ashes, his attire
+<U+202D>  Like to a beggars; when the summer came,
+<U+202D>  And autumn all fruits ripend with his flame,
+<U+202D>  Where grape-chargd vines made shadows most abound,
+<U+202D>  His couch with falln leaves made upon the ground,
+<U+202D>  And here lay he, his sorrows fruitful state
+<U+202D>  Increasing as he faded for my fate;
+<U+202D>  And now the part of age that irksome is
+<U+202D>  Lay sadly on him.  And that life of his
+<U+202D>  She led, and perishd in; not slaughterd by
+<U+202D>  The Dame that darts lovd, and her archery;
+<U+202D>  Nor by disease invaded, vast and foul,
+<U+202D>  That wastes the body, and sends out the soul
+<U+202D>  With shame and horror; only in her moan,
+<U+202D>  For me and my life, she consumd her own.
+<U+202D>     She thus, when I had great desire to prove
+<U+202D>  My arms the circle where her soul did move.
+<U+202D>  Thrice provd I, thrice she vanishd like a sleep,
+<U+202D>  Or fleeting shadow, which struck much more deep
+<U+202D>  The wounds my woes made, and made ask her why
+<U+202D>  She would my love to her embraces fly,
+<U+202D>  And not vouchsafe that evn in hell we might
+<U+202D>  Pay pious Nature her unalterd right,
+<U+202D>  And give Vexation here her cruel fill?
+<U+202D>  Should not the Queen here, to augment the ill
+<U+202D>  Of evry suffrance, which her office is,
+<U+202D>  Enforce thy idol to afford me this?
+<U+202D>     O son,  she answerd,  of the race of men
+<U+202D>  The most unhappy, our most equal Queen
+<U+202D>  Will mock no solid arms with empty shade,
+<U+202D>  Nor suffer empty shades again t invade
+<U+202D>  Flesh, bones, and nerves; nor will defraud the fire
+<U+202D>  Of his last dues, that, soon as spirits expire
+<U+202D>  And leave the white bone, are his native right,
+<U+202D>  When, like a dream, the soul assumes her flight.
+<U+202D>  The light then of the living with most haste,
+<U+202D>  O son, contend to.  This thy little taste
+<U+202D>  Of this state is enough; and all this life
+<U+202D>  Will make a tale fit to be told thy wife.
+<U+202D>     This speech we had; when now repaird to me
+<U+202D>  More female spirits, by Persephoné
+<U+202D>  Drivn on before her.  All th heroës wives,
+<U+202D>  And daughters, that led there their second lives,
+<U+202D>  About the black blood throngd.  Of whom yet more
+<U+202D>  My mind impelld me to inquire, before
+<U+202D>  I let them all together taste the gore,
+<U+202D>  For then would all have been dispersd, and gone
+<U+202D>  Thick as they came.  I, therefore, one by one
+<U+202D>  Let taste the pit, my sword drawn from my thigh,
+<U+202D>  And stand betwixt them made, when, sevrally,
+<U+202D>  All told their stocks.  The first, that quenchd her fire,
+<U+202D>  Was Tyro, issued of a noble sire.
+<U+202D>  She said she sprung from pure Salmoneus bed,
+<U+202D>  And Cretheus, son of Aolus, did wed;
+<U+202D>  Yet the divine flood Enipëus lovd,
+<U+202D>  Who much the most fair stream of all floods movd.
+<U+202D>  Near whose streams Tyro walking, Neptune came,
+<U+202D>  Like Enipëus, and enjoyd the dame.
+<U+202D>  Like to a hill, the blue and snaky flood
+<U+202D>  Above th immortal and the mortal stood,
+<U+202D>  And hid them both, as both together lay,
+<U+202D>  Just where his current falls into the sea.
+<U+202D>  Her virgin waist dissolvd, she slumberd then;
+<U+202D>  But when the God had done the work of men,
+<U+202D>  Her fair hand gently wringing, thus he said:
+<U+202D>  Woman!  rejoice in our combinéd bed,
+<U+202D>  For when the year hath run his circle round
+<U+202D>  (Because the Gods loves must in fruit abound)
+<U+202D>  My love shall make, to cheer thy teeming moans,
+<U+202D>  Thy one dear burden bear two famous sons;
+<U+202D>  Love well, and bring them up.  Go home, and see
+<U+202D>  That, though of more joy yet I shall be free,
+<U+202D>  Thou dost not tell, to glorify thy birth;
+<U+202D>  Thy love is Neptune, shaker of the earth.
+<U+202D>  This said, he plungd into the sea; and she,
+<U+202D>  Begot with child by him, the light let see
+<U+202D>  Great Pelias, and Neleus, that became
+<U+202D>  In Joves great ministry of mighty fame.
+<U+202D>  Pelias in broad Iolcus held his throne,
+<U+202D>  Wealthy in cattle; th other royal son
+<U+202D>  Ruld sandy Pylos.  To these issue more
+<U+202D>  This queen of women to her husband bore,
+<U+202D>  Ason, and Pheres, and Amythaon
+<U+202D>  That for his fight on horseback stoopd to none.
+<U+202D>     Next her, I saw admird Antiope,
+<U+202D>  Asopus daughter, who (as much as she
+<U+202D>  Boasted attraction of great Neptunes love)
+<U+202D>  Boasted to slumber in the arms of Jove,
+<U+202D>  And two sons likewise at one burden bore
+<U+202D>  To that her all-controlling paramour,
+<U+202D>  Amphion, and fair Zethus; that first laid
+<U+202D>  Great Thebes foundations, and strong walls conveyd
+<U+202D>  About her turrets, that seven ports enclosd,
+<U+202D>  For though the Thebans much in strength reposd,
+<U+202D>  Yet had not they the strength to hold their own,
+<U+202D>  Without the added aids of wood and stone.
+<U+202D>     Alcmena next I saw, that famous wife
+<U+202D>  Was to Amphitryo, and honourd life
+<U+202D>  Gave to the lion-hearted Hercules,
+<U+202D>  That was of Joves embrace the great increase.
+<U+202D>     I saw, besides, proud Creons daughter there,
+<U+202D>  Bright Megara, that nuptial yoke did wear
+<U+202D>  With Joves great son, who never field did try
+<U+202D>  But bore to him the flowr of victory.
+<U+202D>     The mother then of Odipus I saw,
+<U+202D>  Fair Epicasta, that, beyond all law,
+<U+202D>  Her own son married, ignorant of kind.
+<U+202D>  And he, as darkly taken in his mind,
+<U+202D>  His mother wedded, and his father slew.
+<U+202D>  Whose blind act Heavn exposd at length to view,
+<U+202D>  And he in all-lovd Thebes the supreme state
+<U+202D>  With much moan managd, for the heavy fate
+<U+202D>  The Gods laid on him.  She made violent flight
+<U+202D>  To Plutos dark house from the loathéd light,
+<U+202D>  Beneath a steep beam strangled with a cord,
+<U+202D>  And left her son, in life, pains as abhorrd
+<U+202D>  As all the Furies pourd on her in hell.
+<U+202D>  Then saw I Chloris, that did so excell
+<U+202D>  In answering beauties, that each part had all.
+<U+202D>  Great Neleus married her, when gifts not small
+<U+202D>  Had won her favour, termd by name of dowr.
+<U+202D>  She was of all Amphions seed the flowr;
+<U+202D>  Amphion, calld Iasides, that then
+<U+202D>  Ruld strongly Myniaan Orchomen,
+<U+202D>  And now his daughter ruld the Pylian throne,
+<U+202D>  Because her beautys empire overshone.
+<U+202D>  She brought her wife-awed husband, Neleús,
+<U+202D>  Nestor much honourd, Periclymenus,
+<U+202D>  And Chromius, sons with sovreign virtues gracd;
+<U+202D>  But after brought a daughter that surpassd,
+<U+202D>  Rare-beautied Pero, so for form exact
+<U+202D>  That Nature to a miracle was rackd
+<U+202D>  In her perfections, blazd with th eyes of men;
+<U+202D>  That made of all the countrys hearts a chain,
+<U+202D>  And drew them suitors to her.  Which her sire
+<U+202D>  Took vantage of, and, since he did aspire
+<U+202D>  To nothing more than to the broad-browd herd
+<U+202D>  Of oxen, which the common fame so reard,
+<U+202D>  Ownd by Iphiclus, not a man should be
+<U+202D>  His Peros husband, that from Phylace
+<U+202D>  Those never-yet-drivn oxen could not drive.
+<U+202D>  Yet these a strong hope held him to achieve,
+<U+202D>  Because a prophet, that had never errd,
+<U+202D>  Had said, that only he should be preferrd
+<U+202D>  To their possession.  But the equal fate
+<U+202D>  Of God withstood his stealth; inextricate
+<U+202D>  Imprisoning bands, and sturdy churlish swains
+<U+202D>  That were the herdsmen, who withheld with chains
+<U+202D>  The stealth-attempter; which was only he
+<U+202D>  That durst abet the act with prophecy,
+<U+202D>  None else would undertake it, and he must;
+<U+202D>  The king would needs a prophet should be just.
+<U+202D>  But when some days and months expired were,
+<U+202D>  And all the hours had brought about the year,
+<U+202D>  The prophet did so satisfy the king
+<U+202D>  (Iphiclus, all his cunning questioning)
+<U+202D>  That he enfranchisd him; and, all worst done,
+<U+202D>  Joves counsel made th all-safe conclusión.
+<U+202D>     Then saw I Leda, linkd in nuptial chain
+<U+202D>  With Tyndarus, to whom she did sustain
+<U+202D>  Sons much renownd for wisdom; Castor one,
+<U+202D>  That passd for use of horse comparison;
+<U+202D>  And Pollux, that excelld in whirlbat fight;
+<U+202D>  Both these the fruitful earth bore, while the light
+<U+202D>  Of life inspird them; after which, they found
+<U+202D>  Such grace with Jove, that both livd under ground,
+<U+202D>  By change of days; life still did one sustain,
+<U+202D>  While th other died; the dead then livd again,
+<U+202D>  The living dying; both of one self date
+<U+202D>  Their lives and deaths made by the Gods and Fate.
+<U+202D>     Iphimedia after Leda came,
+<U+202D>  That did derive from Neptune too the name
+<U+202D>  Of father to two admirable sons.
+<U+202D>  Life yet made short their admiratións,
+<U+202D>  Who God-opposéd Otus had to name,
+<U+202D>  And Ephialtes far in sound of fame.
+<U+202D>  The prodigal earth so fed them, that they grew
+<U+202D>  To most huge stature, and had fairest hue
+<U+202D>  Of all men, but Orion, under heavn.
+<U+202D>  At nine years old nine cubits they were drivn
+<U+202D>  Abroad in breadth, and sprung nine fathoms high.
+<U+202D>  They threatend to give battle to the sky,
+<U+202D>  And all th Immortals.  They were setting on
+<U+202D>  Ossa upon Olympus, and upon
+<U+202D>  Steep Ossa leavy Pelius, that evn
+<U+202D>  They might a highway make with lofty heavn;
+<U+202D>  And had perhaps performd it, had they livd
+<U+202D>  Till they were striplings; but Joves son deprivd
+<U+202D>  Their limbs of life, before th age that begins
+<U+202D>  The flowr of youth, and should adorn their chins.
+<U+202D>     Phadra and Procris, with wise Minos flame,
+<U+202D>  Bright Ariadne, to the offring came.
+<U+202D>  Whom whilome Theseus made his prise from Crete,
+<U+202D>  That Athens sacred soil might kiss her feet,
+<U+202D>  But never could obtain her virgin flowr,
+<U+202D>  Till, in the sea-girt Dia, Dians powr
+<U+202D>  Detaind his homeward haste, where (in her fane,
+<U+202D>  By Bacchus witnessd) was the fatal wane
+<U+202D>  Of her prime glory, Mara, Clymene,
+<U+202D>  I witnessd there; and loathd Eriphyle,
+<U+202D>  That honourd gold more than she lovd her spouse.  [5]
+<U+202D>     But, all th heroesses in Plutos house
+<U+202D>  That then encounterd me, exceeds my might
+<U+202D>  To name or number, and ambrosian night
+<U+202D>  Would quite be spent, when now the formal hours
+<U+202D>  Present to sleep our all disposéd powrs,
+<U+202D>  If at my ship, or here.  My home-made vow
+<U+202D>  I leave for fit grace to the Gods and you.
+<U+202D>     This said; the silence his discourse had made
+<U+202D>  With pleasure held still through the houses shade,
+<U+202D>  When white-armd Areté this speech began:
+<U+202D>  Phaacians!  How appears to you this man,
+<U+202D>  So goodly persond, and so matchd with mind?
+<U+202D>  My guest he is, but all you stand combind
+<U+202D>  In the renown he doth us.  Do not then
+<U+202D>  With careless haste dismiss him, nor the main
+<U+202D>  Of his dispatch to one so needy maim,
+<U+202D>  The Gods free bounty gives us all just claim
+<U+202D>  To goods enow.  This speech, the oldest man
+<U+202D>  Of any other Phaacensian,
+<U+202D>  The grave heroë, Echinëus, gave
+<U+202D>  All approbation, saying:  Friends!  ye have
+<U+202D>  The motion of the wise queen in such words
+<U+202D>  As have not missd the mark, with which accords
+<U+202D>  My clear opinion.  But Alcinous,
+<U+202D>  In word and work, must be our rule.  He thus;
+<U+202D>  And then Alcinous said:  This then must stand,
+<U+202D>  If while I live I rule in the command
+<U+202D>  Of this well-skilld-in-navigation state:
+<U+202D>  Endure then, guest, though most importunate
+<U+202D>  Be your affects for home.  A little stay
+<U+202D>  If your expectance bear, perhaps it may
+<U+202D>  Our gifts make more complete.  The cares of all
+<U+202D>  Your due deduction asks; but principal
+<U+202D>  I am therein the ruler.  He replied:
+<U+202D>  Alcinous, the most duly glorified
+<U+202D>  With rule of all of all men, if you lay
+<U+202D>  Commandment on me of a whole years stay,
+<U+202D>  So all the while your preparations rise,
+<U+202D>  As well in gifts as time,  [6]  ye can devise
+<U+202D>  No better wish for me; for I shall come
+<U+202D>  Much fuller-handed, and more honoured, home,
+<U+202D>  And dearer to my people, in whose loves
+<U+202D>  The richer evermore the better proves.
+<U+202D>     He answerd:  There is argued in your sight
+<U+202D>  A worth that works not men for benefit,
+<U+202D>  Like prollers or impostors; of which crew,
+<U+202D>  The gentle black earth feeds not up a few,
+<U+202D>  Here and there wandrers, blanching tales and lies,
+<U+202D>  Of neither praise, nor use.  You move our eyes
+<U+202D>  With form, our minds with matter, and our ears
+<U+202D>  With elegant oration, such as bears
+<U+202D>  A music in the orderd history
+<U+202D>  It lays before us.  Not Demodocus
+<U+202D>  With sweeter strains hath usd to sing to us
+<U+202D>  All the Greek sorrows, wept out in your own.
+<U+202D>  But say:  Of all your worthy friends, were none
+<U+202D>  Objected to your eyes that consorts were
+<U+202D>  To Ilion with you, and servd destiny there?
+<U+202D>  This night is passing long, unmeasurd, none
+<U+202D>  Of all my household would to bed yet; on,
+<U+202D>  Relate these wondrous things.  Were I with you,
+<U+202D>  If you would tell me but your woes, as now,
+<U+202D>  Till the divine Aurora showd her head,
+<U+202D>  I should in no night relish thought of bed.
+<U+202D>     Most eminent king,  said he,  times all must keep,
+<U+202D>  Theres time to speak much, time as much to sleep.
+<U+202D>  But would you hear still, I will tell you still,
+<U+202D>  And utter more, more miserable ill
+<U+202D>  Of friends than yet, that scapd the dismal wars,
+<U+202D>  And perishd homewards, and in household jars
+<U+202D>  Wagd by a wicked woman.  The chaste Queen
+<U+202D>  No sooner made these lady ghosts unseen,
+<U+202D>  Here and there flitting, but mine eyesight won
+<U+202D>  The soul of Agamemnon, Atreus son,
+<U+202D>  Sad, and about him all his train of friends,
+<U+202D>  That in Agisthus house endurd their ends
+<U+202D>  With his stern fortune.  Having drunk the blood,
+<U+202D>  He knew me instantly, and forth a flood
+<U+202D>  Of springing tears gushd; out he thrust his hands,
+<U+202D>  With will t embrace me, but their old commands
+<U+202D>  Flowd not about him, nor their weakest part.
+<U+202D>  I wept to see, and moand him from my heart,
+<U+202D>  And askd:  O Agamemnon!  King of men!
+<U+202D>  What sort of cruel death hath renderd slain
+<U+202D>  Thy royal person?  Neptune in thy fleet
+<U+202D>  Heavn and his hellish billows making meet,
+<U+202D>  Rousing the winds?  Or have thy men by land
+<U+202D>  Done thee this ill, for using thy command,
+<U+202D>  Past their consents, in diminution
+<U+202D>  Of those full shares their worths by lot had won
+<U+202D>  Of sheep or oxen?  Or of any town,
+<U+202D>  In covetous strife, to make their rights thine own
+<U+202D>  In men or women prisoners?  He replied:
+<U+202D>  By none of these in any right I died,
+<U+202D>  But by Agisthus and my murdrous wife
+<U+202D>  (Bid to a banquet at his house) my life
+<U+202D>  Hath thus been reft me, to my slaughter led
+<U+202D>  Like to an ox pretended to be fed.
+<U+202D>  So miserably fell I, and with me
+<U+202D>  My friends lay massacred, as when you see
+<U+202D>  At any rich mans nuptials, shot, or feast,
+<U+202D>  About his kitchen white-toothd swine lie drest.
+<U+202D>  The slaughters of a world of men thine eyes,
+<U+202D>  Both private, and in prease of enemies,
+<U+202D>  Have personally witnessd; but this one
+<U+202D>  Would all thy parts have broken into moan,
+<U+202D>  To see how strewd about our cups and cates,
+<U+202D>  As tables set with feast, so we with fates,
+<U+202D>  All gashd and slain lay, all the floor embrued
+<U+202D>  With blood and brain.  But that which most I rued,
+<U+202D>  Flew from the heavy voice that Priams seed,
+<U+202D>  Cassandra, breathd, whom, she that wit doth feed
+<U+202D>  With baneful crafts, false Clytemnestra, slew,
+<U+202D>  Close sitting by me; up my hands I threw
+<U+202D>  From earth to heavn, and tumbling on my sword
+<U+202D>  Gave wretched life up; when the most abhorrd,
+<U+202D>  By all her sexs shame, forsook the room,
+<U+202D>  Nor deignd, though then so near this heavy home,
+<U+202D>  To shut my lips, or close my broken eyes.
+<U+202D>  Nothing so heapd is with impieties,
+<U+202D>  As such a woman that would kill her spouse
+<U+202D>  That married her a maid.  When to my house
+<U+202D>  I brought her, hoping of her love in heart,
+<U+202D>  To children, maids, and slaves.  But she (in th art
+<U+202D>  Of only mischief hearty) not alone
+<U+202D>  Cast on herself this foul aspersión,
+<U+202D>  But loving dames, hereafter, to their lords
+<U+202D>  Will bear, for good deeds, her bad thoughts and words.
+<U+202D>     Alas,  said I,  that Jove should hate the lives
+<U+202D>  Of Atreus seed so highly for their wives!
+<U+202D>  For Menelaus wife a number fell,
+<U+202D>  For dangrous absence thine sent thee to hell.
+<U+202D>     For this,  he answerd,  be not thou more kind
+<U+202D>  Than wise to thy wife.  Never all thy mind
+<U+202D>  Let words express to her.  Of all she knows,
+<U+202D>  Curbs for the worst still, in thyself repose.
+<U+202D>  But thou by thy wifes wiles shalt lose no blood,
+<U+202D>  Exceeding wise she is, and wise in good.
+<U+202D>  Icarius daughter, chaste Penelope,
+<U+202D>  We left a young bride, when for battle we
+<U+202D>  Forsook the nuptial peace, and at her breast
+<U+202D>  Her first child sucking, who, by this hour, blest,
+<U+202D>  Sits in the number of surviving men.
+<U+202D>  And his bliss she hath, that she can contain,
+<U+202D>  And her bliss thou hast, that she is so wise.
+<U+202D>  For, by her wisdom, thy returnéd eyes
+<U+202D>  Shall see thy son, and he shall greet his sire
+<U+202D>  With fitting welcomes; when in my retire,
+<U+202D>  My wife denies mine eyes my sons dear sight,
+<U+202D>  And, as from me, will take from him the light,
+<U+202D>  Before she adds one just delight to life,
+<U+202D>  Or her false wit one truth that fits a wife.
+<U+202D>  For her sake therefore let my harms advise,
+<U+202D>  That though thy wife be neer so chaste and wise,
+<U+202D>  Yet come not home to her in open view,  [7]
+<U+202D>  With any ship or any personal show,
+<U+202D>  But take close shore disguisd, nor let her know,
+<U+202D>  For tis no world to trust a woman now.
+<U+202D>  But what says Fame?  Doth my son yet survive,
+<U+202D>  In Orchomen, or Pylos?  Or doth live
+<U+202D>  In Sparta with his uncle?  Yet I see
+<U+202D>  Divine Orestes is not here with me.
+<U+202D>     I answerd, asking:  Why doth Atreus son
+<U+202D>  Enquire of me, who yet arrivd where none
+<U+202D>  Could give to these news any certain wings?
+<U+202D>  And tis absurd to tell uncertain things.
+<U+202D>     Such sad speech past us; and as thus we stood,
+<U+202D>  With kind tears rendring unkind fortunes good,
+<U+202D>  Achilles and Patroclus soul appeard,
+<U+202D>  And his soul, of whom never ill was heard,
+<U+202D>  The good Antilochus, and the soul of him
+<U+202D>  That all the Greeks past both for force and limb,
+<U+202D>  Excepting the unmatchd Aacides,
+<U+202D>  Illustrious Ajax.  But the first of these
+<U+202D>  That saw, acknowledgd, and saluted me,
+<U+202D>  Was Thetis conquring son, who (heavily
+<U+202D>  His state here taking) said:  Unworthy breath!
+<U+202D>  What act yet mightier imagineth
+<U+202D>  Thy ventrous spirit?  How dost thou descend
+<U+202D>  These under-regions, where the dead mans end
+<U+202D>  Is to be lookd on, and his foolish shade?
+<U+202D>     I answerd him:  I was inducd t invade
+<U+202D>  These under-parts, most excellent of Greece,
+<U+202D>  To visit wise Tiresias, for advice
+<U+202D>  Of virtue to direct my voyage home
+<U+202D>  To rugged Ithaca; since I could come
+<U+202D>  To note in no place, where Achaia stood,
+<U+202D>  And so livd ever, torturd with the blood
+<U+202D>  In mans vain veins.  Thou, therefore, Thetis son,
+<U+202D>  Hast equalld all, that ever yet have won
+<U+202D>  The bliss the earth yields, or hereafter shall.
+<U+202D>  In life thy eminence was adord of all,
+<U+202D>  Evn with the Gods; and now, evn dead, I see
+<U+202D>  Thy virtues propagate thy empery
+<U+202D>  To a renewd life of command beneath;
+<U+202D>  So great Achilles triumphs over death.
+<U+202D>  This comfort of him this encounter found;
+<U+202D>  Urge not my death to me, nor rub that wound,
+<U+202D>  I rather wish to live in earth a swain,
+<U+202D>  Or serve a swain for hire, that scarce can gain
+<U+202D>  Bread to sustain him, than, that life once gone,
+<U+202D>  Of all the dead sway the imperial throne.
+<U+202D>  But say, and of my son some comfort yield,
+<U+202D>  If he goes on in first fights of the field,
+<U+202D>  Or lurks for safety in the obscure rear?
+<U+202D>  Or of my father if thy royal ear
+<U+202D>  Hath been advertisd, that the Phthian throne
+<U+202D>  He still commands, as greatest Myrmidon?
+<U+202D>  Or that the Phthian and Thessalian rage
+<U+202D>  (Now feet and hands are in the hold of age)
+<U+202D>  Despise his empire?  Under those bright rays,
+<U+202D>  In which heavns fervour hurls about the days.
+<U+202D>  Must I no more shine his revenger now,
+<U+202D>  Such as of old the Ilion overthrow
+<U+202D>  Witnessd my anger, th universal host
+<U+202D>  Sending before me to this shady coast,
+<U+202D>  In fight for Grecia.  Could I now resort,
+<U+202D>  (But for some small time) to my fathers court,
+<U+202D>  In spirit and powr as then, those men should find
+<U+202D>  My hands inaccessible, and of fire my mind,
+<U+202D>  That durst with all the numbers they are strong
+<U+202D>  Unseat his honour, and suborn his wrong.
+<U+202D>     This pitch still flew his spirit, though so low,
+<U+202D>  And this I answerd thus:  I do not know
+<U+202D>  Of blameless Peleus any least report,
+<U+202D>  But of your son, in all the utmost sort,
+<U+202D>  I can inform your care with truth, and thus:
+<U+202D>     From Scyros princely Neoptolemus
+<U+202D>  By fleet I conveyd to the Greeks, where he
+<U+202D>  Was chief, at both parts, when our gravity
+<U+202D>  Retird to council, and our youth to fight.
+<U+202D>  In council still so fiery was Conceit
+<U+202D>  In his quick apprehension of a cause,
+<U+202D>  That first he ever spake, nor passd the laws
+<U+202D>  Of any great stay, in his greatest haste.
+<U+202D>  None would contend with him, that counselld last,
+<U+202D>  Unless illustrious Nestor, he and I
+<U+202D>  Would sometimes put a friendly contrary
+<U+202D>  On his opinion.  In our fights, the prease
+<U+202D>  Of great or common, he would never cease,
+<U+202D>  But far before fight ever.  No man there,
+<U+202D>  For force, he forcéd.  He was slaughterer
+<U+202D>  Of many a brave man in most dreadful fight.
+<U+202D>  But one and other whom he reft of light,
+<U+202D>  In Grecian succour, I can neither name,
+<U+202D>  Nor give in number.  The particular fame
+<U+202D>  Of one mans slaughter yet I must not pass;
+<U+202D>  Eurypylus Telephides he was,
+<U+202D>  That fell beneath him, and with him the falls
+<U+202D>  Of such huge men went, that they showd like whales  [8]
+<U+202D>  Rampird about him.  Neoptolemus
+<U+202D>  Set him so sharply, for the sumptuous
+<U+202D>  Favours of mistresses he saw him wear;
+<U+202D>  For past all doubt his beauties had no peer
+<U+202D>  Of all that mine eyes noted, next to one,
+<U+202D>  And that was Memnon, Tithons Sun-like son.
+<U+202D>  Thus far, for fight in public, may a taste
+<U+202D>  Give of his eminence.  How far surpast
+<U+202D>  His spirit in private, where he was not seen,
+<U+202D>  Nor glory could be said to praise his spleen,
+<U+202D>  This close note I excerpted.  When we sat
+<U+202D>  Hid in Epëus horse, no optimate
+<U+202D>  Of all the Greeks there had the charge to ope
+<U+202D>  And shut the stratagem but I.  [9]  My scope
+<U+202D>  To note then each mans spirit in a strait
+<U+202D>  Of so much danger, much the better might
+<U+202D>  Be hit by me, than others, as, provokd,
+<U+202D>  I shifted place still, when, in some I smokd
+<U+202D>  Both privy tremblings, and close vent of tears,
+<U+202D>  In him yet not a soft conceit of theirs
+<U+202D>  Could all my search see, either his wet eyes
+<U+202D>  Plyd still with wipings, or the goodly guise,
+<U+202D>  His person all ways put forth, in least part,
+<U+202D>  By any tremblings, showd his touchd-at heart.
+<U+202D>  But ever he was urging me to make
+<U+202D>  Way to their sally, by his sign to shake
+<U+202D>  His sword hid in his scabbard, or his lance
+<U+202D>  Loaded with iron, at me.  No good chance
+<U+202D>  His thoughts to Troy intended.  In th event,
+<U+202D>  High Troy depopulate, he made ascent
+<U+202D>  To his fair ship, with prise and treasure store,
+<U+202D>  Safe, and no touch away with him he bore
+<U+202D>  Of far-off-hurld lance, or of close-fought sword,
+<U+202D>  Whose wounds for favours war doth oft afford,
+<U+202D>  Which he (though sought) missd in wars closest wage.
+<U+202D>  _In close fights Mars doth never fight, but rage._
+<U+202D>     This made the soul of swift Achilles tread
+<U+202D>  A march of glory through the herby mead,
+<U+202D>  For joy to hear me so renown his son;
+<U+202D>  And vanishd stalking.  But with passión
+<U+202D>  Stood th other souls struck, and each told his bane.
+<U+202D>  Only the spirit Telamonian  [10]
+<U+202D>  Kept far off, angry for the victory
+<U+202D>  I won from him at fleet; though arbitry
+<U+202D>  Of all a court of war pronouncd it mine,
+<U+202D>  And Pallas self.  Our prise were th arms divine
+<U+202D>  Of great Aacides, proposd t our fames
+<U+202D>  By his bright Mother, at his funeral games.
+<U+202D>  I wish to heavn I ought not to have won;
+<U+202D>  Since for those arms so high a head so soon
+<U+202D>  The base earth coverd, Ajax, that of all
+<U+202D>  The host of Greece had person capital,
+<U+202D>  And acts as eminent, excepting his
+<U+202D>  Whose arms those were, in whom was nought amiss.
+<U+202D>  I tried the great soul with soft words, and said:
+<U+202D>  Ajax!  Great son of Telamon, arrayd
+<U+202D>  In all our glories!  What!  not dead resign
+<U+202D>  Thy wrath for those curst arms?  The Powrs divine
+<U+202D>  In them forgd all our banes, in thine own one,
+<U+202D>  In thy grave fall our tower was overthrown.
+<U+202D>  We mourn, for ever maimd, for thee as much
+<U+202D>  As for Achilles; nor thy wrong doth touch,
+<U+202D>  In sentence, any but Saturnius doom;
+<U+202D>  In whose hate was the host of Greece become
+<U+202D>  A very horror; who expressd it well
+<U+202D>  In signing thy fate with this timeless hell.
+<U+202D>  Approach then, king of all the Grecian merit,
+<U+202D>  Repress thy great mind and thy flamy spirit,
+<U+202D>  And give the words I give thee worthy ear.
+<U+202D>     All this no word drew from him, but less near
+<U+202D>  The stern soul kept; to other souls he fled,
+<U+202D>  And glid along the river of the dead.
+<U+202D>  Though anger movd him, yet he might have spoke,
+<U+202D>  Since I to him.  But my desires were strook
+<U+202D>  With sight of other souls.  And then I saw
+<U+202D>  Minos, that ministerd to Death a law,
+<U+202D>  And Joves bright son was.  He was set, and swayd
+<U+202D>  A golden sceptre; and to him did plead
+<U+202D>  A sort of others, set about his throne,
+<U+202D>  In Plutos wide-doord house; when straight came on
+<U+202D>  Mighty Orion, who was hunting there
+<U+202D>  The herds of those beasts he had slaughterd here
+<U+202D>  In desert hills on earth.  A club he bore,
+<U+202D>  Entirely steel, whose virtues never wore.
+<U+202D>     Tityus I saw, to whom the glorious earth
+<U+202D>  Opend her womb, and gave unhappy birth.
+<U+202D>  Upwards, and flat upon the pavement, lay
+<U+202D>  His ample limbs, that spread in their display
+<U+202D>  Nine acres compass.  On his bosom sat
+<U+202D>  Two vultures, digging, through his caul of fat,
+<U+202D>  Into his liver with their crookéd beaks;
+<U+202D>  And each by turns the concrete entrail breaks
+<U+202D>  (As smiths their steel beat) set on either side.
+<U+202D>  Nor doth he ever labour to divide
+<U+202D>  His liver and their beaks, nor with his hand
+<U+202D>  Offer them off, but suffers by command
+<U+202D>  Of th angry Thundrer, offring to enforce
+<U+202D>  His love Latona, in the close recourse
+<U+202D>  She usd to Pytho through the dancing land,
+<U+202D>  Smooth Panopëus, I saw likewise stand,
+<U+202D>  Up to the chin, amidst a liquid lake,
+<U+202D>  Tormented Tantalus, yet could not slake
+<U+202D>  His burning thirst.  Oft as his scornful cup
+<U+202D>  Th old man would taste, so oft twas swallowd up,
+<U+202D>  And all the black earth to his feet descried,
+<U+202D>  Divine powr (plaguing him) the lake still dried.
+<U+202D>  About his head, on high trees, clustring, hung
+<U+202D>  Pears, apples, granates, olives ever-young,
+<U+202D>  Delicious figs, and many fruit-trees more
+<U+202D>  Of other burden; whose alluring store
+<U+202D>  When th old soul strivd to pluck, the winds from sight,
+<U+202D>  In gloomy vapours, made them vanish quite.
+<U+202D>     There saw I Sisyphus in infinite moan,
+<U+202D>  With both hands heaving up a massy stone,
+<U+202D>  And on his tip-toes racking all his height,
+<U+202D>  To wrest up to a mountain-top his freight;
+<U+202D>  When prest to rest it there, his nerves quite spent,
+<U+202D>  Down rushd the deadly quarry, the event
+<U+202D>  Of all his torture new to raise again;
+<U+202D>  To which straight set his never-rested pain.
+<U+202D>  The sweat came gushing out from evry pore
+<U+202D>  And on his head a standing mist he wore,
+<U+202D>  Reeking from thence, as if a cloud of dust
+<U+202D>  Were raisd about it.  Down with these was thrust
+<U+202D>  The idol of the force of Hercules,
+<U+202D>  But his firm self did no such fate oppress,
+<U+202D>  He feasting lives amongst th Immortal States,
+<U+202D>  White-ankled Hebe and himself made mates
+<U+202D>  In heavnly nuptials.  Hebe, Joves dear race,
+<U+202D>  And Junos whom the golden sandals grace.
+<U+202D>  About him flew the clamours of the dead
+<U+202D>  Like fowls, and still stoopd cuffing at his head.
+<U+202D>  He with his bow, like Night, stalkd up and down,
+<U+202D>  His shaft still nockd, and hurling round his frown
+<U+202D>  At those vexd hovrers, aiming at them still,
+<U+202D>  And still, as shooting out, desire to still.
+<U+202D>  A horrid bawdrick wore he thwart his breast,
+<U+202D>  The thong all-gold, in which were forms imprest,
+<U+202D>  Where art and miracle drew equal breaths,
+<U+202D>  In bears, boars, lions, battles, combats, deaths,
+<U+202D>  Who wrought that work did never such before,
+<U+202D>  Nor so divinely will do ever more.
+<U+202D>  Soon as he saw, he knew me, and gave speech:
+<U+202D>  Son of Laertes, high in wisdoms reach,
+<U+202D>  And yet unhappy wretch, for in this heart,
+<U+202D>  Of all exploits achievd by thy desert,
+<U+202D>  Thy worth but works out some sinister fate,
+<U+202D>  As I in earth did.  I was generate
+<U+202D>  By Jove himself, and yet past mean opprest
+<U+202D>  By one my far inferior, whose proud hest
+<U+202D>  Imposd abhorréd labours on my hand.
+<U+202D>  Of all which one was, to descend this strand,
+<U+202D>  And hale the dog from thence.  He could not think
+<U+202D>  An act that danger could make deeper sink.
+<U+202D>  And yet this depth I drew, and fetchd as high,
+<U+202D>  As this was low, the dog.  The Deity
+<U+202D>  Of sleight and wisdom, as of downright powr,
+<U+202D>  Both stoopd, and raisd, and made me conqueror.
+<U+202D>     This said, he made descent again as low
+<U+202D>  As Plutos court; when I stood firm, for show
+<U+202D>  Of more heroës of the times before,
+<U+202D>  And might perhaps have seen my wish of more,
+<U+202D>  (As Theseus and Pirithous, derivd
+<U+202D>  From roots of Deity) but before th achievd
+<U+202D>  Rare sight of these, the rank-sould multitude
+<U+202D>  In infinite flocks rose, venting sounds so rude,
+<U+202D>  That pale Fear took me, lest the Gorgons head
+<U+202D>  Rushd in amongst them, thrust up, in my dread,
+<U+202D>  By grim Persephoné.  I therefore sent
+<U+202D>  My men before to ship, and after went.
+<U+202D>  Where, boarded, set, and launchd, the ocean wave
+<U+202D>  Our oars and forewinds speedy passage gave.

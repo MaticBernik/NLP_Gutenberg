@@ -1,0 +1,661 @@
+<U+202D>[9] _<U+0395><U+03C1><U+1F30><U+03B7><U+03C1><U+03BF><U+03C2> <U+1F00><U+03BF><U+03B9><U+03B4><U+1F40><U+03C2>.  Cantor, cujus tam apta est societas
+<U+202D>hominibus._
+<U+202D>[10] _<U+0391><U+03BD><U+03B4><U+03C1><U+1F00><U+03C3><U+03B9><U+03BD> <U+1F00><U+03BB><U+03C6><U+03B7><U+03C3><U+03C4><U+1F94><U+03C3><U+03B9><U+03BD>.  <U+0391><U+03BB><U+03C6><U+03B7><U+03C3><U+03C4><U+1F94><U+03C3><U+03B9><U+03BD>_ is an epithet proper to
+<U+202D>poets for their first finding out of arts and documents tending to
+<U+202D>elocution and government inspired only by Jove, and are here
+<U+202D>called the first of men, since first they gave rules to manly life, and
+<U+202D>have their information immediately from Jove (as Plato in Ione
+<U+202D>witnesseth); the word deduced from _<U+1F05><U+03BB><U+03C6><U+03B1>,_ which is taken for
+<U+202D>him _qui primas teneat aliquâ in re,_ and will _<U+1F00><U+03BB><U+03C6><U+03B7><U+03C3><U+03C4><U+1FC3><U+03C3><U+03B9><U+03BD>_ then
+<U+202D>be sufficiently expressed with _ingeniosis,_ than which no
+<U+202D>exposition goes further.
+<U+202D>[11] _<U+0397><U+03C9><U+03B8><U+03B5><U+03BD>, prima luce._
+<U+202D>[12] Upon this answer of Telemachus, because it hath so sudden a
+<U+202D>change and is so far let down from his late height of heat, altering
+<U+202D>and tempering so commandingly his affections I thought not amiss
+<U+202D>to insert here Spondanus further annotations, which is this:
+<U+202D>_Prudenter Telemachus joco furorem Antinoi ac asperitatem
+<U+202D>emolliit.  Nam ita dictum illius interpretatur, ut existimetur censere
+<U+202D>jocose ilia etiam ab Antinoo adversum se pronunciata.  Et primum
+<U+202D>ironice se Regem esse exoptat propter commoda qua Reges solent
+<U+202D>comitari.  Ne tamen invidiam in se ambitionis concitet, testatur se
+<U+202D>regnum, Ithaca non ambire, mortuo Ulysse, cum id alii possidere
+<U+202D>queant se longe prastantiores ac digniores: hoc unum ait se moliri,
+<U+202D>ut propriarum adium et bonorum solus sit dominus, iis exclusis, ac
+<U+202D>ejectis, qui vi illa occupare ac disperdere conantur._
+<U+202D>  THE SECOND BOOK OF HOMERS ODYSSEYS
+<U+202D>  THE ARGUMENT
+<U+202D>  Telemachus to court doth call
+<U+202D>  The Wooers, and commands them all
+<U+202D>  To leave his house; and taking then
+<U+202D>  From wise Minerva ship and men,
+<U+202D>  And all things fit for him beside,
+<U+202D>  That Euryclea could provide
+<U+202D>  For sea-rites till he found his sire,
+<U+202D>  He hoists sail; when Heavn stoops his fire.
+<U+202D>  ANOTHER ARGUMENT
+<U+202D>  _ß<U+03B7><U+03C4><U+03B1>._
+<U+202D>     The old Maids store
+<U+202D>        The voyage cheers.
+<U+202D>     The ship leaves shore,
+<U+202D>        Minerva steers.
+<U+202D>  Now when with rosy fingers, th early born
+<U+202D>  And thrown through all the air, appeard the Morn,
+<U+202D>  Ulysses lovd son from his bed appeard,
+<U+202D>  His weeds put on, and did about him gird
+<U+202D>  His sword that thwart his shoulders hung, and tied
+<U+202D>  To his fair feet fair shoes, and all parts plied
+<U+202D>  For speedy readiness: who, when he trod
+<U+202D>  The open earth, to men showd like a God.
+<U+202D>     The heralds then he straight chargd to consort
+<U+202D>  The curld-head Greeks, with loud calls, to a Court.
+<U+202D>  They summond; th other came in utmost haste.
+<U+202D>  Who all assembled, and in one heap placd
+<U+202D>  He likewise came to council, and did bear
+<U+202D>  In his fair hand his iron-headed spear.
+<U+202D>  Nor came alone, nor with men-troops prepard,
+<U+202D>  But two fleet dogs made both his train and guard.
+<U+202D>  Pallas supplied with her high wisdoms grace,
+<U+202D>  That all mens wants supplies, States painted face.
+<U+202D>  His entring presence all men did admire;
+<U+202D>  Who took seat in the high throne of his sire,
+<U+202D>  To which the grave peers gave him revrend way.
+<U+202D>  Amongst whom, an Egyptian heroë
+<U+202D>  (Crookéd with age, and full of skill) begun
+<U+202D>  The speech to all; who had a loved son
+<U+202D>  That with divine Ulysses did ascend
+<U+202D>  His hollow fleet to Troy; to serve which end,
+<U+202D>  He kept fair horse, and was a man-at-arms,
+<U+202D>  And in the cruel Cyclops stern alarms
+<U+202D>  His life lost by him in his hollow cave,
+<U+202D>  Whose entrails opend his abhorréd grave,
+<U+202D>  And made of him, of all Ulysses train,
+<U+202D>  His latest supper, being latest slain;
+<U+202D>  His name was Antiphus, And this old man,
+<U+202D>  This crookéd-grown, this wise Egyptian,
+<U+202D>  Had three sons more; of which one riotous
+<U+202D>  A wooer was, and calld Eurynomus;
+<U+202D>  The other two took both his own wishd course.
+<U+202D>  Yet both the best fates weighd not down the worse,
+<U+202D>  But left the old man mindful still of moan;
+<U+202D>  Who, weeping, thus bespake the Session:
+<U+202D>     Hear, Ithacensians, all I fitly say:
+<U+202D>  Since our divine Ulysses parting day
+<U+202D>  Never was council calld, nor session,
+<U+202D>  And now by whom is this thus undergone?
+<U+202D>  Whom did necessity so much compell,
+<U+202D>  Of young or old?  Hath anyone heard tell
+<U+202D>  Of any coming army, that he thus now
+<U+202D>  May openly take boldness to avow,
+<U+202D>  First having heard it?  Or will any here
+<U+202D>  Some motion for the public good prefer?
+<U+202D>  Some worth of note there is in this command;
+<U+202D>  And, methinks, it must be some good mans hand
+<U+202D>  Thats put to it, that either hath direct
+<U+202D>  Means to assist, or, for his good affect,
+<U+202D>  Hopes to be happy in the proof he makes;
+<U+202D>  And that Jove grant, whateer he undertakes.
+<U+202D>     Telemachus (rejoicing much to hear
+<U+202D>  The good hope and opinion men did bear
+<U+202D>  Of his young actions) no longer sat,
+<U+202D>  But longd t approve what this man pointed at,
+<U+202D>  And make his first proof in a cause so good;
+<U+202D>  And in the councils chief place up he stood;
+<U+202D>  When straight Pisenor (herald to his sire,
+<U+202D>  And learnd in counsels) felt his heart on fire
+<U+202D>  To hear him speak, and put into his hand
+<U+202D>  The sceptre that his father did command;
+<U+202D>  Then, to the old Egyptian turnd, he spoke:
+<U+202D>     Father, not far he is that undertook
+<U+202D>  To call this Council; whom you soon shall know.
+<U+202D>  Myself, whose wrongs my griefs will make me show,
+<U+202D>  Am he that authord this assembly here.
+<U+202D>  Nor have I heard of any army near,
+<U+202D>  Of which, being first told, I might iterate,
+<U+202D>  Nor for the public good can aught relate,
+<U+202D>  Only mine own affairs all this procure,
+<U+202D>  That in my house a double ill endure;
+<U+202D>  One, having lost a father so renownd,
+<U+202D>  Whose kind rule once with your command was crownd;
+<U+202D>  The other is, what much more doth augment
+<U+202D>  His weighty loss, the ruin imminent
+<U+202D>  Of all my house by it, my goods all spent.
+<U+202D>  And of all this the wooers, that are sons
+<U+202D>  To our chief peers, are the confusións,
+<U+202D>  Importuning my mothers marriáge
+<U+202D>  Against her will; nor dares their bloods bold rage
+<U+202D>  Go to Icarius, her fathers, court,
+<U+202D>  That, his will askd in kind and comely sort,
+<U+202D>  He may endow his daughter with a dowr,
+<U+202D>  And, she consenting, at his pleasures powr
+<U+202D>  Dispose her to a man, that, thus behavd,
+<U+202D>  May have fit grace, and see her honour savd.
+<U+202D>  But these, in none but my house, all their lives
+<U+202D>  Resolve to spend; slaughtring my sheep and beeves,
+<U+202D>  And with my fattest goats lay feast on feast,
+<U+202D>  My genrous wine consuming as they list.
+<U+202D>  A world of things they spoil, here wanting one,
+<U+202D>  That, like Ulysses, quickly could set gone
+<U+202D>  These peace-plagues from his house, that spoil like war;
+<U+202D>  Whom my powrs are unfit to urge so far,
+<U+202D>  Myself immartial.  But, had I the powr,
+<U+202D>  My will should serve me to exempt this hour
+<U+202D>  From out my life-time.  For, past patience,
+<U+202D>  Base deeds are done here, that exceed defence
+<U+202D>  Of any honour.  Falling is my house,
+<U+202D>  Which you should shame to see so ruinous.
+<U+202D>  Revrence the censures that all good men give,
+<U+202D>  That dwell about you; and for fear to live
+<U+202D>  Exposd to heavns wrath (that doth ever pay
+<U+202D>  Pains for joys forfeit) even by Jove I pray,
+<U+202D>  Or Themis, both which powrs have to restrain,
+<U+202D>  Or gather, councils, that ye will abstain
+<U+202D>  From further spoil, and let me only waste
+<U+202D>  In that most wretched grief I have embracd
+<U+202D>  For my lost father.  And though I am free
+<U+202D>  From meriting your outrage, yet, if he,
+<U+202D>  Good man, hath ever with a hostile heart
+<U+202D>  Done ill to any Greek, on me convert
+<U+202D>  Your like hostility, and vengeance take
+<U+202D>  Of his ill on my life, and all these make
+<U+202D>  Join in that justice; but, to see abusd
+<U+202D>  Those goods that do none ill but being ill-usd,
+<U+202D>  Exceeds all right.  Yet better tis for me,
+<U+202D>  My whole possessions and my rents to see
+<U+202D>  Consumd by you, than lose my life and all;
+<U+202D>  For on your rapine a revenge may fall,
+<U+202D>  While I live; and so long I may complain
+<U+202D>  About the city, till my goods again,
+<U+202D>  Oft askd, may be with all amends repaid.
+<U+202D>  But in the mean space your misrule hath laid
+<U+202D>  Griefs on my bosom, that can only speak,
+<U+202D>  And are denied the instant powr of wreak.
+<U+202D>     This said, his sceptre gainst the ground he threw,
+<U+202D>  And tears stilld from him; which movd all the crew,
+<U+202D>  The court struck silent, not a man did dare
+<U+202D>  To give a word that might offend his ear.
+<U+202D>  Antinous only in this sort replied:
+<U+202D>     High spoken, and of spirit unpacified,
+<U+202D>  How have you shamd us in this speech of yours!
+<U+202D>  Will you brand us for an offence not ours?
+<U+202D>  Your mother, first in craft, is first in cause.
+<U+202D>  Three years are past, and near the fourth now draws,
+<U+202D>  Since first she mockd the peers Achaian.
+<U+202D>  All she made hope, and promisd evry man,
+<U+202D>  Sent for us ever, left loves show in nought,
+<U+202D>  But in her heart conceald another thought.
+<U+202D>  Besides, as curious in her craft, her loom
+<U+202D>  She with a web chargd, hard to overcome,
+<U+202D>  And thus bespake us: Youths, that seek my bed,
+<U+202D>  Since my divine spouse rests amongst the dead,
+<U+202D>  Hold on your suits but till I end, at most,
+<U+202D>  This funeral weed, lest what is done be lost.
+<U+202D>  Besides, I purpose, that when th austere fate
+<U+202D>  Of bitter death shall take into his state
+<U+202D>  Laertes the heroë, it shall deck
+<U+202D>  His royal corse, since I should suffer check
+<U+202D>  In ill report of evry common dame,
+<U+202D>  If one so rich should show in death his shame.
+<U+202D>  This speech she usd; and this did soon persuade
+<U+202D>  Our gentle minds.  But this a work she made
+<U+202D>  So hugely long, undoing still in night,
+<U+202D>  By torches, all she did by days broad light,
+<U+202D>  That three years her deceit divd past our view,
+<U+202D>  And made us think that all she feignd was true.
+<U+202D>  But when the fourth year came, and those sly hours
+<U+202D>  That still surprise at length dames craftiest powers,
+<U+202D>  One of her women, that knew all, disclosd
+<U+202D>  The secret to us, that she still unloosd
+<U+202D>  Her whole days fair affair in depth of night.
+<U+202D>  And then no further she could force her sleight,
+<U+202D>  But, of necessity, her work gave end.
+<U+202D>  And thus, by me, doth evry other friend,
+<U+202D>  Professing love to her, reply to thee;
+<U+202D>  That evn thyself, and all Greeks else, may see,
+<U+202D>  That we offend not in our stay, but she.
+<U+202D>  To free thy house then, send her to her sire,
+<U+202D>  Commanding that her choice be left entire
+<U+202D>  To his election, and one settled will.
+<U+202D>  Nor let her vex with her illusions still
+<U+202D>  Her friends that woo her, standing on her wit,
+<U+202D>  Because wise Pallas hath givn wills to it
+<U+202D>  So full of art, and made her understand
+<U+202D>  All works in fair skill of a ladys hand.
+<U+202D>  But (for her working mind) we read of none
+<U+202D>  Of all the old world, in which Greece hath shown
+<U+202D>  Her rarest pieces, that could equal her:
+<U+202D>  Tyro, Alcmena, and Mycena were
+<U+202D>  To hold comparison in no degree,
+<U+202D>  For solid brain, with wise Penelope.
+<U+202D>  And yet, in her delays of us, she shows
+<U+202D>  No prophets skill with all the wit she owes;
+<U+202D>  For all this time thy goods and victuals go
+<U+202D>  To utter ruin; and shall ever so,
+<U+202D>  While thus the Gods her glorious mind dispose.
+<U+202D>  Glory herself may gain, but thou shalt lose
+<U+202D>  Thy longings evn for necessary food,
+<U+202D>  For we will never go where lies our good,
+<U+202D>  Nor any other where, till this delay
+<U+202D>  She puts on all she quits with th endless stay
+<U+202D>  Of some one of us, that to all the rest
+<U+202D>  May give free farewell with his nuptial feast.
+<U+202D>     The wise young prince replied:  Antinous!
+<U+202D>  I may by no means turn out of my house
+<U+202D>  Her that hath brought me forth and nourishd me.
+<U+202D>  Besides, if quick or dead my father be
+<U+202D>  In any region, yet abides in doubt;
+<U+202D>  And twill go hard, my means being so run out,
+<U+202D>  To tender to Icarius again,
+<U+202D>  If he again my mother must maintain
+<U+202D>  In her retreat, the dowr she brought with her.
+<U+202D>  And then a double ill it will confer,
+<U+202D>  Both from my father and from God on me,
+<U+202D>  When, thrust out of her house, on her bent knee,
+<U+202D>  My mother shall the horrid Furies raise
+<U+202D>  With imprecations, and all men dispraise
+<U+202D>  My part in her exposure.  Never then
+<U+202D>  Will I perform this counsel.  If your spleen
+<U+202D>  Swell at my courses, once more I command
+<U+202D>  Your absence from my house; some others hand
+<U+202D>  Charge with your banquets; on your own goods eat,
+<U+202D>  And either other mutually in treat,
+<U+202D>  At either of your houses, with your feast.
+<U+202D>  But if ye still esteem more sweet and best
+<U+202D>  Anothers spoil, so you still wreakless live,
+<U+202D>  Gnaw, vermin-like, things sacred, no laws give  [1]
+<U+202D>  To your devouring; it remains that I
+<U+202D>  Invoke each Ever-living Deity,
+<U+202D>  And vow, if Jove shall deign in any date
+<U+202D>  Powr of like pains for pleasure so past rate,
+<U+202D>  From thenceforth look, where ye have revelld so
+<U+202D>  Unwreakd, your ruins all shall undergo.
+<U+202D>     Thus spake Telemachus; t assure whose threat,
+<U+202D>  Far-seeing Jove upon their pinions set
+<U+202D>  Two eagles from the high brows of a hill,
+<U+202D>  That, mounted on the Winds, together still
+<U+202D>  Their strokes extended; but arriving now
+<U+202D>  Amidst the Council, over evry brow
+<U+202D>  Shook their thick wings and, threatning deaths cold fears,
+<U+202D>  Their necks and cheeks tore with their eager seres;
+<U+202D>  Then, on the courts right hand away they flew,
+<U+202D>  Above both court and city.  With whose view,
+<U+202D>  And study what events they might foretell
+<U+202D>  The Council into admiration fell.
+<U+202D>  The old heroë, Halitherses, then,
+<U+202D>  The son of Nestor, that of all old men,
+<U+202D>  His peers in that court, only could foresee
+<U+202D>  By flight of fowls mans fixed destiny,
+<U+202D>  Twixt them and their amaze, this interposd:
+<U+202D>     Hear, Ithacensians, all your doubts disclosd.
+<U+202D>  The Wooers most are touchd in this ostent,
+<U+202D>  To whom are dangers great and imminent;
+<U+202D>  For now not long more shall Ulysses bear
+<U+202D>  Lack of his most lovd, but fills some place near,
+<U+202D>  Addressing to these Wooers fate and death.
+<U+202D>  And many more this mischief menaceth
+<U+202D>  Of us inhabiting this famous isle.
+<U+202D>  Let us consult yet, in this long forewhile,
+<U+202D>  How to ourselves we may prevent this ill.
+<U+202D>  Let these men rest secure, and revel still;
+<U+202D>  Though they might find it safer, if with us
+<U+202D>  They would in time prevent what threats them thus;
+<U+202D>  Since not without sure trial I foretell
+<U+202D>  These coming storms, but know their issue well.
+<U+202D>  For to Ulysses all things have event,
+<U+202D>  As I foretold him, when for Ilion went
+<U+202D>  The whole Greek fleet together, and with them
+<U+202D>  Th abundant-in-all-counsels took the stream.
+<U+202D>  I told him, that, when much ill he had past,
+<U+202D>  And all his men were lost, he should at last,
+<U+202D>  The twentieth year, turn home, to all unknown;
+<U+202D>  All which effects are to perfection grown.
+<U+202D>      Eurymachus, the son of Polybus,
+<U+202D>  Opposd this mans presage, and answerd thus:
+<U+202D>     Hence, great in years, go, prophesy at home,
+<U+202D>  Thy children teach to shun their ills to come.
+<U+202D>  In these superior far to thee am I.
+<U+202D>  A world of fowls beneath the sun-beams fly
+<U+202D>  That are not fit t inform a prophecy.
+<U+202D>  Besides, Ulysses perishd long ago;
+<U+202D>  And would thy fates to thee had destind so,
+<U+202D>  Since so thy so much prophecy had spard
+<U+202D>  Thy wronging of our rights, which, for reward
+<U+202D>  Expected home with thee, hath summond us
+<U+202D>  Within the anger of Telemachus.
+<U+202D>  But this I will presage, which shall be true:
+<U+202D>  If any spark of anger chance t ensue
+<U+202D>  Thy much old art in these deep auguries,
+<U+202D>  In this young man incenséd by thy lies,
+<U+202D>  Evn to himself his anger shall confer
+<U+202D>  The greater anguish, and thine own ends err
+<U+202D>  From all their objects; and, besides, thine age
+<U+202D>  Shall feel a pain, to make thee curse presage
+<U+202D>  With worthy cause, for it shall touch thee near.
+<U+202D>  But I will soon give end to all our fear,
+<U+202D>  Preventing whatsoever chance can fall,
+<U+202D>  In my suit to the young prince for us all,
+<U+202D>  To send his mother to her fathers house,
+<U+202D>  That he may sort her out a worthy spouse,
+<U+202D>  And such a dowr bestow, as may befit
+<U+202D>  One lovd, to leave her friends and follow it.
+<U+202D>  Before which course be, I believe that none
+<U+202D>  Of all the Greeks will cease th ambitión
+<U+202D>  Of such a match.  For, chance what can to us,
+<U+202D>  We no man fear, no not Telemachus,
+<U+202D>  Though neer so greatly spoken.  Nor care we
+<U+202D>  For any threats of austere prophecy,
+<U+202D>  Which thou, old dotard, vauntst of so in vain.
+<U+202D>  And thus shalt thou in much more hate remain;
+<U+202D>  For still the Gods shall bear their ill expense,
+<U+202D>  Nor ever be disposd by competence,
+<U+202D>  Till with her nuptials she dismiss our suits,
+<U+202D>  Our whole lives days shall sow hopes for such fruits.
+<U+202D>  Her virtues we contend to, nor will go
+<U+202D>  To any other, be she never so
+<U+202D>  Worthy of us, and all the worth we owe.
+<U+202D>     He answerd him: Eurymachus, and all
+<U+202D>  Ye genrous Wooers, now, in general,
+<U+202D>  I see your brave resolves, and will no more
+<U+202D>  Make speech of these points, and, much less, implore.
+<U+202D>  It is enough, that all the Grecians here,
+<U+202D>  And all the Gods besides, just witness bear,
+<U+202D>  What friendly premonitions have been spent
+<U+202D>  On your forbearance, and their vain event.
+<U+202D>  Yet, with my other friends, let love prevail
+<U+202D>  To fit me with a vessel free of sail,
+<U+202D>  And twenty men, that may divide to me
+<U+202D>  My ready passage through the yielding sea
+<U+202D>  For Sparta, and Amathoan Pylos shore,
+<U+202D>  I now am bound, in purpose to explore
+<U+202D>  My long-lackd father, and to try if fame
+<U+202D>  Or Jove, most author of mans honourd name,
+<U+202D>  With his return and life may glad mine ear,
+<U+202D>  Though toild in that proof I sustain a year.
+<U+202D>  If dead I hear him, nor of more state, here
+<U+202D>  Retird to my lovd country, I will rear
+<U+202D>  A sepulchre to him, and celebrate
+<U+202D>  Such royal parent-rites, as fits his state;
+<U+202D>  And then my mother to a spouse dispose.
+<U+202D>     This said, he sat; and to the rest arose
+<U+202D>  Mentor, that was Ulysses chosen friend,
+<U+202D>  To whom, when he set forth, he did commend
+<U+202D>  His cómplete family, and whom he willd
+<U+202D>  To see the mind of his old sire fulfilld,
+<U+202D>  All things conserving safe, till his retreat.
+<U+202D>  Who, tender of his charge, and seeing so set
+<U+202D>  In slight care of their king his subjects there,
+<U+202D>  Suffring his son so much contempt to bear,
+<U+202D>  Thus gravely, and with zeal, to him began:
+<U+202D>     No more let any sceptre-bearing man,
+<U+202D>  Benevolent, or mild, or human be,
+<U+202D>  Nor in his mind form acts of piety,
+<U+202D>  But ever feed on blood, and facts unjust
+<U+202D>  Commit, evn to the full swing of his lust,
+<U+202D>  Since of divine Ulysses no man now,
+<U+202D>  Of all his subjects, any thought doth show.
+<U+202D>  All whom he governd, and became to them,
+<U+202D>  Rather than one that wore a diadem,
+<U+202D>  A most indulgent father.  But, for all
+<U+202D>  That can touch me, within no envy fall
+<U+202D>  These insolent Wooers, that in violent kind
+<U+202D>  Commit things foul by th ill wit of the mind,
+<U+202D>  And with the hazard of their heads devour
+<U+202D>  Ulysses house, since his returning hour
+<U+202D>  They hold past hope.  But it affects me much,
+<U+202D>  Ye dull plebeians, that all this doth touch
+<U+202D>  Your free states nothing; who, struck dumb, afford
+<U+202D>  These Wooers not so much wreak as a word,
+<U+202D>  Though few, and you with only number might
+<U+202D>  Extinguish to them the profaned light.
+<U+202D>     Evenors son, Leocritus, replied:
+<U+202D>  Mentor!  the railer, made a fool with pride,
+<U+202D>  What language givst thou that would quiet us
+<U+202D>  With putting us in storm, exciting thus
+<U+202D>  The rout against us?  Who, though more than we,
+<U+202D>  Should find it is no easy victory
+<U+202D>  To drive men, habited in feast, from feasts,
+<U+202D>  No not if Ithacus himself such guests
+<U+202D>  Should come and find so furnishing his Court,
+<U+202D>  And hope to force them from so sweet a fort.
+<U+202D>  His wife should little joy in his arrive,
+<U+202D>  Though much she wants him; for, where she alive
+<U+202D>  Would hers enjoy, there death should claim his rights.
+<U+202D>  _He must be conquerd that with many fights._
+<U+202D>  Thou speakst unfit things.  To their labours then
+<U+202D>  Disperse these people; and let these two men,
+<U+202D>  Mentor and Halitherses, that so boast
+<U+202D>  From the beginning to have governd most
+<U+202D>  In friendship of the father, to the son
+<U+202D>  Confirm the course he now affects to run.
+<U+202D>  But my mind says, that, if he would but use
+<U+202D>  A little patience, he should here hear news
+<U+202D>  Of all things that his wish would understand,
+<U+202D>  But no good hope for of the course in hand.
+<U+202D>     This said, the Council rose; when evry peer
+<U+202D>  And all the people in dispersion were
+<U+202D>  To houses of their own; the Wooers yet
+<U+202D>  Made to Ulysses house their old retreat.
+<U+202D>     Telemachus, apart from all the prease,
+<U+202D>  Prepard to shore, and, in the aged seas
+<U+202D>  His fair hands washd, did thus to Pallas pray:
+<U+202D>  Hear me, O Goddess, that but yesterday
+<U+202D>  Didst deign access to me at home, and lay
+<U+202D>  Grave charge on me to take ship, and inquire
+<U+202D>  Along the dark seas for mine absent sire!
+<U+202D>  Which all the Greeks oppose; amongst whom most
+<U+202D>  Those that are proud still at anothers cost,
+<U+202D>  Past measure, and the civil rights of men,
+<U+202D>  My mothers Wooers, my repulse maintain.
+<U+202D>     Thus spake he praying; when close to him came
+<U+202D>  Pallas, resembling Mentor both in frame
+<U+202D>  Of voice and person, and advisd him thus:
+<U+202D>     Those Wooers well might know, Telemachus,
+<U+202D>  Thou wilt not ever weak and childish be,
+<U+202D>  If to thee be instilld the faculty
+<U+202D>  Of mind and body that thy father gracd;
+<U+202D>  And if, like him, there be in thee enchacd
+<U+202D>  Virtue to give words works, and works their end.
+<U+202D>  This voyage, that to them thou didst commend,
+<U+202D>  Shall not so quickly, as they idly ween,
+<U+202D>  Be vain, or givn up, for their opposite spleen.
+<U+202D>  But, if Ulysses nor Penelope
+<U+202D>  Were thy true parents, I then hope in thee
+<U+202D>  Of no more urging thy attempt in hand;
+<U+202D>  For few, that rightly bred on both sides stand,
+<U+202D>  Are like their parents, many that are worse,
+<U+202D>  And most few better.  Those then that the nurse
+<U+202D>  Or mother call true-born yet are not so,
+<U+202D>  Like worthy sires much less are like to grow.
+<U+202D>  But thou showst now that in thee fades not quite
+<U+202D>  Thy fathers wisdom; and that future light
+<U+202D>  Shall therefore show thee far from being unwise,
+<U+202D>  Or touchd with stain of bastard cowardice.
+<U+202D>  Hope therefore says, that thou wilt to the end
+<U+202D>  Pursue the brave act thou didst erst intend.
+<U+202D>  But for the foolish Wooers, they bewray
+<U+202D>  They neither counsel have nor soul, since they
+<U+202D>  Are neither wise nor just, and so must needs
+<U+202D>  Rest ignorant how black above their heads
+<U+202D>  Fate hovers holding Death, that one sole day
+<U+202D>  Will make enough to make them all away.
+<U+202D>  For thee, the way thou wishest shall no more
+<U+202D>  Fly thee a step; I, that have been before
+<U+202D>  Thy fathers friend, thine likewise now will be,
+<U+202D>  Provide thy ship myself, and follow thee.
+<U+202D>  Go thou then home, and sooth each Wooers vein,
+<U+202D>  But under hand fit all things for the main;
+<U+202D>  Wine in as strong and sweet casks as you can,
+<U+202D>  And meal, the very marrow of a man,
+<U+202D>  Which put in good sure leather sacks, and see
+<U+202D>  That with sweet food sweet vessels still agree.
+<U+202D>  I from the people straight will press for you
+<U+202D>  Free voluntaries; and, for ships, enow
+<U+202D>  Sea-circled Ithaca contains, both new
+<U+202D>  And old-built; all which Ill exactly view,
+<U+202D>  And choose what one soever most doth please;
+<U+202D>  Which riggd, well straight launch, and assay the seas.
+<U+202D>     This spake Joves daughter, Pallas; whose voice heard,
+<U+202D>  No more Telemachus her charge deferrd,
+<U+202D>  But hasted home, and, sad at heart, did see
+<U+202D>  Amidst his hall th insulting Wooers flea
+<U+202D>  Goats, and roast swine.  Mongst whom, Antinous
+<U+202D>  Careless, discovring in Telemachus
+<U+202D>  His grudge to see them, laughd, met, took his hand,
+<U+202D>  And said:  High-spoken, with the mind so mannd!
+<U+202D>  Come, do as we do, put not up your spirits
+<U+202D>  With these low trifles, nor our loving merits
+<U+202D>  In gall of any hateful purpose steep,
+<U+202D>  But eat egregiously, and drink as deep.
+<U+202D>  The things thou thinkst on, all at full shall be
+<U+202D>  By th Achives thought on, and performd to thee;
+<U+202D>  Ship, and choice oars, that in a trice will land
+<U+202D>  Thy hasty fleet on heavnly Pylos sand,
+<U+202D>  And at the fame of thy illustrious sire.
+<U+202D>     He answerd:  Men, whom pride did so inspire,
+<U+202D>  Are not fit consorts for an humble guest;
+<U+202D>  Nor are constraind men merry at their feast.
+<U+202D>  Is t not enough, that all this time ye have
+<U+202D>  Opd in your entrails my chief goods a grave,
+<U+202D>  And, while I was a child, made me partake?
+<U+202D>  My now more growth more grown my mind doth make,
+<U+202D>  And, hearing speak more judging men than you,
+<U+202D>  Perceive how much I was misgovernd now.
+<U+202D>  I now will try if I can bring ye home
+<U+202D>  An ill Fate to consort you; if it come
+<U+202D>  From Pylos, or amongst the people here.
+<U+202D>  But thither I resolve, and know that there
+<U+202D>  I shall not touch in vain.  Nor will I stay,
+<U+202D>  Though in a merchants ship I steer my way;
+<U+202D>  Which shows in your sights best; since me ye know
+<U+202D>  Incapable of ship, or men to row.
+<U+202D>     This said, his hand he coyly snatchd away
+<U+202D>  From forth Antinous hand.  The rest the day
+<U+202D>  Spent through the house with banquets; some with jests,
+<U+202D>  And some with railings, dignifying their feasts.
+<U+202D>  To whom a jest-proud youth the wit began:
+<U+202D>     Telemachus will kill us evry man.
+<U+202D>  From Sparta, to the very Pylian sand,
+<U+202D>  He will raise aids to his impetuous hand.
+<U+202D>  O he affects it strangely! Or he means
+<U+202D>  To search Ephyras fat shores, and from thence
+<U+202D>  Bring deathful poisons, which amongst our bowls
+<U+202D>  Will make a general shipwrack of our souls.
+<U+202D>     Another said:  Alas, who knows but he
+<U+202D>  Once gone, and erring like his sire at sea,
+<U+202D>  May perish like him, far from aid of friends,
+<U+202D>  And so he makes us work?  For all the ends
+<U+202D>  Left of his goods here we shall share, the house
+<U+202D>  Left to his mother and her chosen spouse.
+<U+202D>     Thus they; while he a room ascended, high
+<U+202D>  And large, built by his father, where did lie
+<U+202D>  Gold and brass heapd up, and in coffers were
+<U+202D>  Rich robes, great store of odorous oils, and there
+<U+202D>  Stood tuns of sweet old wines along the wall,
+<U+202D>  Neat and divine drink, kept to cheer with all
+<U+202D>  Ulysses old heart, if he turnd again
+<U+202D>  From labours fatal to him to sustain.
+<U+202D>  The doors of plank were, their close exquisite,
+<U+202D>  Kept with a double key, and day and night
+<U+202D>  A woman lockd within; and that was she
+<U+202D>  Who all trust had for her sufficiency,
+<U+202D>  Old Euryclea, one of Opis race,
+<U+202D>  Son to Pisenor, and in passing grace
+<U+202D>  With grey Minerva; her the prince did call,
+<U+202D>  And said:  Nurse! Draw me the most sweet of all
+<U+202D>  The wine thou keepst; next that which for my sire
+<U+202D>  Thy care reserves, in hope he shall retire.
+<U+202D>  Twelve vessels fill me forth, and stop them well.
+<U+202D>  Then into well-sewd sacks of fine ground meal
+<U+202D>  Pour twenty measures.  Nor, to anyone
+<U+202D>  But thee thyself, let this design be known.
+<U+202D>  All this see got together; I it all
+<U+202D>  In night will fetch off, when my mother shall
+<U+202D>  Ascend her high room, and for sleep prepare.
+<U+202D>  Sparta and Pylos I must see, in care
+<U+202D>  To find my father.  Out Euryclea cried,
+<U+202D>  And askd with tears:  Why is your mind applied.
+<U+202D>  Dear son, to this course?  Whither will you go?
+<U+202D>  So far off leave us, and belovéd so,
+<U+202D>  So only?  And the sole hope of your race?
+<U+202D>  Royal Ulysses, far from the embrace
+<U+202D>  Of his kind country, in a land unknown
+<U+202D>  Is dead; and, you from your lovd country gone,
+<U+202D>  The Wooers will with some deceit assay
+<U+202D>  To your destruction, making then their prey
+<U+202D>  Of all your goods.  Where, in your own yare strong,
+<U+202D>  Make sure abode.  It fits not you so young
+<U+202D>  To suffer so much by the aged seas,
+<U+202D>  And err in such a wayless wilderness.
+<U+202D>     Be cheerd, lovd nurse,  said he,  for, not without
+<U+202D>  The will of God, go my attempts about.
+<U+202D>  Swear therefore, not to wound my mothers ears
+<U+202D>  With word of this, before from heavn appears
+<U+202D>  Th elevnth or twelfth light, or herself shall please
+<U+202D>  To ask of me, or hears me put to seas,
+<U+202D>  Lest her fair body with her woe be wore.
+<U+202D>     To this the great oath of the Gods she swore;
+<U+202D>  Which having sworn, and of it every due
+<U+202D>  Performd to full, to vessels wine she drew,
+<U+202D>  And into well-sewd sacks pourd foody meal.
+<U+202D>  In mean time he, with cunning to conceal
+<U+202D>  All thought of this from others, himself bore
+<U+202D>  In broad house, with the Wooers, as before.
+<U+202D>     Then grey-eyed Pallas other thoughts did own,
+<U+202D>  And like Telemachus trod through the town,
+<U+202D>  Commanding all his men in th even to be
+<U+202D>  Aboard his ship.  Again then questiond she
+<U+202D>  Noënon, famd for aged Phronius son,
+<U+202D>  About his ship; who all things to be done
+<U+202D>  Assurd her freely should.  The sun then set,
+<U+202D>  And sable shadows slid through evry street,
+<U+202D>  When forth they launchd, and soon aboard did bring
+<U+202D>  All arms, and choice of evry needful thing
+<U+202D>  That fits a well-riggd ship.  The Goddess then
+<U+202D>  Stood in the ports extreme part, where her men,
+<U+202D>  Nobly appointed, thick about her came,
+<U+202D>  Whose evry breast she did with spirit enflame.
+<U+202D>  Yet still fresh projects laid the grey-eyed Dame.
+<U+202D>     Straight to the house she hasted, and sweet sleep
+<U+202D>  Pourd on each Wooer; which so laid in steep
+<U+202D>  Their drowsy temples, that each brow did nod,
+<U+202D>  As all were drinking, and each hand his load,
+<U+202D>  The cup, let fall.  All start up, and to bed,
+<U+202D>  Nor more would watch, when sleep so surfeited
+<U+202D>  Their leaden eye-lids.  Then did Pallas call
+<U+202D>  Telemachus, in body, voice, and all,
+<U+202D>  Resembling Mentor, from his native nest,
+<U+202D>  And said, that all his armd men were addrest
+<U+202D>  To use their oars, and all expected now
+<U+202D>  He should the spirit of a soldier show.
+<U+202D>  Come then,  said she,  no more let us defer
+<U+202D>  Our honourd action.  Then she took on her
+<U+202D>  A ravishd spirit, and led as she did leap;
+<U+202D>  And he her most haste took out step by step.
+<U+202D>     Arrived at sea and ship, they found ashore
+<U+202D>  The soldiers that their fashiond-long hair wore;
+<U+202D>  To whom the prince said: Come, my friends, lets bring
+<U+202D>  Our voyages provision; evry thing
+<U+202D>  Is heapd together in our court; and none,
+<U+202D>  No not my mother, nor her maids, but one
+<U+202D>  Knows our intention. This expressd, he led,
+<U+202D>  The soldiers close together followed;
+<U+202D>  And all together brought aboard their store.
+<U+202D>  Aboard the prince went; Pallas still before
+<U+202D>  Sat at the stern, he close to her, the men
+<U+202D>  Up hasted after.  He and Pallas then
+<U+202D>  Put from the shore.  His soldiers then he bad
+<U+202D>  See all their arms fit; which they heard, and had.
+<U+202D>     A beechen mast, then, in the hollow base
+<U+202D>  They put, and hoisted, fixd it in its place
+<U+202D>  With cables; and with well-wreathd halsers hoise
+<U+202D>  Their white sails, which grey Pallas now employs
+<U+202D>  With full and fore-gales through the dark deep main.
+<U+202D>  The purple waves, so swift cut, roard again
+<U+202D>  Against the ship sides, that now ran and plowd
+<U+202D>  The rugged seas up.  Then the men bestowd
+<U+202D>  Their arms about the ship, and sacrifice
+<U+202D>  With crownd wine-cups to th endless Deities
+<U+202D>  They offerd up.  Of all yet thrond above,
+<U+202D>  They most observd the grey-eyed seed of Jove;
+<U+202D>  Who, from the evening till the morning rose,
+<U+202D>  And all day long their voyage did dispose.

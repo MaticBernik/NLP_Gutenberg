@@ -1,0 +1,51 @@
+Nevertheless we must now draw attention to the fact that a theory of
+this phenomenon was given by H. A. Lorentz long before the statement
+of the theory of relativity. This theory was of a purely
+electrodynamical nature, and was obtained by the use of particular
+hypotheses as to the electromagnetic structure of matter. This
+circumstance, however, does not in the least diminish the
+conclusiveness of the experiment as a crucial test in favour of the
+theory of relativity, for the electrodynamics of Maxwell-Lorentz, on
+which the original theory was based, in no way opposes the theory of
+relativity. Rather has the latter been developed trom electrodynamics
+as an astoundingly simple combination and generalisation of the
+hypotheses, formerly independent of each other, on which
+electrodynamics was built.
+  Notes
+*) Fizeau found eq. 10 , where eq. 11
+is the index of refraction of the liquid. On the other hand, owing to
+the smallness of eq. 12 as compared with I,
+we can replace (B) in the first place by eq. 13 , or to the same order
+of approximation by
+eq. 14 , which agrees with Fizeau's result.
+THE HEURISTIC VALUE OF THE THEORY OF RELATIVITY
+Our train of thought in the foregoing pages can be epitomised in the
+following manner. Experience has led to the conviction that, on the
+one hand, the principle of relativity holds true and that on the other
+hand the velocity of transmission of light in vacuo has to be
+considered equal to a constant c. By uniting these two postulates we
+obtained the law of transformation for the rectangular co-ordinates x,
+y, z and the time t of the events which constitute the processes of
+nature. In this connection we did not obtain the Galilei
+transformation, but, differing from classical mechanics, the Lorentz
+transformation.
+The law of transmission of light, the acceptance of which is justified
+by our actual knowledge, played an important part in this process of
+thought. Once in possession of the Lorentz transformation, however, we
+can combine this with the principle of relativity, and sum up the
+theory thus:
+Every general law of nature must be so constituted that it is
+transformed into a law of exactly the same form when, instead of the
+space-time variables x, y, z, t of the original coordinate system K,
+we introduce new space-time variables x1, y1, z1, t1 of a co-ordinate
+system K1. In this connection the relation between the ordinary and
+the accented magnitudes is given by the Lorentz transformation. Or in
+brief : General laws of nature are co-variant with respect to Lorentz
+transformations.
+This is a definite mathematical condition that the theory of
+relativity demands of a natural law, and in virtue of this, the theory
+becomes a valuable heuristic aid in the search for general laws of
+nature. If a general law of nature were to be found which did not
+satisfy this condition, then at least one of the two fundamental
+assumptions of the theory would have been disproved. Let us now
+examine what general results the latter theory has hitherto evinced.

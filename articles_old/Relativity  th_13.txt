@@ -1,0 +1,51 @@
+By means of comparatively simple considerations we are led to draw the
+following conclusion from these premises, in conjunction with the
+fundamental equations of the electrodynamics of Maxwell: A body moving
+with the velocity v, which absorbs * an amount of energy E[0] in
+the form of radiation without suffering an alteration in velocity in
+the process, has, as a consequence, its energy increased by an amount
+                        eq. 19: file eq19.gif
+In consideration of the expression given above for the kinetic energy
+of the body, the required energy of the body comes out to be
+                        eq. 20: file eq20.gif
+Thus the body has the same energy as a body of mass
+                         eq.21: file eq21.gif
+moving with the velocity v. Hence we can say: If a body takes up an
+amount of energy E[0], then its inertial mass increases by an amount
+                        eq. 22: file eq22.gif
+the inertial mass of a body is not a constant but varies according to
+the change in the energy of the body. The inertial mass of a system of
+bodies can even be regarded as a measure of its energy. The law of the
+conservation of the mass of a system becomes identical with the law of
+the conservation of energy, and is only valid provided that the system
+neither takes up nor sends out energy. Writing the expression for the
+energy in the form
+                        eq. 23: file eq23.gif
+we see that the term mc^2, which has hitherto attracted our attention,
+is nothing else than the energy possessed by the body ** before it
+absorbed the energy E[0].
+A direct comparison of this relation with experiment is not possible
+at the present time (1920; see *** Note, p. 48), owing to the fact that
+the changes in energy E[0] to which we can Subject a system are not
+large enough to make themselves perceptible as a change in the
+inertial mass of the system.
+                                eq. 22: file eq22.gif
+is too small in comparison with the mass m, which was present before
+the alteration of the energy. It is owing to this circumstance that
+classical mechanics was able to establish successfully the
+conservation of mass as a law of independent validity.
+Let me add a final remark of a fundamental nature. The success of the
+Faraday-Maxwell interpretation of electromagnetic action at a distance
+resulted in physicists becoming convinced that there are no such
+things as instantaneous actions at a distance (not involving an
+intermediary medium) of the type of Newton's law of gravitation.
+According to the theory of relativity, action at a distance with the
+velocity of light always takes the place of instantaneous action at a
+distance or of action at a distance with an infinite velocity of
+transmission. This is connected with the fact that the velocity c
+plays a fundamental role in this theory. In Part II we shall see in
+what way this result becomes modified in the general theory of
+relativity.
+  Notes
+*) E[0] is the energy taken up, as judged from a co-ordinate system
+moving with the body.

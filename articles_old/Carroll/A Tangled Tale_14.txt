@@ -1,0 +1,52 @@
+"A friend of mine has a flower-garden--a very pretty one, though no
+great size--"
+"How big is it?" said Hugh.
+"That's what _you_ have to find out!" Balbus gaily replied. "All _I_
+tell you is that it is oblong in shape--just half a yard longer than its
+width--and that a gravel-walk, one yard wide, begins at one corner and
+runs all round it."
+"Joining into itself?" said Hugh.
+"_Not_ joining into itself, young man. Just before doing _that_, it
+turns a corner, and runs round the garden again, alongside of the first
+portion, and then inside that again, winding in and in, and each lap
+touching the last one, till it has used up the whole of the area."
+"Like a serpent with corners?" said Lambert.
+"Exactly so. And if you walk the whole length of it, to the last inch,
+keeping in the centre of the path, it's exactly two miles and half a
+furlong. Now, while you find out the length and breadth of the garden,
+I'll see if I can think out that sea-water puzzle."
+"You said it was a flower-garden?" Hugh inquired, as Balbus was leaving
+the room.
+"I did," said Balbus.
+"Where do the flowers grow?" said Hugh. But Balbus thought it best not
+to hear the question. He left the boys to their problem, and, in the
+silence of his own room, set himself to unravel Hugh's mechanical
+paradox.
+"To fix our thoughts," he murmured to himself, as, with hands
+deep-buried in his pockets, he paced up and down the room, "we will take
+a cylindrical glass jar, with a scale of inches marked up the side, and
+fill it with water up to the 10-inch mark: and we will assume that every
+inch depth of jar contains a pint of water. We will now take a solid
+cylinder, such that every inch of it is equal in bulk to _half_ a pint
+of water, and plunge 4 inches of it into the water, so that the end of
+the cylinder comes down to the 6-inch mark. Well, that displaces 2
+pints of water. What becomes of them? Why, if there were no more
+cylinder, they would lie comfortably on the top, and fill the jar up to
+the 12-inch mark. But unfortunately there _is_ more cylinder, occupying
+half the space between the 10-inch and the 12-inch marks, so that only
+_one_ pint of water can be accommodated there. What becomes of the other
+pint? Why, if there were no more cylinder, it would lie on the top, and
+fill the jar up to the 13-inch mark. But unfortunately----Shade of
+Newton!" he exclaimed, in sudden accents of terror. "When _does_ the
+water stop rising?"
+A bright idea struck him. "I'll write a little essay on it," he said.
+       *       *       *       *       *
+_Balbus's Essay._
+"When a solid is immersed in a liquid, it is well known that it
+displaces a portion of the liquid equal to itself in bulk, and that the
+level of the liquid rises just so much as it would rise if a quantity of
+liquid had been added to it, equal in bulk to the solid. Lardner says,
+precisely the same process occurs when a solid is _partially_ immersed:
+the quantity of liquid displaced, in this case, equalling the portion of
+the solid which is immersed, and the rise of the level being in
+proportion.

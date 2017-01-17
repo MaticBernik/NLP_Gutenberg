@@ -1,0 +1,60 @@
+  Day 1.--I, i, ii.
+      Interval.
+  Day 2.--I, iii.
+  Day 3.--II, III.
+      Interval.
+  Day 4.--IV, i.
+      Interval.
+  Day 5.--IV, ii, iii.
+      Interval.
+  Day 6.--V.
+This compression for the purposes of dramatic unity results in action
+that is swift and throbbing with human and ethical interest.
+3. _Place._ Up to the second scene of the fourth act Rome is the natural
+place of action. The second and third scenes of the fourth act are at
+Sardis in Asia Minor; the last act shifts to Philippi in Macedonia. The
+only noteworthy deviation from historical accuracy is in making the
+conference of the triumvirs take place at Rome and not at Bononia. See
+note, p. 116. But there is peculiar dramatic effectiveness in placing
+this fateful colloquy in the city that was the center of the political
+unrest of the time.
+VII. VERSIFICATION AND DICTION
+BLANK VERSE
+The characteristics of Shakespeare's blank verse--the rhymeless, iambic
+five-stress (decasyllabic) verse, or iambic pentameter, introduced into
+England by Henry Howard, Earl of Surrey, about 1540--and its proportion
+to rhyme and to prose have been much used in recent years to determine
+the chronological order of the plays and the development of the poet's
+art. In blank verse as used by Shakespeare we have really an epitome of
+the development of the measure in connection with the English drama. In
+his earlier plays the blank verse is often similar to that of
+_Gorboduc_, the first English tragedy. The tendency is to adhere to the
+syllable-counting principle, to make the line the unit, the sentence and
+phrase coinciding with the line (end-stopped verse), and to use five
+perfect iambic feet to the line. In plays of the middle period, such as
+_The Merchant of Venice_ and _As You Like It_, written between 1596 and
+1600, the blank verse is more like that of Kyd and Marlowe, with less
+monotonous regularity in the structure and an increasing tendency to
+carry on the sense from one line to another without a syntactical or
+rhetorical pause at the end of the line (run-on verse, _enjambement_).
+Redundant syllables now abound and the melody is richer and fuller. In
+Shakespeare's later plays the blank verse breaks away from all bondage
+to formal line limits, and the organic continuity is found in a
+succession of great metrical periods.
+The verse of _Julius Caesar_ is less monotonously regular than that of
+the earlier plays; it is more flexible and varied, more musical and
+sonorous, but it lacks the superb movement of the verse in _Othello_,
+_The Winter's Tale_, and _The Tempest_. End-stopped, normally regular
+iambic pentameter lines often occur (as, for instance, I, i, 37, 41, 44,
+62, 76), but everywhere are variations and deviations from the norm, and
+there is an unusual number of short lines and interjectional lines of
+two or three stresses. See Abbott's _A Shakespearian Grammar_, Sect.
+511, 512.
+RHYME
+Apart from the use of rhyme in songs, lyrics, and portions of masques
+(as in _The Tempest_, IV, i, 60-138), a progress from more to less rhyme
+is a sure index to Shakespeare's development as a dramatist and a master
+of expression. In the early _Love's Labour's Lost_ are more than one
+thousand rhyming five-stress iambic lines; in _The Tempest_ are only
+two; in _The Winter's Tale_ not one. _In Julius Caesar_ are found only
+thirty-four rhyming lines.
