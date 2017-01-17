@@ -1,0 +1,28 @@
+kako sva clanke zbirala -> download vse knjige 27ih avtorjev, ki sva jih izbrala
+
+kako sva jih razrezala -> preskocila zacetek vsake knjige
+	razrez na 20 clankov dolzine najmanj 500 besed
+	dodajala sva paragrafe, ker predstavljajo vsebinsko zakljuceno celoto
+-->
+nekaj knjig sva morala tu izlociti, saj so bile prekratke za razrez na zeljeno stevilo clankov specificeranih dolzin..
+
+dolzina textov zaradi razlike v dolzini paragrafov znotraj posameznih knjig precej variera
+zato sva morala vse atribute normalizerati (npr. pojavitve znakov deliti z nekim atributom, ki je odvisen od dolzine clanka)
+????????--> ko sva pozabila normalizerati je bil CA manjsi za ~3%
+
+po alinejah nasteti atribute, ki sva jih tvorila
+
+Odlocila sva se da bova napovedovala avtorja in pa spol
+
+ko sva napovedovala spol, so se po pomembnosti atributov (merjeno z relieff) proti vrhu seznama zacele pogosteje pojavljati besede in zaimki z. spola npr 'she'
+
+Pri confusion matrix je razvidno da je algoritem najpogosteje zamenjeval dela pisateljev Marka Twaina in London Jacka.
+--> 
+Zato sva preverila ce sta si kako podobna 
+https://wikitri.wikispaces.com/Mark+Twain+and+Jack+London+4
+oba americana, priblizno isto obdobje
+
+romanticna??
+'No writer, unless it were Mark Twain, ever had a more romantic life than Jack London.  The untimely death of this most popular of American fictionists has profoundly shocked a world that expected him to live and work for many years longer.'  ~Ernest Hopkins, San Francisco Bulletin, December 2, 1916.
+
+

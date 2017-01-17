@@ -3,15 +3,21 @@ import nltk
 from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
 from nltk.corpus.reader.plaintext import PlaintextCorpusReader
 from nltk.corpus import wordnet
+from nltk.corpus import stopwords
 from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import RegexpTokenizer
 import numpy as np
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import TfidfVectorizer
+#from nltk.tag import pos_tag, map_tag
+#from nltk.tag.simplify import simplify_wsj_tag
 import re
 #nltk.download() #<- ODKOMENTIRAJ CE POGANJAS PRVIC!
-print('***Predviden cas izvajanja je ~9min')
+
 #METODI ZA 'STOPANJE' CASA ^^
 def tic():
     #Homemade version of matlab tic and toc functions
@@ -69,6 +75,7 @@ stemmer = nltk.stem.PorterStemmer()
 punkt_param = PunktParameters()
 sentence_splitter = PunktSentenceTokenizer(punkt_param)
 toker = RegexpTokenizer(r'((?<=[^\w\s])\w(?=[^\w\s])|(\W))+', gaps=True)
+tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
 articles={}
 ##### OBDELAVA CLANKOV #####
@@ -86,15 +93,35 @@ for author in os.listdir("articles/"): #iterate trough authors
             tokens = nltk.word_tokenize(text) #tokenize text
             tokens_stemmed = [stemmer.stem(token) for token in tokens]
             tokens_stemmed_count = Counter(tokens_stemmed)
-            sentences = sentence_splitter.tokenize(text)
+            #sentences = sentence_splitter.tokenize(text)
+            sentences = tokenizer.tokenize(text)
+            sentence_structures=[]
+            for sentence in sentences:
+                sentence_tokens = nltk.word_tokenize(sentence)
+                tagged_tokens_sentence = nltk.pos_tag(sentence_tokens)
+                simplified_tagged_tokens_sentence = [(word, nltk.map_tag('en-ptb', 'universal', tag)) for word, tag in
+                                                     tagged_tokens_sentence]
+                sentence_structure = ""
+                for tag in simplified_tagged_tokens_sentence:
+                    sentence_structure += tag[1] + ' '
+                sentence_structures.append(sentence_structure)
+                sentence_structures_count = Counter(sentence_structures)
             #number_words = sum(stem_noPunctuations_count.values())
             #number_spaces = text.count(' ')
             #number_tokens_withSpaces=sum(stem_count.values())+number_spaces
             #number_sentences = len(sentences)
-            articles[article]={'author' : author,'content' : text,'words' : words_stemmed_count,'tokens' : tokens_stemmed_count,'sentences' : sentences}
+            articles[article]={'author' : author,'content' : text,'words' : words_stemmed_count,'tokens' : tokens_stemmed_count,'sentences' : sentences,'sentence structures' : sentence_structures_count}
 
 def add_dictionaries(a,b):
     return dict((n, a.get(n, 0) + b.get(n, 0)) for n in set(a) | set(b))
+
+##### IZRACUN TF-IDF VREDNOSTI BESED #####
+articles_text = [articles[x]['content'] for x in articles]
+tfidf_vectorizer = TfidfVectorizer()
+tfidf_matrix_train = tfidf_vectorizer.fit_transform(articles_text)  #finds the tfidf score with normalization
+#print(tfidf_matrix_train)
+words_cosine_scores = cosine_similarity(tfidf_matrix_train[0:1], tfidf_matrix_train)
+#print ("cosine scores ==> ",words_cosine_scores)  #here the first element of tfidf_matrix_train is matched with other three elements
 
 
 ##### GLOBALNA OBDELAVA CLANKOV #####
@@ -126,8 +153,21 @@ global_words_stemmed_count=Counter(global_words_stemmed)
 global_tokens=nltk.word_tokenize(global_text)
 global_tokens_stemmed=[stemmer.stem(token) for token in global_tokens]
 global_tokens_stemmed_count=Counter(global_tokens_stemmed)
-global_sentences = sentence_splitter.tokenize(global_text)
-global_najpogostejse_besede=global_words_stemmed_count.most_common(50)
+#global_sentences = sentence_splitter.tokenize(global_text)
+global_sentences = tokenizer.tokenize(global_text)
+global_najpogostejse_besede=global_words_stemmed_count.most_common(100)
+
+global_sentence_structures=[]
+for sentence in global_sentences:
+    sentence_tokens = nltk.word_tokenize(sentence)
+    tagged_tokens_sentence = nltk.pos_tag(sentence_tokens)
+    simplified_tagged_tokens_sentence = [(word, nltk.map_tag('en-ptb', 'universal', tag)) for word,tag in tagged_tokens_sentence]
+    sentence_structure=""
+    for tag in simplified_tagged_tokens_sentence:
+        sentence_structure+=tag[1]+' '
+    global_sentence_structures.append(sentence_structure)
+global_sentence_structures_count = Counter(global_sentence_structures)
+global_najpogostejse_stavcne_strukture = global_sentence_structures_count.most_common(50)
 
 #print(global_words)
 #print(len(global_words))
@@ -196,8 +236,14 @@ for article in articles:
         else:
             record+="0\t"
 
-
-
+    #FREKVENCE GLOBALNO NAJPOGOSTEJSIH STAVCNIH SESTAV V BESEDILU
+    for structure in global_najpogostejse_stavcne_strukture:
+        if sestaviHeader:
+            header+='%\"'+structure[0]+'\"\t'
+        if structure[0] in values['sentence structures'].elements():
+            record+=str(values['sentence structures'][structure[0]] / number_sentences)+'\t'
+        else:
+            record+="0\t"
 
     ##### IZPIS V DATOTEKO #####
     if sestaviHeader:
@@ -215,7 +261,7 @@ print("***Zacetek vizualizacije")
 tic()
 
 #Stolpicni diagram najpogostejsih besed  in njihovih frekvenc v corpusu
-global_najpogostejse_besede_tuples=[global_words_stemmed_count[x] for x in global_najpogostejse_besede]
+global_najpogostejse_besede_tuples=[global_words_stemmed_count[x] for x in global_najpogostejse_besede if x not in stopwords.words('english')]
 labels, values = zip(*global_najpogostejse_besede)
 indexes = np.arange(len(labels))
 width = 1
@@ -244,3 +290,7 @@ plt.show()
 toc()
 
 #Wordcloud najpomembnejsih besed v corpusu glede na tf-idf index
+
+#hierarhicno grucenje besed
+
+#hierarhicno grucenje dokumentov
