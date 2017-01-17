@@ -25,7 +25,9 @@ def toc():
         print ("Toc: start time not set")
 
 
-projectDir = "/home/matic/Dropbox/Inteligentni Sistemi/Assigment2/"
+#projectDir = "/home/matic/Dropbox/Inteligentni Sistemi/Assigment2/"
+projectDir = "C:/Users/Robert/Desktop/IS_local/NLP_Gutenberg/"
+
 os.chdir(projectDir)
 #Atributi izpeljani iz stevila pojavitev znakov znotraj dokumenta so pretvorjeni v frekvence znotraj istega dokumenta
 #---> nacin normalizacije zaradi neenakomerne dolzine clankov
@@ -184,7 +186,12 @@ for article in articles:
     record += str(nChars / number_sentences)+'\t'
 
     #FREKVENCE GLOBALNO NAJPOGOSTEJSIH BESED V BESEDILU
+<<<<<<< HEAD
     for word in global_najpogostejse_besede:
+=======
+    najpogostejse_besede=global_words_stemmed_count.most_common(100) #premakni iz zanke za pohitritev?
+    for word in najpogostejse_besede:
+>>>>>>> 4e2448ebede6d72980dbcb72eaab2584d1541f96
         if sestaviHeader:
             header+='%\"'+word[0].replace("\n", "\\n").replace("\t", "\\t")+'\"\t'
         if word[0] in values['words'].elements():
