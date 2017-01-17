@@ -8,6 +8,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import RegexpTokenizer
 import numpy as np
 import matplotlib.pyplot as plt
+from wordcloud import WordCloud
+import re
 #nltk.download() #<- ODKOMENTIRAJ CE POGANJAS PRVIC!
 print('***Predviden cas izvajanja je ~9min')
 #METODI ZA 'STOPANJE' CASA ^^
@@ -209,11 +211,36 @@ toc()
 
 
 ##### VIZUALIZACIJA #####
+print("***Zacetek vizualizacije")
+tic()
 
 #Stolpicni diagram najpogostejsih besed  in njihovih frekvenc v corpusu
-#labels, values = zip(*global_najpogostejse_besede.items())
-#indexes = np.arange(len(labels))
-#width = 1
-#plt.bar(indexes, values, width)
-#plt.xticks(indexes + width * 0.5, labels)
-#plt.show()
+global_najpogostejse_besede_tuples=[global_words_stemmed_count[x] for x in global_najpogostejse_besede]
+labels, values = zip(*global_najpogostejse_besede)
+indexes = np.arange(len(labels))
+width = 1
+plt.bar(indexes, values, width)
+plt.xticks(indexes + width * 0.5, labels)
+plt.show()
+
+#Wordcloud najpogostejsih besed v corpusu
+# Generate a word cloud image
+global_text_filtered = global_text.replace('202d',' ')
+
+wordcloud = WordCloud().generate(global_text_filtered)
+# Display the generated image:
+# the matplotlib way:
+import matplotlib.pyplot as plt
+plt.imshow(wordcloud)
+plt.axis("off")
+# lower max_font_size
+wordcloud = WordCloud(max_font_size=40).generate(global_text_filtered)
+plt.figure()
+plt.imshow(wordcloud)
+plt.axis("off")
+plt.show()
+
+
+toc()
+
+#Wordcloud najpomembnejsih besed v corpusu glede na tf-idf index
