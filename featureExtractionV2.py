@@ -167,7 +167,7 @@ for sentence in global_sentences:
         sentence_structure+=tag[1]+' '
     global_sentence_structures.append(sentence_structure)
 global_sentence_structures_count = Counter(global_sentence_structures)
-global_najpogostejse_stavcne_strukture = global_sentence_structures_count.most_common(50)
+global_najpogostejse_stavcne_strukture = global_sentence_structures_count.most_common(20)
 
 #print(global_words)
 #print(len(global_words))
